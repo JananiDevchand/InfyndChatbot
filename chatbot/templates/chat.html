@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Business Chatbot</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+<div class="container-fluid h-100">
+    <div class="row justify-content-center h-100">		
+        <div class="col-md-8 col-xl-6 chat">
+            <div class="card">
+                <div class="card-header msg_head">
+                    <div class="d-flex bd-highlight">
+                        <div class="img_cont">
+                            <img src="{{ url_for('static', filename='icons8-pet-care-64.png') }}" class="rounded-circle user_img">
+                            <span class="online_icon"></span>
+                        </div>
+                        <div class="user_info">
+                            <span>Business Chatbot</span>
+                            <p>Ask your company-related questions</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="messageFormeight" class="card-body msg_card_body" style="overflow-y:auto; max-height:500px;"></div>
+
+                <div class="card-footer">
+                    <form id="messageArea" class="input-group">
+                        <input type="text" id="text" name="msg" placeholder="Type your message..." autocomplete="off" class="form-control type_msg" required/>
+                        <div class="input-group-append">
+                            <button type="submit" id="send" class="input-group-text send_btn">
+                                <i class="fas fa-location-arrow"></i>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+$(document).ready(function() {
+    $("#messageArea").on("submit", function(event) {
+        event.preventDefault();
+
+        const date = new Date();
+        const time = date.getHours().toString().padStart(2,'0') + ":" + date.getMinutes().toString().padStart(2,'0');
+        const userMessage = $("#text").val().trim();
+        if (!userMessage) return;
+
+        // Display user message
+        const userHtml = `
+            <div class="d-flex justify-content-end mb-4">
+                <div class="msg_cotainer_send">${userMessage}
+                    <span class="msg_time_send">${time}</span>
+                </div>
+            </div>`;
+        $("#text").val("");
+        $("#messageFormeight").append(userHtml);
+
+        // Send message to backend
+        $.ajax({
+            url: "/get",
+            type: "POST",
+            data: { msg: userMessage },
+            success: function(data) {
+                const summary = data.summary || "No summary generated.";
+                const validatedOutput = data.validated_output || {};
+                const elasticQuery = data.elasticsearch_query || {};
+
+                const formattedValidated = JSON.stringify(validatedOutput, null, 2);
+                const formattedElastic = JSON.stringify(elasticQuery, null, 2);
+
+                // Create collapsible bot response
+                const idSuffix = time.replace(':', '') + Math.floor(Math.random() * 1000);
+                const botHtml = `
+                    <div class="d-flex justify-content-start mb-4">
+                        <div class="msg_cotainer">
+                            <b>Summary:</b> ${summary}
+                            <br><br>
+                            <button class="btn btn-sm btn-outline-secondary mb-2" 
+                                data-toggle="collapse" 
+                                data-target="#validated${idSuffix}">
+                                Show Validated Output
+                            </button>
+                            <div id="validated${idSuffix}" class="collapse mt-2">
+                                <pre style="background:#f8f9fa; padding:10px; border-radius:5px; max-height:250px; overflow:auto;">
+${formattedValidated}
+                                </pre>
+                            </div>
+
+                            <button class="btn btn-sm btn-outline-primary mb-2" 
+                                data-toggle="collapse" 
+                                data-target="#elastic${idSuffix}">
+                                Show Elasticsearch Query
+                            </button>
+                            <div id="elastic${idSuffix}" class="collapse mt-2">
+                                <pre style="background:#eef6ff; padding:10px; border-radius:5px; max-height:250px; overflow:auto;">
+${formattedElastic}
+                                </pre>
+                            </div>
+
+                            <span class="msg_time">${time}</span>
+                        </div>
+                    </div>`;
+
+                $("#messageFormeight").append(botHtml);
+                $("#messageFormeight").animate({ scrollTop: $("#messageFormeight")[0].scrollHeight }, 300);
+            },
+            error: function() {
+                const errorHtml = `
+                    <div class="d-flex justify-content-start mb-4">
+                        <div class="msg_cotainer" style="background:#f8d7da; color:#721c24;">
+                            Error: Unable to get response from server.
+                        </div>
+                    </div>`;
+                $("#messageFormeight").append(errorHtml);
+            }
+        });
+    });
+});
+</script>
+</body>
+</html>

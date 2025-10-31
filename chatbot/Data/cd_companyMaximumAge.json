@@ -1,0 +1,30 @@
+[
+  {
+    "value": "0-1_year",
+    "label": "0-1 year"
+  },
+  {
+    "value": "2-5_year",
+    "label": "2-5 year"
+  },
+  {
+    "value": "5-10_year",
+    "label": "5-10 year"
+  },
+  {
+    "value": "11-20_year",
+    "label": "11-20 year"
+  },
+  {
+    "value": "20-50_year",
+    "label": "20-50 year"
+  },
+  {
+    "value": "51-100_year",
+    "label": "51-100 year"
+  },
+  {
+    "value": "100_years",
+    "label": "100 years+"
+  }
+]

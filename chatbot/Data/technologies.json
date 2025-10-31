@@ -1,0 +1,7802 @@
+[
+  {
+    "value": "net_framework_core",
+    "label": ".NET Framework/Core"
+  },
+  {
+    "value": "abstraction",
+    "label": "Abstraction"
+  },
+  {
+    "value": "acronis",
+    "label": "Acronis"
+  },
+  {
+    "value": "activemq",
+    "label": "ActiveMQ"
+  },
+  {
+    "value": "activerecord",
+    "label": "ActiveRecord"
+  },
+  {
+    "value": "activerecord_orm_for_rails",
+    "label": "ActiveRecord (ORM for Rails)"
+  },
+  {
+    "value": "add_ons_for_other_databases",
+    "label": "Add-ons for other databases"
+  },
+  {
+    "value": "adobe_xd",
+    "label": "Adobe XD"
+  },
+  {
+    "value": "aggregation_tables",
+    "label": "Aggregation Tables"
+  },
+  {
+    "value": "aha",
+    "label": "Aha!"
+  },
+  {
+    "value": "ahsay",
+    "label": "Ahsay"
+  },
+  {
+    "value": "ai_platform",
+    "label": "AI Platform"
+  },
+  {
+    "value": "airbrake",
+    "label": "Airbrake"
+  },
+  {
+    "value": "airbyte",
+    "label": "Airbyte"
+  },
+  {
+    "value": "airfocus",
+    "label": "airfocus"
+  },
+  {
+    "value": "ajax_asynchronous_javascript_and_xml",
+    "label": "AJAX (Asynchronous JavaScript and XML)"
+  },
+  {
+    "value": "akita",
+    "label": "Akita"
+  },
+  {
+    "value": "aks",
+    "label": "AKS"
+  },
+  {
+    "value": "alembic",
+    "label": "Alembic"
+  },
+  {
+    "value": "alerta",
+    "label": "Alerta"
+  },
+  {
+    "value": "alibaba_cloud",
+    "label": "Alibaba Cloud"
+  },
+  {
+    "value": "alibaba_cloud_apsara_stack",
+    "label": "Alibaba Cloud Apsara Stack"
+  },
+  {
+    "value": "alibaba_cloud_devops",
+    "label": "Alibaba Cloud DevOps"
+  },
+  {
+    "value": "alloy_navigator",
+    "label": "Alloy Navigator"
+  },
+  {
+    "value": "alteryx",
+    "label": "Alteryx"
+  },
+  {
+    "value": "amazon_aurora",
+    "label": "Amazon Aurora"
+  },
+  {
+    "value": "amazon_dynamodb",
+    "label": "Amazon DynamoDB"
+  },
+  {
+    "value": "amazon_ecs_anywhere",
+    "label": "Amazon ECS Anywhere"
+  },
+  {
+    "value": "amazon_rds",
+    "label": "Amazon RDS"
+  },
+  {
+    "value": "amazon_redshift",
+    "label": "Amazon Redshift"
+  },
+  {
+    "value": "amplify",
+    "label": "Amplify"
+  },
+  {
+    "value": "amplitude",
+    "label": "Amplitude"
+  },
+  {
+    "value": "android_studio",
+    "label": "Android Studio"
+  },
+  {
+    "value": "angular",
+    "label": "Angular"
+  },
+  {
+    "value": "ansible",
+    "label": "Ansible"
+  },
+  {
+    "value": "ansible_tower",
+    "label": "Ansible Tower"
+  },
+  {
+    "value": "ant_design",
+    "label": "Ant Design"
+  },
+  {
+    "value": "anti_ddos_protection",
+    "label": "Anti-DDoS Protection"
+  },
+  {
+    "value": "apache_activemq",
+    "label": "Apache ActiveMQ"
+  },
+  {
+    "value": "apache_airflow",
+    "label": "Apache Airflow"
+  },
+  {
+    "value": "apache_beam",
+    "label": "Apache Beam"
+  },
+  {
+    "value": "apache_cassandra",
+    "label": "Apache Cassandra"
+  },
+  {
+    "value": "apache_cayenne",
+    "label": "Apache Cayenne"
+  },
+  {
+    "value": "apache_cloudstack",
+    "label": "Apache CloudStack"
+  },
+  {
+    "value": "apache_flink",
+    "label": "Apache Flink"
+  },
+  {
+    "value": "apache_hbase",
+    "label": "Apache HBase"
+  },
+  {
+    "value": "apache_kafka",
+    "label": "Apache Kafka"
+  },
+  {
+    "value": "apache_mesos",
+    "label": "Apache Mesos"
+  },
+  {
+    "value": "apache_mxnet",
+    "label": "Apache MXNet"
+  },
+  {
+    "value": "apache_nifi",
+    "label": "Apache Nifi"
+  },
+  {
+    "value": "apache_spark",
+    "label": "Apache Spark"
+  },
+  {
+    "value": "apache_storm",
+    "label": "Apache Storm"
+  },
+  {
+    "value": "apache_struts",
+    "label": "Apache Struts"
+  },
+  {
+    "value": "apex_programming_language",
+    "label": "Apex (Programming Language)"
+  },
+  {
+    "value": "api_gateway",
+    "label": "API Gateway"
+  },
+  {
+    "value": "api_integration",
+    "label": "API Integration"
+  },
+  {
+    "value": "apollo",
+    "label": "Apollo"
+  },
+  {
+    "value": "apollo_client",
+    "label": "Apollo Client"
+  },
+  {
+    "value": "app_engine",
+    "label": "App Engine"
+  },
+  {
+    "value": "app_engine_platform_as_a_service",
+    "label": "App Engine (Platform-as-a-Service)"
+  },
+  {
+    "value": "app_platform",
+    "label": "App Platform"
+  },
+  {
+    "value": "app_platform_platform_as_a_service",
+    "label": "App Platform (Platform-as-a-Service)"
+  },
+  {
+    "value": "appcode",
+    "label": "AppCode"
+  },
+  {
+    "value": "appcues",
+    "label": "Appcues"
+  },
+  {
+    "value": "appdynamics",
+    "label": "AppDynamics"
+  },
+  {
+    "value": "appdynamics_apm",
+    "label": "AppDynamics APM"
+  },
+  {
+    "value": "appsee",
+    "label": "Appsee"
+  },
+  {
+    "value": "appsync",
+    "label": "AppSync"
+  },
+  {
+    "value": "apsaradb_rds_relational_database_service",
+    "label": "ApsaraDB RDS (Relational Database Service)"
+  },
+  {
+    "value": "apscheduler",
+    "label": "APScheduler"
+  },
+  {
+    "value": "aptible",
+    "label": "Aptible"
+  },
+  {
+    "value": "arangodb",
+    "label": "ArangoDB"
+  },
+  {
+    "value": "arcgis",
+    "label": "ArcGIS"
+  },
+  {
+    "value": "archive_storage",
+    "label": "Archive Storage"
+  },
+  {
+    "value": "argocd",
+    "label": "ArgoCD"
+  },
+  {
+    "value": "artifact_registry",
+    "label": "Artifact Registry"
+  },
+  {
+    "value": "asana",
+    "label": "Asana"
+  },
+  {
+    "value": "asp_net",
+    "label": "ASP.NET"
+  },
+  {
+    "value": "asp_net_web_framework",
+    "label": "ASP.NET (Web Framework)"
+  },
+  {
+    "value": "asp_net_core",
+    "label": "ASP.NET Core"
+  },
+  {
+    "value": "asynchronous_programming_async_await",
+    "label": "Asynchronous Programming (async/await)"
+  },
+  {
+    "value": "asyncio_asynchronous_programming",
+    "label": "Asyncio (Asynchronous Programming)"
+  },
+  {
+    "value": "athena_interactive_query_service",
+    "label": "Athena (Interactive Query Service)"
+  },
+  {
+    "value": "atom",
+    "label": "Atom"
+  },
+  {
+    "value": "aurora_managed_sql_database",
+    "label": "Aurora (Managed SQL Database)"
+  },
+  {
+    "value": "autoai",
+    "label": "AutoAI"
+  },
+  {
+    "value": "automl",
+    "label": "AutoML"
+  },
+  {
+    "value": "aws",
+    "label": "AWS"
+  },
+  {
+    "value": "aws_amazon_web_services",
+    "label": "AWS (Amazon Web Services)"
+  },
+  {
+    "value": "aws_app_runner",
+    "label": "AWS App Runner"
+  },
+  {
+    "value": "aws_cloud",
+    "label": "AWS Cloud"
+  },
+  {
+    "value": "aws_cloudformation",
+    "label": "AWS CloudFormation"
+  },
+  {
+    "value": "aws_cloudwatch",
+    "label": "AWS CloudWatch"
+  },
+  {
+    "value": "aws_codebuild",
+    "label": "AWS CodeBuild"
+  },
+  {
+    "value": "aws_codecommit",
+    "label": "AWS CodeCommit"
+  },
+  {
+    "value": "aws_codepipeline",
+    "label": "AWS CodePipeline"
+  },
+  {
+    "value": "aws_config",
+    "label": "AWS Config"
+  },
+  {
+    "value": "aws_glue",
+    "label": "AWS Glue"
+  },
+  {
+    "value": "aws_lambda",
+    "label": "AWS Lambda"
+  },
+  {
+    "value": "aws_organizations",
+    "label": "AWS Organizations"
+  },
+  {
+    "value": "aws_outposts",
+    "label": "AWS Outposts"
+  },
+  {
+    "value": "aws_sam_serverless_application_model",
+    "label": "AWS SAM (Serverless Application Model)"
+  },
+  {
+    "value": "aws_step_functions",
+    "label": "AWS Step Functions"
+  },
+  {
+    "value": "aws_x_ray",
+    "label": "AWS X-Ray"
+  },
+  {
+    "value": "axios_assyst",
+    "label": "Axios Assyst"
+  },
+  {
+    "value": "axure_rp",
+    "label": "Axure RP"
+  },
+  {
+    "value": "ayoa",
+    "label": "Ayoa"
+  },
+  {
+    "value": "azure_ad_access_reviews",
+    "label": "Azure AD Access Reviews"
+  },
+  {
+    "value": "azure_ad_application_proxy",
+    "label": "Azure AD Application Proxy"
+  },
+  {
+    "value": "azure_ad_authentication_methods",
+    "label": "Azure AD Authentication Methods"
+  },
+  {
+    "value": "azure_ad_b2c_custom_policies",
+    "label": "Azure AD B2C Custom Policies"
+  },
+  {
+    "value": "azure_ad_conditional_access",
+    "label": "Azure AD Conditional Access"
+  },
+  {
+    "value": "azure_ad_conditional_access_policies",
+    "label": "Azure AD Conditional Access Policies"
+  },
+  {
+    "value": "azure_ad_connect_health",
+    "label": "Azure AD Connect Health"
+  },
+  {
+    "value": "azure_ad_device_management",
+    "label": "Azure AD Device Management"
+  },
+  {
+    "value": "azure_ad_external_identities",
+    "label": "Azure AD External Identities"
+  },
+  {
+    "value": "azure_ad_hybrid_join",
+    "label": "Azure AD Hybrid Join"
+  },
+  {
+    "value": "azure_ad_identity_governance",
+    "label": "Azure AD Identity Governance"
+  },
+  {
+    "value": "azure_ad_identity_protection_risk_policies",
+    "label": "Azure AD Identity Protection Risk Policies"
+  },
+  {
+    "value": "azure_ad_managed_service_identity",
+    "label": "Azure AD Managed Service Identity"
+  },
+  {
+    "value": "azure_ad_passwordless_authentication",
+    "label": "Azure AD Passwordless Authentication"
+  },
+  {
+    "value": "azure_ad_pim_privileged_identity_management",
+    "label": "Azure AD PIM (Privileged Identity Management)"
+  },
+  {
+    "value": "azure_ad_privileged_identity_management",
+    "label": "Azure AD Privileged Identity Management"
+  },
+  {
+    "value": "azure_ad_roles_and_administrators",
+    "label": "Azure AD Roles and Administrators"
+  },
+  {
+    "value": "azure_ad_seamless_sso",
+    "label": "Azure AD Seamless SSO"
+  },
+  {
+    "value": "azure_ad_self_service_group_management",
+    "label": "Azure AD Self-Service Group Management"
+  },
+  {
+    "value": "azure_ad_self_service_password_reset",
+    "label": "Azure AD Self-Service Password Reset"
+  },
+  {
+    "value": "azure_ad_service_principal",
+    "label": "Azure AD Service Principal"
+  },
+  {
+    "value": "azure_ad_single_sign_on",
+    "label": "Azure AD Single Sign-On"
+  },
+  {
+    "value": "azure_ad_user_flows",
+    "label": "Azure AD User Flows"
+  },
+  {
+    "value": "azure_ad_user_provisioning",
+    "label": "Azure AD User Provisioning"
+  },
+  {
+    "value": "azure_advanced_threat_protection_atp",
+    "label": "Azure Advanced Threat Protection (ATP)"
+  },
+  {
+    "value": "azure_api_apps",
+    "label": "Azure API Apps"
+  },
+  {
+    "value": "azure_api_apps_authentication",
+    "label": "Azure API Apps Authentication"
+  },
+  {
+    "value": "azure_api_apps_ci_cd",
+    "label": "Azure API Apps CI/CD"
+  },
+  {
+    "value": "azure_api_apps_configuration",
+    "label": "Azure API Apps Configuration"
+  },
+  {
+    "value": "azure_api_apps_hosting",
+    "label": "Azure API Apps Hosting"
+  },
+  {
+    "value": "azure_api_apps_monitoring",
+    "label": "Azure API Apps Monitoring"
+  },
+  {
+    "value": "azure_api_apps_scaling",
+    "label": "Azure API Apps Scaling"
+  },
+  {
+    "value": "azure_api_apps_security",
+    "label": "Azure API Apps Security"
+  },
+  {
+    "value": "azure_api_management_api_gateway",
+    "label": "Azure API Management API Gateway"
+  },
+  {
+    "value": "azure_api_management_authentication",
+    "label": "Azure API Management Authentication"
+  },
+  {
+    "value": "azure_api_management_developer_portal",
+    "label": "Azure API Management Developer Portal"
+  },
+  {
+    "value": "azure_api_management_monitoring",
+    "label": "Azure API Management Monitoring"
+  },
+  {
+    "value": "azure_api_management_policies",
+    "label": "Azure API Management Policies"
+  },
+  {
+    "value": "azure_api_management_products",
+    "label": "Azure API Management Products"
+  },
+  {
+    "value": "azure_api_management_scaling",
+    "label": "Azure API Management Scaling"
+  },
+  {
+    "value": "azure_api_management_security",
+    "label": "Azure API Management Security"
+  },
+  {
+    "value": "azure_api_management_usage",
+    "label": "Azure API Management Usage"
+  },
+  {
+    "value": "azure_api_management_versioning",
+    "label": "Azure API Management Versioning"
+  },
+  {
+    "value": "azure_api_management_versions",
+    "label": "Azure API Management Versions"
+  },
+  {
+    "value": "azure_app_service",
+    "label": "Azure App Service"
+  },
+  {
+    "value": "azure_application_gateway_autoscaling",
+    "label": "Azure Application Gateway Autoscaling"
+  },
+  {
+    "value": "azure_application_gateway_configuration",
+    "label": "Azure Application Gateway Configuration"
+  },
+  {
+    "value": "azure_application_gateway_diagnostics",
+    "label": "Azure Application Gateway Diagnostics"
+  },
+  {
+    "value": "azure_application_gateway_health_probes",
+    "label": "Azure Application Gateway Health Probes"
+  },
+  {
+    "value": "azure_application_gateway_monitoring",
+    "label": "Azure Application Gateway Monitoring"
+  },
+  {
+    "value": "azure_application_gateway_pricing",
+    "label": "Azure Application Gateway Pricing"
+  },
+  {
+    "value": "azure_application_gateway_security",
+    "label": "Azure Application Gateway Security"
+  },
+  {
+    "value": "azure_application_gateway_ssl_termination",
+    "label": "Azure Application Gateway SSL Termination"
+  },
+  {
+    "value": "azure_application_gateway_url_path_based_routing",
+    "label": "Azure Application Gateway URL Path-based Routing"
+  },
+  {
+    "value": "azure_application_insights",
+    "label": "Azure Application Insights"
+  },
+  {
+    "value": "azure_application_insights_alerts",
+    "label": "Azure Application Insights Alerts"
+  },
+  {
+    "value": "azure_application_insights_analytics",
+    "label": "Azure Application Insights Analytics"
+  },
+  {
+    "value": "azure_application_insights_availability_testing",
+    "label": "Azure Application Insights Availability Testing"
+  },
+  {
+    "value": "azure_application_insights_configuration",
+    "label": "Azure Application Insights Configuration"
+  },
+  {
+    "value": "azure_application_insights_live_metrics",
+    "label": "Azure Application Insights Live Metrics"
+  },
+  {
+    "value": "azure_application_insights_monitoring",
+    "label": "Azure Application Insights Monitoring"
+  },
+  {
+    "value": "azure_application_insights_performance",
+    "label": "Azure Application Insights Performance"
+  },
+  {
+    "value": "azure_application_insights_performance_monitoring",
+    "label": "Azure Application Insights Performance Monitoring"
+  },
+  {
+    "value": "azure_application_insights_security",
+    "label": "Azure Application Insights Security"
+  },
+  {
+    "value": "azure_application_insights_telemetry",
+    "label": "Azure Application Insights Telemetry"
+  },
+  {
+    "value": "azure_arc",
+    "label": "Azure Arc"
+  },
+  {
+    "value": "azure_arc_aks",
+    "label": "Azure Arc AKS"
+  },
+  {
+    "value": "azure_arc_azure_policy",
+    "label": "Azure Arc Azure Policy"
+  },
+  {
+    "value": "azure_arc_configuration",
+    "label": "Azure Arc Configuration"
+  },
+  {
+    "value": "azure_arc_data_services",
+    "label": "Azure Arc Data Services"
+  },
+  {
+    "value": "azure_arc_kubernetes",
+    "label": "Azure Arc Kubernetes"
+  },
+  {
+    "value": "azure_arc_management",
+    "label": "Azure Arc Management"
+  },
+  {
+    "value": "azure_arc_monitoring",
+    "label": "Azure Arc Monitoring"
+  },
+  {
+    "value": "azure_arc_security",
+    "label": "Azure Arc Security"
+  },
+  {
+    "value": "azure_arc_servers",
+    "label": "Azure Arc Servers"
+  },
+  {
+    "value": "azure_arc_vm_extensions",
+    "label": "Azure Arc VM Extensions"
+  },
+  {
+    "value": "azure_artifacts",
+    "label": "Azure Artifacts"
+  },
+  {
+    "value": "azure_automation_account",
+    "label": "Azure Automation Account"
+  },
+  {
+    "value": "azure_automation_account_management",
+    "label": "Azure Automation Account Management"
+  },
+  {
+    "value": "azure_automation_dsc",
+    "label": "Azure Automation DSC"
+  },
+  {
+    "value": "azure_automation_dsc_desired_state_configuration",
+    "label": "Azure Automation DSC (Desired State Configuration)"
+  },
+  {
+    "value": "azure_automation_hybrid_worker",
+    "label": "Azure Automation Hybrid Worker"
+  },
+  {
+    "value": "azure_automation_process_automation",
+    "label": "Azure Automation Process Automation"
+  },
+  {
+    "value": "azure_automation_runbooks",
+    "label": "Azure Automation Runbooks"
+  },
+  {
+    "value": "azure_automation_state_configuration",
+    "label": "Azure Automation State Configuration"
+  },
+  {
+    "value": "azure_automation_task_scheduler",
+    "label": "Azure Automation Task Scheduler"
+  },
+  {
+    "value": "azure_automation_update_management",
+    "label": "Azure Automation Update Management"
+  },
+  {
+    "value": "azure_backup_policies",
+    "label": "Azure Backup Policies"
+  },
+  {
+    "value": "azure_backup_recovery_points",
+    "label": "Azure Backup Recovery Points"
+  },
+  {
+    "value": "azure_backup_vault",
+    "label": "Azure Backup Vault"
+  },
+  {
+    "value": "azure_bastion_configuration",
+    "label": "Azure Bastion Configuration"
+  },
+  {
+    "value": "azure_bastion_management",
+    "label": "Azure Bastion Management"
+  },
+  {
+    "value": "azure_bastion_monitoring",
+    "label": "Azure Bastion Monitoring"
+  },
+  {
+    "value": "azure_bastion_security",
+    "label": "Azure Bastion Security"
+  },
+  {
+    "value": "azure_bastion_service",
+    "label": "Azure Bastion Service"
+  },
+  {
+    "value": "azure_bastion_vpn",
+    "label": "Azure Bastion VPN"
+  },
+  {
+    "value": "azure_blob_storage_access_tiers",
+    "label": "Azure Blob Storage Access Tiers"
+  },
+  {
+    "value": "azure_blob_storage_analytics",
+    "label": "Azure Blob Storage Analytics"
+  },
+  {
+    "value": "azure_blob_storage_backup",
+    "label": "Azure Blob Storage Backup"
+  },
+  {
+    "value": "azure_blob_storage_configuration",
+    "label": "Azure Blob Storage Configuration"
+  },
+  {
+    "value": "azure_blob_storage_data_redundancy",
+    "label": "Azure Blob Storage Data Redundancy"
+  },
+  {
+    "value": "azure_blob_storage_management",
+    "label": "Azure Blob Storage Management"
+  },
+  {
+    "value": "azure_blob_storage_monitoring",
+    "label": "Azure Blob Storage Monitoring"
+  },
+  {
+    "value": "azure_blob_storage_performance",
+    "label": "Azure Blob Storage Performance"
+  },
+  {
+    "value": "azure_blob_storage_premium",
+    "label": "Azure Blob Storage Premium"
+  },
+  {
+    "value": "azure_blob_storage_security",
+    "label": "Azure Blob Storage Security"
+  },
+  {
+    "value": "azure_blob_storage_services",
+    "label": "Azure Blob Storage Services"
+  },
+  {
+    "value": "azure_blob_storage_standard",
+    "label": "Azure Blob Storage Standard"
+  },
+  {
+    "value": "azure_blockchain_workbench",
+    "label": "Azure Blockchain Workbench"
+  },
+  {
+    "value": "azure_bot_framework",
+    "label": "Azure Bot Framework"
+  },
+  {
+    "value": "azure_cdn_caching",
+    "label": "Azure CDN Caching"
+  },
+  {
+    "value": "azure_cdn_caching_rules",
+    "label": "Azure CDN Caching Rules"
+  },
+  {
+    "value": "azure_cdn_custom_domains",
+    "label": "Azure CDN Custom Domains"
+  },
+  {
+    "value": "azure_cdn_dynamic_site_acceleration",
+    "label": "Azure CDN Dynamic Site Acceleration"
+  },
+  {
+    "value": "azure_cdn_from_akamai",
+    "label": "Azure CDN from Akamai"
+  },
+  {
+    "value": "azure_cdn_from_verizon",
+    "label": "Azure CDN from Verizon"
+  },
+  {
+    "value": "azure_cdn_management",
+    "label": "Azure CDN Management"
+  },
+  {
+    "value": "azure_cdn_monitoring",
+    "label": "Azure CDN Monitoring"
+  },
+  {
+    "value": "azure_cdn_rules_engine",
+    "label": "Azure CDN Rules Engine"
+  },
+  {
+    "value": "azure_cdn_security",
+    "label": "Azure CDN Security"
+  },
+  {
+    "value": "azure_cdn_traffic_optimization",
+    "label": "Azure CDN Traffic Optimization"
+  },
+  {
+    "value": "azure_cli",
+    "label": "Azure CLI"
+  },
+  {
+    "value": "azure_cloud_adoption_framework",
+    "label": "Azure Cloud Adoption Framework"
+  },
+  {
+    "value": "azure_cloud_governance",
+    "label": "Azure Cloud Governance"
+  },
+  {
+    "value": "azure_cloud_shell",
+    "label": "Azure Cloud Shell"
+  },
+  {
+    "value": "azure_cognitive_services_anomaly_detector",
+    "label": "Azure Cognitive Services Anomaly Detector"
+  },
+  {
+    "value": "azure_cognitive_services_computer_vision",
+    "label": "Azure Cognitive Services Computer Vision"
+  },
+  {
+    "value": "azure_cognitive_services_content_moderator",
+    "label": "Azure Cognitive Services Content Moderator"
+  },
+  {
+    "value": "azure_cognitive_services_face_api",
+    "label": "Azure Cognitive Services Face API"
+  },
+  {
+    "value": "azure_cognitive_services_form_recognizer",
+    "label": "Azure Cognitive Services Form Recognizer"
+  },
+  {
+    "value": "azure_cognitive_services_language_understanding_luis",
+    "label": "Azure Cognitive Services Language Understanding (LUIS)"
+  },
+  {
+    "value": "azure_cognitive_services_personalizer",
+    "label": "Azure Cognitive Services Personalizer"
+  },
+  {
+    "value": "azure_cognitive_services_qna_maker",
+    "label": "Azure Cognitive Services QnA Maker"
+  },
+  {
+    "value": "azure_cognitive_services_speech",
+    "label": "Azure Cognitive Services Speech"
+  },
+  {
+    "value": "azure_cognitive_services_speech_api",
+    "label": "Azure Cognitive Services Speech API"
+  },
+  {
+    "value": "azure_cognitive_services_text_analytics",
+    "label": "Azure Cognitive Services Text Analytics"
+  },
+  {
+    "value": "azure_cognitive_services_translator",
+    "label": "Azure Cognitive Services Translator"
+  },
+  {
+    "value": "azure_cognitive_services_vision_api",
+    "label": "Azure Cognitive Services Vision API"
+  },
+  {
+    "value": "azure_container_apps",
+    "label": "Azure Container Apps"
+  },
+  {
+    "value": "azure_container_apps_aca",
+    "label": "Azure Container Apps (ACA)"
+  },
+  {
+    "value": "azure_container_instances_management",
+    "label": "Azure Container Instances Management"
+  },
+  {
+    "value": "azure_container_instances_monitoring",
+    "label": "Azure Container Instances Monitoring"
+  },
+  {
+    "value": "azure_container_instances_security",
+    "label": "Azure Container Instances Security"
+  },
+  {
+    "value": "azure_container_orchestration",
+    "label": "Azure Container Orchestration"
+  },
+  {
+    "value": "azure_container_orchestration_services",
+    "label": "Azure Container Orchestration Services"
+  },
+  {
+    "value": "azure_container_registry_build",
+    "label": "Azure Container Registry Build"
+  },
+  {
+    "value": "azure_container_registry_management",
+    "label": "Azure Container Registry Management"
+  },
+  {
+    "value": "azure_container_registry_monitoring",
+    "label": "Azure Container Registry Monitoring"
+  },
+  {
+    "value": "azure_container_registry_scanning",
+    "label": "Azure Container Registry Scanning"
+  },
+  {
+    "value": "azure_container_registry_security",
+    "label": "Azure Container Registry Security"
+  },
+  {
+    "value": "azure_container_registry_webhooks",
+    "label": "Azure Container Registry Webhooks"
+  },
+  {
+    "value": "azure_cosmos_db_backup",
+    "label": "Azure Cosmos DB Backup"
+  },
+  {
+    "value": "azure_cosmos_db_change_feed",
+    "label": "Azure Cosmos DB Change Feed"
+  },
+  {
+    "value": "azure_cosmos_db_configuration",
+    "label": "Azure Cosmos DB Configuration"
+  },
+  {
+    "value": "azure_cosmos_db_containers",
+    "label": "Azure Cosmos DB Containers"
+  },
+  {
+    "value": "azure_cosmos_db_data_consistency",
+    "label": "Azure Cosmos DB Data Consistency"
+  },
+  {
+    "value": "azure_cosmos_db_data_modeling",
+    "label": "Azure Cosmos DB Data Modeling"
+  },
+  {
+    "value": "azure_cosmos_db_data_replication",
+    "label": "Azure Cosmos DB Data Replication"
+  },
+  {
+    "value": "azure_cosmos_db_data_security",
+    "label": "Azure Cosmos DB Data Security"
+  },
+  {
+    "value": "azure_cosmos_db_global_distribution",
+    "label": "Azure Cosmos DB Global Distribution"
+  },
+  {
+    "value": "azure_cosmos_db_management",
+    "label": "Azure Cosmos DB Management"
+  },
+  {
+    "value": "azure_cosmos_db_monitoring",
+    "label": "Azure Cosmos DB Monitoring"
+  },
+  {
+    "value": "azure_cosmos_db_multi_master",
+    "label": "Azure Cosmos DB Multi-Master"
+  },
+  {
+    "value": "azure_cosmos_db_partitioning",
+    "label": "Azure Cosmos DB Partitioning"
+  },
+  {
+    "value": "azure_cosmos_db_performance",
+    "label": "Azure Cosmos DB Performance"
+  },
+  {
+    "value": "azure_cosmos_db_queries",
+    "label": "Azure Cosmos DB Queries"
+  },
+  {
+    "value": "azure_cosmos_db_query_performance",
+    "label": "Azure Cosmos DB Query Performance"
+  },
+  {
+    "value": "azure_cosmos_db_throughput",
+    "label": "Azure Cosmos DB Throughput"
+  },
+  {
+    "value": "azure_cosmos_db_time_to_live_ttl",
+    "label": "Azure Cosmos DB Time-to-Live (TTL)"
+  },
+  {
+    "value": "azure_cosmos_db_transactions",
+    "label": "Azure Cosmos DB Transactions"
+  },
+  {
+    "value": "azure_cost_management_budget",
+    "label": "Azure Cost Management Budget"
+  },
+  {
+    "value": "azure_cost_management_insights",
+    "label": "Azure Cost Management Insights"
+  },
+  {
+    "value": "azure_cost_management_optimization",
+    "label": "Azure Cost Management Optimization"
+  },
+  {
+    "value": "azure_cost_management_pricing",
+    "label": "Azure Cost Management Pricing"
+  },
+  {
+    "value": "azure_data_box_edge",
+    "label": "Azure Data Box Edge"
+  },
+  {
+    "value": "azure_data_box_gateway",
+    "label": "Azure Data Box Gateway"
+  },
+  {
+    "value": "azure_data_box_heavy",
+    "label": "Azure Data Box Heavy"
+  },
+  {
+    "value": "azure_data_box_service",
+    "label": "Azure Data Box Service"
+  },
+  {
+    "value": "azure_data_catalog",
+    "label": "Azure Data Catalog"
+  },
+  {
+    "value": "azure_data_explorer_clusters",
+    "label": "Azure Data Explorer Clusters"
+  },
+  {
+    "value": "azure_data_explorer_data_ingestion",
+    "label": "Azure Data Explorer Data Ingestion"
+  },
+  {
+    "value": "azure_data_explorer_kusto",
+    "label": "Azure Data Explorer Kusto"
+  },
+  {
+    "value": "azure_data_explorer_kusto_query_language_kql",
+    "label": "Azure Data Explorer Kusto Query Language (KQL)"
+  },
+  {
+    "value": "azure_data_explorer_management",
+    "label": "Azure Data Explorer Management"
+  },
+  {
+    "value": "azure_data_explorer_security",
+    "label": "Azure Data Explorer Security"
+  },
+  {
+    "value": "azure_data_explorer_streaming",
+    "label": "Azure Data Explorer Streaming"
+  },
+  {
+    "value": "azure_data_factory",
+    "label": "Azure Data Factory"
+  },
+  {
+    "value": "azure_data_factory_activity_runs",
+    "label": "Azure Data Factory Activity Runs"
+  },
+  {
+    "value": "azure_data_factory_copy_data_tool",
+    "label": "Azure Data Factory Copy Data Tool"
+  },
+  {
+    "value": "azure_data_factory_data_integration",
+    "label": "Azure Data Factory Data Integration"
+  },
+  {
+    "value": "azure_data_factory_data_mapping",
+    "label": "Azure Data Factory Data Mapping"
+  },
+  {
+    "value": "azure_data_factory_dataflows",
+    "label": "Azure Data Factory Dataflows"
+  },
+  {
+    "value": "azure_data_factory_integration_runtime",
+    "label": "Azure Data Factory Integration Runtime"
+  },
+  {
+    "value": "azure_data_factory_linked_services",
+    "label": "Azure Data Factory Linked Services"
+  },
+  {
+    "value": "azure_data_factory_monitoring",
+    "label": "Azure Data Factory Monitoring"
+  },
+  {
+    "value": "azure_data_factory_monitoring_alerts",
+    "label": "Azure Data Factory Monitoring Alerts"
+  },
+  {
+    "value": "azure_data_factory_pipeline_debugging",
+    "label": "Azure Data Factory Pipeline Debugging"
+  },
+  {
+    "value": "azure_data_factory_pipeline_performance",
+    "label": "Azure Data Factory Pipeline Performance"
+  },
+  {
+    "value": "azure_data_factory_pipeline_scheduling",
+    "label": "Azure Data Factory Pipeline Scheduling"
+  },
+  {
+    "value": "azure_data_factory_pipeline_validation",
+    "label": "Azure Data Factory Pipeline Validation"
+  },
+  {
+    "value": "azure_data_factory_pipelines",
+    "label": "Azure Data Factory Pipelines"
+  },
+  {
+    "value": "azure_data_factory_security",
+    "label": "Azure Data Factory Security"
+  },
+  {
+    "value": "azure_data_lake_analytics",
+    "label": "Azure Data Lake Analytics"
+  },
+  {
+    "value": "azure_data_lake_gen1",
+    "label": "Azure Data Lake Gen1"
+  },
+  {
+    "value": "azure_data_lake_gen2",
+    "label": "Azure Data Lake Gen2"
+  },
+  {
+    "value": "azure_data_lake_gen2_hierarchical_namespace",
+    "label": "Azure Data Lake Gen2 Hierarchical Namespace"
+  },
+  {
+    "value": "azure_data_lake_storage_analytics",
+    "label": "Azure Data Lake Storage Analytics"
+  },
+  {
+    "value": "azure_data_lake_storage_backups",
+    "label": "Azure Data Lake Storage Backups"
+  },
+  {
+    "value": "azure_data_lake_storage_configuration",
+    "label": "Azure Data Lake Storage Configuration"
+  },
+  {
+    "value": "azure_data_lake_storage_encryption",
+    "label": "Azure Data Lake Storage Encryption"
+  },
+  {
+    "value": "azure_data_lake_storage_ingestion",
+    "label": "Azure Data Lake Storage Ingestion"
+  },
+  {
+    "value": "azure_data_lake_storage_management",
+    "label": "Azure Data Lake Storage Management"
+  },
+  {
+    "value": "azure_data_lake_storage_management_tools",
+    "label": "Azure Data Lake Storage Management Tools"
+  },
+  {
+    "value": "azure_data_lake_storage_monitoring",
+    "label": "Azure Data Lake Storage Monitoring"
+  },
+  {
+    "value": "azure_data_lake_storage_optimization",
+    "label": "Azure Data Lake Storage Optimization"
+  },
+  {
+    "value": "azure_data_lake_storage_performance",
+    "label": "Azure Data Lake Storage Performance"
+  },
+  {
+    "value": "azure_data_lake_storage_policies",
+    "label": "Azure Data Lake Storage Policies"
+  },
+  {
+    "value": "azure_data_lake_storage_pricing",
+    "label": "Azure Data Lake Storage Pricing"
+  },
+  {
+    "value": "azure_data_lake_storage_security",
+    "label": "Azure Data Lake Storage Security"
+  },
+  {
+    "value": "azure_data_share_data_movement",
+    "label": "Azure Data Share Data Movement"
+  },
+  {
+    "value": "azure_data_share_management",
+    "label": "Azure Data Share Management"
+  },
+  {
+    "value": "azure_data_share_monitoring",
+    "label": "Azure Data Share Monitoring"
+  },
+  {
+    "value": "azure_data_share_permissions",
+    "label": "Azure Data Share Permissions"
+  },
+  {
+    "value": "azure_data_share_policies",
+    "label": "Azure Data Share Policies"
+  },
+  {
+    "value": "azure_data_share_security",
+    "label": "Azure Data Share Security"
+  },
+  {
+    "value": "azure_data_share_snapshots",
+    "label": "Azure Data Share Snapshots"
+  },
+  {
+    "value": "azure_data_share_transfer",
+    "label": "Azure Data Share Transfer"
+  },
+  {
+    "value": "azure_database_failover_group",
+    "label": "Azure Database Failover Group"
+  },
+  {
+    "value": "azure_sql_restore",
+    "label": "Azure SQL Restore"
+  },
+  {
+    "value": "azure_sql_transparent_data_encryption",
+    "label": "Azure SQL Transparent Data Encryption"
+  },
+  {
+    "value": "azure_sql_virtual_machines",
+    "label": "Azure SQL Virtual Machines"
+  },
+  {
+    "value": "azure_sql_virtual_machines_backup",
+    "label": "Azure SQL Virtual Machines Backup"
+  },
+  {
+    "value": "azure_sql_virtual_machines_configuration",
+    "label": "Azure SQL Virtual Machines Configuration"
+  },
+  {
+    "value": "azure_sql_virtual_machines_data_encryption",
+    "label": "Azure SQL Virtual Machines Data Encryption"
+  },
+  {
+    "value": "azure_sql_virtual_machines_deployment",
+    "label": "Azure SQL Virtual Machines Deployment"
+  },
+  {
+    "value": "azure_sql_virtual_machines_disaster_recovery",
+    "label": "Azure SQL Virtual Machines Disaster Recovery"
+  },
+  {
+    "value": "azure_sql_virtual_machines_failover",
+    "label": "Azure SQL Virtual Machines Failover"
+  },
+  {
+    "value": "azure_sql_virtual_machines_geo_replication",
+    "label": "Azure SQL Virtual Machines Geo-Replication"
+  },
+  {
+    "value": "azure_sql_virtual_machines_high_availability",
+    "label": "Azure SQL Virtual Machines High Availability"
+  },
+  {
+    "value": "azure_sql_virtual_machines_maintenance",
+    "label": "Azure SQL Virtual Machines Maintenance"
+  },
+  {
+    "value": "azure_sql_virtual_machines_management",
+    "label": "Azure SQL Virtual Machines Management"
+  },
+  {
+    "value": "azure_sql_virtual_machines_monitoring",
+    "label": "Azure SQL Virtual Machines Monitoring"
+  },
+  {
+    "value": "azure_sql_virtual_machines_performance",
+    "label": "Azure SQL Virtual Machines Performance"
+  },
+  {
+    "value": "azure_sql_virtual_machines_security",
+    "label": "Azure SQL Virtual Machines Security"
+  },
+  {
+    "value": "azure_sql_virtual_machines_security_features",
+    "label": "Azure SQL Virtual Machines Security Features"
+  },
+  {
+    "value": "azure_sql_virtual_machines_storage",
+    "label": "Azure SQL Virtual Machines Storage"
+  },
+  {
+    "value": "azure_sql_virtual_machines_upgrades",
+    "label": "Azure SQL Virtual Machines Upgrades"
+  },
+  {
+    "value": "azure_sql_virtual_machines_vnet_integration",
+    "label": "Azure SQL Virtual Machines VNet Integration"
+  },
+  {
+    "value": "azure_sql_virtual_machines_workloads",
+    "label": "Azure SQL Virtual Machines Workloads"
+  },
+  {
+    "value": "azure_sql_virtual_network_rules",
+    "label": "Azure SQL Virtual Network Rules"
+  },
+  {
+    "value": "azure_sql_vulnerability_assessment",
+    "label": "Azure SQL Vulnerability Assessment"
+  },
+  {
+    "value": "azure_stack_build",
+    "label": "Azure Stack Build"
+  },
+  {
+    "value": "azure_stack_cloud",
+    "label": "Azure Stack Cloud"
+  },
+  {
+    "value": "azure_stack_edge_ai_workloads",
+    "label": "Azure Stack Edge AI Workloads"
+  },
+  {
+    "value": "azure_stack_edge_configuration",
+    "label": "Azure Stack Edge Configuration"
+  },
+  {
+    "value": "azure_stack_edge_deployment",
+    "label": "Azure Stack Edge Deployment"
+  },
+  {
+    "value": "azure_stack_edge_devices",
+    "label": "Azure Stack Edge Devices"
+  },
+  {
+    "value": "azure_stack_edge_gpu",
+    "label": "Azure Stack Edge GPU"
+  },
+  {
+    "value": "azure_stack_edge_gpu_support",
+    "label": "Azure Stack Edge GPU Support"
+  },
+  {
+    "value": "azure_stack_edge_high_availability",
+    "label": "Azure Stack Edge High Availability"
+  },
+  {
+    "value": "azure_stack_edge_management",
+    "label": "Azure Stack Edge Management"
+  },
+  {
+    "value": "azure_stack_edge_mini_r",
+    "label": "Azure Stack Edge Mini R"
+  },
+  {
+    "value": "azure_stack_edge_monitoring",
+    "label": "Azure Stack Edge Monitoring"
+  },
+  {
+    "value": "azure_stack_edge_performance",
+    "label": "Azure Stack Edge Performance"
+  },
+  {
+    "value": "azure_stack_edge_pro_r",
+    "label": "Azure Stack Edge Pro R"
+  },
+  {
+    "value": "azure_stack_edge_pro_r_management",
+    "label": "Azure Stack Edge Pro R Management"
+  },
+  {
+    "value": "azure_stack_edge_security",
+    "label": "Azure Stack Edge Security"
+  },
+  {
+    "value": "azure_stack_edge_storage",
+    "label": "Azure Stack Edge Storage"
+  },
+  {
+    "value": "azure_stack_edge_updates",
+    "label": "Azure Stack Edge Updates"
+  },
+  {
+    "value": "azure_stack_edge_use_cases",
+    "label": "Azure Stack Edge Use Cases"
+  },
+  {
+    "value": "azure_stack_hci_aks_integration",
+    "label": "Azure Stack HCI AKS Integration"
+  },
+  {
+    "value": "azure_stack_hci_arc_integration",
+    "label": "Azure Stack HCI Arc Integration"
+  },
+  {
+    "value": "azure_stack_hci_backup",
+    "label": "Azure Stack HCI Backup"
+  },
+  {
+    "value": "azure_stack_hci_cluster_management",
+    "label": "Azure Stack HCI Cluster Management"
+  },
+  {
+    "value": "azure_stack_hci_clusters",
+    "label": "Azure Stack HCI Clusters"
+  },
+  {
+    "value": "azure_stack_hci_configuration",
+    "label": "Azure Stack HCI Configuration"
+  },
+  {
+    "value": "azure_stack_hci_deployment",
+    "label": "Azure Stack HCI Deployment"
+  },
+  {
+    "value": "azure_stack_hci_disaster_recovery",
+    "label": "Azure Stack HCI Disaster Recovery"
+  },
+  {
+    "value": "azure_stack_hci_features",
+    "label": "Azure Stack HCI Features"
+  },
+  {
+    "value": "azure_stack_hci_hardware_integration",
+    "label": "Azure Stack HCI Hardware Integration"
+  },
+  {
+    "value": "azure_stack_hci_hardware_requirements",
+    "label": "Azure Stack HCI Hardware Requirements"
+  },
+  {
+    "value": "azure_stack_hci_high_availability",
+    "label": "Azure Stack HCI High Availability"
+  },
+  {
+    "value": "azure_stack_hci_insights",
+    "label": "Azure Stack HCI Insights"
+  },
+  {
+    "value": "azure_stack_hci_management",
+    "label": "Azure Stack HCI Management"
+  },
+  {
+    "value": "azure_stack_hci_monitoring",
+    "label": "Azure Stack HCI Monitoring"
+  },
+  {
+    "value": "azure_stack_hci_networking",
+    "label": "Azure Stack HCI Networking"
+  },
+  {
+    "value": "azure_stack_hci_performance",
+    "label": "Azure Stack HCI Performance"
+  },
+  {
+    "value": "azure_stack_hci_pricing",
+    "label": "Azure Stack HCI Pricing"
+  },
+  {
+    "value": "azure_stack_hci_security",
+    "label": "Azure Stack HCI Security"
+  },
+  {
+    "value": "azure_stack_hci_solutions",
+    "label": "Azure Stack HCI Solutions"
+  },
+  {
+    "value": "azure_stack_hci_storage",
+    "label": "Azure Stack HCI Storage"
+  },
+  {
+    "value": "azure_stack_hci_support",
+    "label": "Azure Stack HCI Support"
+  },
+  {
+    "value": "azure_stack_hci_updates",
+    "label": "Azure Stack HCI Updates"
+  },
+  {
+    "value": "azure_stack_hci_use_cases",
+    "label": "Azure Stack HCI Use Cases"
+  },
+  {
+    "value": "azure_stack_hub_admin_portal",
+    "label": "Azure Stack Hub Admin Portal"
+  },
+  {
+    "value": "azure_stack_hub_aks",
+    "label": "Azure Stack Hub AKS"
+  },
+  {
+    "value": "azure_stack_hub_arm_templates",
+    "label": "Azure Stack Hub ARM Templates"
+  },
+  {
+    "value": "azure_stack_hub_avd",
+    "label": "Azure Stack Hub AVD"
+  },
+  {
+    "value": "azure_stack_hub_backup",
+    "label": "Azure Stack Hub Backup"
+  },
+  {
+    "value": "azure_stack_hub_compute",
+    "label": "Azure Stack Hub Compute"
+  },
+  {
+    "value": "azure_stack_hub_configuration",
+    "label": "Azure Stack Hub Configuration"
+  },
+  {
+    "value": "azure_stack_hub_datacenter_integration",
+    "label": "Azure Stack Hub Datacenter Integration"
+  },
+  {
+    "value": "azure_stack_hub_deployment",
+    "label": "Azure Stack Hub Deployment"
+  },
+  {
+    "value": "azure_stack_hub_disaster_recovery",
+    "label": "Azure Stack Hub Disaster Recovery"
+  },
+  {
+    "value": "azure_stack_hub_iaas",
+    "label": "Azure Stack Hub IaaS"
+  },
+  {
+    "value": "azure_stack_hub_identity",
+    "label": "Azure Stack Hub Identity"
+  },
+  {
+    "value": "azure_stack_hub_licensing",
+    "label": "Azure Stack Hub Licensing"
+  },
+  {
+    "value": "azure_stack_hub_management",
+    "label": "Azure Stack Hub Management"
+  },
+  {
+    "value": "azure_stack_hub_marketplace",
+    "label": "Azure Stack Hub Marketplace"
+  },
+  {
+    "value": "azure_stack_hub_monitoring",
+    "label": "Azure Stack Hub Monitoring"
+  },
+  {
+    "value": "azure_stack_hub_networking",
+    "label": "Azure Stack Hub Networking"
+  },
+  {
+    "value": "azure_stack_hub_paas",
+    "label": "Azure Stack Hub PaaS"
+  },
+  {
+    "value": "azure_stack_hub_performance",
+    "label": "Azure Stack Hub Performance"
+  },
+  {
+    "value": "azure_stack_hub_security",
+    "label": "Azure Stack Hub Security"
+  },
+  {
+    "value": "azure_stack_hub_storage",
+    "label": "Azure Stack Hub Storage"
+  },
+  {
+    "value": "azure_stack_hub_update",
+    "label": "Azure Stack Hub Update"
+  },
+  {
+    "value": "azure_stack_hub_updates",
+    "label": "Azure Stack Hub Updates"
+  },
+  {
+    "value": "azure_stack_hub_virtual_machines",
+    "label": "Azure Stack Hub Virtual Machines"
+  },
+  {
+    "value": "azure_static_web_apps_api",
+    "label": "Azure Static Web Apps API"
+  },
+  {
+    "value": "azure_static_web_apps_authentication",
+    "label": "Azure Static Web Apps Authentication"
+  },
+  {
+    "value": "azure_static_web_apps_ci_cd",
+    "label": "Azure Static Web Apps CI/CD"
+  },
+  {
+    "value": "azure_static_web_apps_cli",
+    "label": "Azure Static Web Apps CLI"
+  },
+  {
+    "value": "azure_static_web_apps_configuration",
+    "label": "Azure Static Web Apps Configuration"
+  },
+  {
+    "value": "azure_static_web_apps_custom_domains",
+    "label": "Azure Static Web Apps Custom Domains"
+  },
+  {
+    "value": "azure_static_web_apps_devops",
+    "label": "Azure Static Web Apps DevOps"
+  },
+  {
+    "value": "azure_static_web_apps_github_integration",
+    "label": "Azure Static Web Apps GitHub Integration"
+  },
+  {
+    "value": "azure_static_web_apps_hosting",
+    "label": "Azure Static Web Apps Hosting"
+  },
+  {
+    "value": "azure_static_web_apps_management",
+    "label": "Azure Static Web Apps Management"
+  },
+  {
+    "value": "azure_static_web_apps_monitoring",
+    "label": "Azure Static Web Apps Monitoring"
+  },
+  {
+    "value": "azure_static_web_apps_performance",
+    "label": "Azure Static Web Apps Performance"
+  },
+  {
+    "value": "azure_static_web_apps_routing",
+    "label": "Azure Static Web Apps Routing"
+  },
+  {
+    "value": "azure_static_web_apps_security",
+    "label": "Azure Static Web Apps Security"
+  },
+  {
+    "value": "azure_static_web_apps_storage",
+    "label": "Azure Static Web Apps Storage"
+  },
+  {
+    "value": "azure_storage_access_control",
+    "label": "Azure Storage Access Control"
+  },
+  {
+    "value": "azure_storage_access_values",
+    "label": "Azure Storage Access values"
+  },
+  {
+    "value": "azure_storage_access_tiers",
+    "label": "Azure Storage Access Tiers"
+  },
+  {
+    "value": "azure_storage_account_configuration",
+    "label": "Azure Storage Account Configuration"
+  },
+  {
+    "value": "azure_storage_account_management",
+    "label": "Azure Storage Account Management"
+  },
+  {
+    "value": "azure_storage_account_monitoring",
+    "label": "Azure Storage Account Monitoring"
+  },
+  {
+    "value": "azure_storage_account_performance",
+    "label": "Azure Storage Account Performance"
+  },
+  {
+    "value": "azure_storage_account_security",
+    "label": "Azure Storage Account Security"
+  },
+  {
+    "value": "azure_storage_accounts_premium",
+    "label": "Azure Storage Accounts Premium"
+  },
+  {
+    "value": "azure_storage_analytics",
+    "label": "Azure Storage Analytics"
+  },
+  {
+    "value": "azure_storage_analytics_configuration",
+    "label": "Azure Storage Analytics Configuration"
+  },
+  {
+    "value": "azure_storage_blob_access_tiers",
+    "label": "Azure Storage Blob Access Tiers"
+  },
+  {
+    "value": "azure_storage_blob_archive",
+    "label": "Azure Storage Blob Archive"
+  },
+  {
+    "value": "azure_storage_blob_change_feed",
+    "label": "Azure Storage Blob Change Feed"
+  },
+  {
+    "value": "azure_storage_blob_encryption",
+    "label": "Azure Storage Blob Encryption"
+  },
+  {
+    "value": "azure_storage_blob_lifecycle_management",
+    "label": "Azure Storage Blob Lifecycle Management"
+  },
+  {
+    "value": "azure_storage_blob_management",
+    "label": "Azure Storage Blob Management"
+  },
+  {
+    "value": "azure_storage_blob_performance",
+    "label": "Azure Storage Blob Performance"
+  },
+  {
+    "value": "azure_storage_blob_performance_tiers",
+    "label": "Azure Storage Blob Performance Tiers"
+  },
+  {
+    "value": "azure_storage_blob_security",
+    "label": "Azure Storage Blob Security"
+  },
+  {
+    "value": "azure_storage_blob_snapshots",
+    "label": "Azure Storage Blob Snapshots"
+  },
+  {
+    "value": "azure_storage_blob_soft_delete",
+    "label": "Azure Storage Blob Soft Delete"
+  },
+  {
+    "value": "azure_storage_blob_versioning",
+    "label": "Azure Storage Blob Versioning"
+  },
+  {
+    "value": "azure_storage_blob_versioning_configuration",
+    "label": "Azure Storage Blob Versioning Configuration"
+  },
+  {
+    "value": "azure_storage_data_redundancy",
+    "label": "Azure Storage Data Redundancy"
+  },
+  {
+    "value": "azure_storage_explorer_features",
+    "label": "Azure Storage Explorer Features"
+  },
+  {
+    "value": "azure_storage_explorer_installation",
+    "label": "Azure Storage Explorer Installation"
+  },
+  {
+    "value": "azure_storage_explorer_tool",
+    "label": "Azure Storage Explorer Tool"
+  },
+  {
+    "value": "azure_storage_file_access_tiers",
+    "label": "Azure Storage File Access Tiers"
+  },
+  {
+    "value": "azure_storage_file_performance",
+    "label": "Azure Storage File Performance"
+  },
+  {
+    "value": "azure_storage_file_security",
+    "label": "Azure Storage File Security"
+  },
+  {
+    "value": "azure_storage_file_shares",
+    "label": "Azure Storage File Shares"
+  },
+  {
+    "value": "azure_storage_file_sync",
+    "label": "Azure Storage File Sync"
+  },
+  {
+    "value": "azure_storage_file_sync_performance",
+    "label": "Azure Storage File Sync Performance"
+  },
+  {
+    "value": "azure_storage_file_tiers",
+    "label": "Azure Storage File Tiers"
+  },
+  {
+    "value": "azure_storage_file_transfer",
+    "label": "Azure Storage File Transfer"
+  },
+  {
+    "value": "azure_storage_file_versioning",
+    "label": "Azure Storage File Versioning"
+  },
+  {
+    "value": "azure_storage_geo_redundancy",
+    "label": "Azure Storage Geo-Redundancy"
+  },
+  {
+    "value": "azure_storage_geo_replication",
+    "label": "Azure Storage Geo-Replication"
+  },
+  {
+    "value": "azure_storage_lifecycle_management",
+    "label": "Azure Storage Lifecycle Management"
+  },
+  {
+    "value": "azure_storage_management",
+    "label": "Azure Storage Management"
+  },
+  {
+    "value": "azure_storage_monitoring",
+    "label": "Azure Storage Monitoring"
+  },
+  {
+    "value": "azure_storage_performance",
+    "label": "Azure Storage Performance"
+  },
+  {
+    "value": "azure_storage_pricing",
+    "label": "Azure Storage Pricing"
+  },
+  {
+    "value": "azure_storage_queue_features",
+    "label": "Azure Storage Queue Features"
+  },
+  {
+    "value": "azure_storage_queue_management",
+    "label": "Azure Storage Queue Management"
+  },
+  {
+    "value": "azure_storage_queue_performance",
+    "label": "Azure Storage Queue Performance"
+  },
+  {
+    "value": "azure_storage_queue_security",
+    "label": "Azure Storage Queue Security"
+  },
+  {
+    "value": "azure_storage_queue_usage",
+    "label": "Azure Storage Queue Usage"
+  },
+  {
+    "value": "azure_storage_replication",
+    "label": "Azure Storage Replication"
+  },
+  {
+    "value": "azure_storage_reserved_capacity",
+    "label": "Azure Storage Reserved Capacity"
+  },
+  {
+    "value": "azure_storage_secure_transfer",
+    "label": "Azure Storage Secure Transfer"
+  },
+  {
+    "value": "azure_storage_security",
+    "label": "Azure Storage Security"
+  },
+  {
+    "value": "azure_storage_service_encryption",
+    "label": "Azure Storage Service Encryption"
+  },
+  {
+    "value": "azure_storage_shared_access_signature",
+    "label": "Azure Storage Shared Access Signature"
+  },
+  {
+    "value": "azure_storage_soft_delete",
+    "label": "Azure Storage Soft Delete"
+  },
+  {
+    "value": "azure_storage_static_website",
+    "label": "Azure Storage Static Website"
+  },
+  {
+    "value": "azure_storage_storage_tiers",
+    "label": "Azure Storage Storage Tiers"
+  },
+  {
+    "value": "azure_storage_table_features",
+    "label": "Azure Storage Table Features"
+  },
+  {
+    "value": "azure_storage_table_management",
+    "label": "Azure Storage Table Management"
+  },
+  {
+    "value": "azure_storage_table_performance",
+    "label": "Azure Storage Table Performance"
+  },
+  {
+    "value": "azure_storage_table_security",
+    "label": "Azure Storage Table Security"
+  },
+  {
+    "value": "azure_storage_table_storage",
+    "label": "Azure Storage Table Storage"
+  },
+  {
+    "value": "azure_storage_table_usage",
+    "label": "Azure Storage Table Usage"
+  },
+  {
+    "value": "azure_storage_virtual_network",
+    "label": "Azure Storage Virtual Network"
+  },
+  {
+    "value": "azure_storage_zone_redundant_storage",
+    "label": "Azure Storage Zone Redundant Storage"
+  },
+  {
+    "value": "azure_stream_analytics_ci_cd",
+    "label": "Azure Stream Analytics CI/CD"
+  },
+  {
+    "value": "azure_stream_analytics_configuration",
+    "label": "Azure Stream Analytics Configuration"
+  },
+  {
+    "value": "azure_stream_analytics_input",
+    "label": "Azure Stream Analytics Input"
+  },
+  {
+    "value": "azure_stream_analytics_job_management",
+    "label": "Azure Stream Analytics Job Management"
+  },
+  {
+    "value": "azure_stream_analytics_job_monitoring",
+    "label": "Azure Stream Analytics Job Monitoring"
+  },
+  {
+    "value": "azure_stream_analytics_monitoring",
+    "label": "Azure Stream Analytics Monitoring"
+  },
+  {
+    "value": "azure_stream_analytics_output",
+    "label": "Azure Stream Analytics Output"
+  },
+  {
+    "value": "azure_stream_analytics_query",
+    "label": "Azure Stream Analytics Query"
+  },
+  {
+    "value": "azure_stream_analytics_query_language",
+    "label": "Azure Stream Analytics Query Language"
+  },
+  {
+    "value": "azure_stream_analytics_scaling",
+    "label": "Azure Stream Analytics Scaling"
+  },
+  {
+    "value": "azure_stream_analytics_security",
+    "label": "Azure Stream Analytics Security"
+  },
+  {
+    "value": "azure_synapse_analytics_architecture",
+    "label": "Azure Synapse Analytics Architecture"
+  },
+  {
+    "value": "azure_synapse_analytics_ci_cd",
+    "label": "Azure Synapse Analytics CI/CD"
+  },
+  {
+    "value": "azure_synapse_analytics_data_integration",
+    "label": "Azure Synapse Analytics Data Integration"
+  },
+  {
+    "value": "azure_synapse_analytics_data_preparation",
+    "label": "Azure Synapse Analytics Data Preparation"
+  },
+  {
+    "value": "azure_synapse_analytics_data_security",
+    "label": "Azure Synapse Analytics Data Security"
+  },
+  {
+    "value": "azure_synapse_analytics_data_warehousing",
+    "label": "Azure Synapse Analytics Data Warehousing"
+  },
+  {
+    "value": "azure_synapse_analytics_management",
+    "label": "Azure Synapse Analytics Management"
+  },
+  {
+    "value": "azure_synapse_analytics_monitoring",
+    "label": "Azure Synapse Analytics Monitoring"
+  },
+  {
+    "value": "azure_synapse_analytics_performance",
+    "label": "Azure Synapse Analytics Performance"
+  },
+  {
+    "value": "azure_synapse_analytics_pipeline",
+    "label": "Azure Synapse Analytics Pipeline"
+  },
+  {
+    "value": "azure_synapse_analytics_pipelines",
+    "label": "Azure Synapse Analytics Pipelines"
+  },
+  {
+    "value": "azure_synapse_analytics_pipelines_monitoring",
+    "label": "Azure Synapse Analytics Pipelines Monitoring"
+  },
+  {
+    "value": "azure_synapse_analytics_serverless_sql",
+    "label": "Azure Synapse Analytics Serverless SQL"
+  },
+  {
+    "value": "azure_synapse_analytics_serverless_sql_pools",
+    "label": "Azure Synapse Analytics Serverless SQL Pools"
+  },
+  {
+    "value": "azure_synapse_analytics_spark_pools",
+    "label": "Azure Synapse Analytics Spark Pools"
+  },
+  {
+    "value": "azure_synapse_analytics_sql_pool_performance",
+    "label": "Azure Synapse Analytics SQL Pool Performance"
+  },
+  {
+    "value": "azure_synapse_analytics_sql_pools",
+    "label": "Azure Synapse Analytics SQL Pools"
+  },
+  {
+    "value": "azure_synapse_analytics_workspaces",
+    "label": "Azure Synapse Analytics Workspaces"
+  },
+  {
+    "value": "azure_synapse_apache_spark",
+    "label": "Azure Synapse Apache Spark"
+  },
+  {
+    "value": "azure_synapse_data_flow",
+    "label": "Azure Synapse Data Flow"
+  },
+  {
+    "value": "azure_synapse_data_ingestion",
+    "label": "Azure Synapse Data Ingestion"
+  },
+  {
+    "value": "azure_synapse_data_movement",
+    "label": "Azure Synapse Data Movement"
+  },
+  {
+    "value": "azure_synapse_data_preview",
+    "label": "Azure Synapse Data Preview"
+  },
+  {
+    "value": "azure_synapse_data_wrangling",
+    "label": "Azure Synapse Data Wrangling"
+  },
+  {
+    "value": "azure_synapse_dedicated_sql_pool",
+    "label": "Azure Synapse Dedicated SQL Pool"
+  },
+  {
+    "value": "azure_synapse_link_for_dataverse",
+    "label": "Azure Synapse Link for Dataverse"
+  },
+  {
+    "value": "azure_synapse_link_for_sql",
+    "label": "Azure Synapse Link for SQL"
+  },
+  {
+    "value": "azure_synapse_notebooks_power_bi",
+    "label": "Azure Synapse Notebooks Power BI"
+  },
+  {
+    "value": "azure_synapse_partitioning",
+    "label": "Azure Synapse Partitioning"
+  },
+  {
+    "value": "azure_synapse_pipelines_data_flow",
+    "label": "Azure Synapse Pipelines Data Flow"
+  },
+  {
+    "value": "azure_synapse_pipelines_data_transformation",
+    "label": "Azure Synapse Pipelines Data Transformation"
+  },
+  {
+    "value": "azure_synapse_pipelines_integration",
+    "label": "Azure Synapse Pipelines Integration"
+  },
+  {
+    "value": "azure_synapse_pipelines_monitoring",
+    "label": "Azure Synapse Pipelines Monitoring"
+  },
+  {
+    "value": "azure_synapse_pipelines_monitoring_and_management",
+    "label": "Azure Synapse Pipelines Monitoring and Management"
+  },
+  {
+    "value": "azure_synapse_pipelines_orchestration",
+    "label": "Azure Synapse Pipelines Orchestration"
+  },
+  {
+    "value": "azure_synapse_pipelines_scheduling",
+    "label": "Azure Synapse Pipelines Scheduling"
+  },
+  {
+    "value": "azure_synapse_pipelines_scripting",
+    "label": "Azure Synapse Pipelines Scripting"
+  },
+  {
+    "value": "azure_synapse_pipelines_security",
+    "label": "Azure Synapse Pipelines Security"
+  },
+  {
+    "value": "azure_synapse_pipelines_triggers",
+    "label": "Azure Synapse Pipelines Triggers"
+  },
+  {
+    "value": "azure_synapse_real_time_analytics",
+    "label": "Azure Synapse Real-Time Analytics"
+  },
+  {
+    "value": "azure_synapse_serverless_sql",
+    "label": "Azure Synapse Serverless SQL"
+  },
+  {
+    "value": "azure_synapse_serverless_sql_pool",
+    "label": "Azure Synapse Serverless SQL Pool"
+  },
+  {
+    "value": "azure_synapse_sql_on_demand",
+    "label": "Azure Synapse SQL On-demand"
+  },
+  {
+    "value": "azure_synapse_sql_serverless",
+    "label": "Azure Synapse SQL Serverless"
+  },
+  {
+    "value": "azure_synapse_studio_big_data",
+    "label": "Azure Synapse Studio Big Data"
+  },
+  {
+    "value": "azure_synapse_studio_data_integration",
+    "label": "Azure Synapse Studio Data Integration"
+  },
+  {
+    "value": "azure_synapse_studio_data_preparation",
+    "label": "Azure Synapse Studio Data Preparation"
+  },
+  {
+    "value": "azure_synapse_studio_data_security",
+    "label": "Azure Synapse Studio Data Security"
+  },
+  {
+    "value": "azure_synapse_studio_development",
+    "label": "Azure Synapse Studio Development"
+  },
+  {
+    "value": "azure_synapse_studio_management",
+    "label": "Azure Synapse Studio Management"
+  },
+  {
+    "value": "azure_synapse_studio_monitoring",
+    "label": "Azure Synapse Studio Monitoring"
+  },
+  {
+    "value": "azure_synapse_studio_notebooks_development",
+    "label": "Azure Synapse Studio Notebooks Development"
+  },
+  {
+    "value": "azure_synapse_studio_pipelines",
+    "label": "Azure Synapse Studio Pipelines"
+  },
+  {
+    "value": "azure_synapse_studio_sql",
+    "label": "Azure Synapse Studio SQL"
+  },
+  {
+    "value": "azure_synapse_studio_sql_development",
+    "label": "Azure Synapse Studio SQL Development"
+  },
+  {
+    "value": "azure_synapse_studio_workflows",
+    "label": "Azure Synapse Studio Workflows"
+  },
+  {
+    "value": "azure_synapse_studio_workflows_management",
+    "label": "Azure Synapse Studio Workflows Management"
+  },
+  {
+    "value": "azure_table_storage_configuration",
+    "label": "Azure Table Storage Configuration"
+  },
+  {
+    "value": "azure_table_storage_management",
+    "label": "Azure Table Storage Management"
+  },
+  {
+    "value": "azure_table_storage_monitoring",
+    "label": "Azure Table Storage Monitoring"
+  },
+  {
+    "value": "azure_table_storage_performance",
+    "label": "Azure Table Storage Performance"
+  },
+  {
+    "value": "azure_table_storage_queries",
+    "label": "Azure Table Storage Queries"
+  },
+  {
+    "value": "azure_table_storage_security",
+    "label": "Azure Table Storage Security"
+  },
+  {
+    "value": "azure_tco_calculator_tool",
+    "label": "Azure TCO Calculator Tool"
+  },
+  {
+    "value": "azure_traffic_manager_custom",
+    "label": "Azure Traffic Manager Custom"
+  },
+  {
+    "value": "azure_traffic_manager_endpoint_monitoring",
+    "label": "Azure Traffic Manager Endpoint Monitoring"
+  },
+  {
+    "value": "azure_traffic_manager_endpoints",
+    "label": "Azure Traffic Manager Endpoints"
+  },
+  {
+    "value": "azure_traffic_manager_geographic",
+    "label": "Azure Traffic Manager Geographic"
+  },
+  {
+    "value": "azure_traffic_manager_health_checks",
+    "label": "Azure Traffic Manager Health Checks"
+  },
+  {
+    "value": "azure_traffic_manager_load_balancing",
+    "label": "Azure Traffic Manager Load Balancing"
+  },
+  {
+    "value": "azure_traffic_manager_monitoring",
+    "label": "Azure Traffic Manager Monitoring"
+  },
+  {
+    "value": "azure_traffic_manager_performance",
+    "label": "Azure Traffic Manager Performance"
+  },
+  {
+    "value": "azure_traffic_manager_performance_routing",
+    "label": "Azure Traffic Manager Performance Routing"
+  },
+  {
+    "value": "azure_traffic_manager_priority",
+    "label": "Azure Traffic Manager Priority"
+  },
+  {
+    "value": "azure_traffic_manager_priority_routing",
+    "label": "Azure Traffic Manager Priority Routing"
+  },
+  {
+    "value": "azure_traffic_manager_routing",
+    "label": "Azure Traffic Manager Routing"
+  },
+  {
+    "value": "azure_traffic_manager_security",
+    "label": "Azure Traffic Manager Security"
+  },
+  {
+    "value": "azure_traffic_manager_weighted",
+    "label": "Azure Traffic Manager Weighted"
+  },
+  {
+    "value": "azure_traffic_manager_weighted_routing",
+    "label": "Azure Traffic Manager Weighted Routing"
+  },
+  {
+    "value": "azure_training_and_learning",
+    "label": "Azure Training and Learning"
+  },
+  {
+    "value": "azure_virtual_desktop_access",
+    "label": "Azure Virtual Desktop Access"
+  },
+  {
+    "value": "azure_virtual_desktop_applications",
+    "label": "Azure Virtual Desktop Applications"
+  },
+  {
+    "value": "azure_virtual_desktop_configuration",
+    "label": "Azure Virtual Desktop Configuration"
+  },
+  {
+    "value": "azure_virtual_desktop_fslogix",
+    "label": "Azure Virtual Desktop FSLogix"
+  },
+  {
+    "value": "azure_virtual_desktop_host_pools",
+    "label": "Azure Virtual Desktop Host Pools"
+  },
+  {
+    "value": "azure_virtual_desktop_management",
+    "label": "Azure Virtual Desktop Management"
+  },
+  {
+    "value": "azure_virtual_desktop_monitoring",
+    "label": "Azure Virtual Desktop Monitoring"
+  },
+  {
+    "value": "azure_virtual_desktop_remoteapp",
+    "label": "Azure Virtual Desktop RemoteApp"
+  },
+  {
+    "value": "azure_virtual_desktop_security",
+    "label": "Azure Virtual Desktop Security"
+  },
+  {
+    "value": "azure_virtual_desktop_storage",
+    "label": "Azure Virtual Desktop Storage"
+  },
+  {
+    "value": "azure_virtual_desktop_user_management",
+    "label": "Azure Virtual Desktop User Management"
+  },
+  {
+    "value": "azure_virtual_machine_backup",
+    "label": "Azure Virtual Machine Backup"
+  },
+  {
+    "value": "azure_virtual_machine_configuration",
+    "label": "Azure Virtual Machine Configuration"
+  },
+  {
+    "value": "azure_virtual_machine_extensions",
+    "label": "Azure Virtual Machine Extensions"
+  },
+  {
+    "value": "azure_virtual_machine_image_gallery",
+    "label": "Azure Virtual Machine Image Gallery"
+  },
+  {
+    "value": "azure_virtual_machine_performance",
+    "label": "Azure Virtual Machine Performance"
+  },
+  {
+    "value": "azure_virtual_machine_scale_sets_autoscale",
+    "label": "Azure Virtual Machine Scale Sets Autoscale"
+  },
+  {
+    "value": "azure_virtual_machine_scale_sets_custom_script",
+    "label": "Azure Virtual Machine Scale Sets Custom Script"
+  },
+  {
+    "value": "azure_virtual_machine_scale_sets_image_upgrades",
+    "label": "Azure Virtual Machine Scale Sets Image Upgrades"
+  },
+  {
+    "value": "azure_virtual_machine_scale_sets_management",
+    "label": "Azure Virtual Machine Scale Sets Management"
+  },
+  {
+    "value": "azure_virtual_machine_security",
+    "label": "Azure Virtual Machine Security"
+  },
+  {
+    "value": "azure_virtual_machine_sizes",
+    "label": "Azure Virtual Machine Sizes"
+  },
+  {
+    "value": "azure_virtual_machine_spot",
+    "label": "Azure Virtual Machine Spot"
+  },
+  {
+    "value": "azure_virtual_machine_storage_options",
+    "label": "Azure Virtual Machine Storage Options"
+  },
+  {
+    "value": "azure_virtual_machine_types",
+    "label": "Azure Virtual Machine Types"
+  },
+  {
+    "value": "azure_virtual_machine_windows",
+    "label": "Azure Virtual Machine Windows"
+  },
+  {
+    "value": "azure_virtual_machines_availability_sets",
+    "label": "Azure Virtual Machines Availability Sets"
+  },
+  {
+    "value": "azure_virtual_machines_backup",
+    "label": "Azure Virtual Machines Backup"
+  },
+  {
+    "value": "azure_virtual_machines_configuration",
+    "label": "Azure Virtual Machines Configuration"
+  },
+  {
+    "value": "azure_virtual_machines_extensions",
+    "label": "Azure Virtual Machines Extensions"
+  },
+  {
+    "value": "azure_virtual_machines_high_availability",
+    "label": "Azure Virtual Machines High Availability"
+  },
+  {
+    "value": "azure_virtual_machines_images",
+    "label": "Azure Virtual Machines Images"
+  },
+  {
+    "value": "azure_virtual_machines_monitoring",
+    "label": "Azure Virtual Machines Monitoring"
+  },
+  {
+    "value": "azure_virtual_machines_performance",
+    "label": "Azure Virtual Machines Performance"
+  },
+  {
+    "value": "azure_virtual_machines_scaling",
+    "label": "Azure Virtual Machines Scaling"
+  },
+  {
+    "value": "azure_virtual_machines_security",
+    "label": "Azure Virtual Machines Security"
+  },
+  {
+    "value": "azure_virtual_machines_snapshots",
+    "label": "Azure Virtual Machines Snapshots"
+  },
+  {
+    "value": "azure_virtual_machines_storage",
+    "label": "Azure Virtual Machines Storage"
+  },
+  {
+    "value": "azure_virtual_machines_updates",
+    "label": "Azure Virtual Machines Updates"
+  },
+  {
+    "value": "azure_virtual_network_address_spaces",
+    "label": "Azure Virtual Network Address Spaces"
+  },
+  {
+    "value": "azure_virtual_network_configuration",
+    "label": "Azure Virtual Network Configuration"
+  },
+  {
+    "value": "azure_virtual_network_gateway_expressroute",
+    "label": "Azure Virtual Network Gateway ExpressRoute"
+  },
+  {
+    "value": "azure_virtual_network_gateway_vpn",
+    "label": "Azure Virtual Network Gateway VPN"
+  },
+  {
+    "value": "azure_virtual_network_monitoring",
+    "label": "Azure Virtual Network Monitoring"
+  },
+  {
+    "value": "azure_virtual_network_nat",
+    "label": "Azure Virtual Network NAT"
+  },
+  {
+    "value": "azure_virtual_network_peering",
+    "label": "Azure Virtual Network Peering"
+  },
+  {
+    "value": "azure_virtual_network_peering_pricing",
+    "label": "Azure Virtual Network Peering Pricing"
+  },
+  {
+    "value": "azure_virtual_network_peering_security",
+    "label": "Azure Virtual Network Peering Security"
+  },
+  {
+    "value": "azure_virtual_network_security",
+    "label": "Azure Virtual Network Security"
+  },
+  {
+    "value": "azure_virtual_network_security_groups_nsgs",
+    "label": "Azure Virtual Network Security Groups (NSGs)"
+  },
+  {
+    "value": "azure_virtual_network_subnets",
+    "label": "Azure Virtual Network Subnets"
+  },
+  {
+    "value": "azure_virtual_wan_configuration",
+    "label": "Azure Virtual WAN Configuration"
+  },
+  {
+    "value": "azure_virtual_wan_gateway",
+    "label": "Azure Virtual WAN Gateway"
+  },
+  {
+    "value": "azure_virtual_wan_hub",
+    "label": "Azure Virtual WAN Hub"
+  },
+  {
+    "value": "azure_virtual_wan_hub_configuration",
+    "label": "Azure Virtual WAN Hub Configuration"
+  },
+  {
+    "value": "azure_virtual_wan_hub_deployment",
+    "label": "Azure Virtual WAN Hub Deployment"
+  },
+  {
+    "value": "azure_virtual_wan_hub_management",
+    "label": "Azure Virtual WAN Hub Management"
+  },
+  {
+    "value": "azure_virtual_wan_hubs",
+    "label": "Azure Virtual WAN Hubs"
+  },
+  {
+    "value": "azure_virtual_wan_management",
+    "label": "Azure Virtual WAN Management"
+  },
+  {
+    "value": "azure_virtual_wan_monitoring",
+    "label": "Azure Virtual WAN Monitoring"
+  },
+  {
+    "value": "azure_virtual_wan_pricing",
+    "label": "Azure Virtual WAN Pricing"
+  },
+  {
+    "value": "azure_virtual_wan_secure_hub",
+    "label": "Azure Virtual WAN Secure Hub"
+  },
+  {
+    "value": "azure_virtual_wan_security",
+    "label": "Azure Virtual WAN Security"
+  },
+  {
+    "value": "azure_virtual_wan_standard",
+    "label": "Azure Virtual WAN Standard"
+  },
+  {
+    "value": "azure_vnet_configuration",
+    "label": "Azure VNet Configuration"
+  },
+  {
+    "value": "azure_vnet_deployment",
+    "label": "Azure VNet Deployment"
+  },
+  {
+    "value": "azure_vnet_gateway_configuration",
+    "label": "Azure VNet Gateway Configuration"
+  },
+  {
+    "value": "azure_vnet_gateway_management",
+    "label": "Azure VNet Gateway Management"
+  },
+  {
+    "value": "azure_vnet_gateway_monitoring",
+    "label": "Azure VNet Gateway Monitoring"
+  },
+  {
+    "value": "azure_vnet_gateway_security",
+    "label": "Azure VNet Gateway Security"
+  },
+  {
+    "value": "azure_vnet_integration",
+    "label": "Azure VNet Integration"
+  },
+  {
+    "value": "azure_vnet_management",
+    "label": "Azure VNet Management"
+  },
+  {
+    "value": "azure_vnet_monitoring",
+    "label": "Azure VNet Monitoring"
+  },
+  {
+    "value": "azure_vnet_peering",
+    "label": "Azure VNet Peering"
+  },
+  {
+    "value": "azure_vnet_peering_management",
+    "label": "Azure VNet Peering Management"
+  },
+  {
+    "value": "azure_vnet_security",
+    "label": "Azure VNet Security"
+  },
+  {
+    "value": "azure_vnet_service_endpoints",
+    "label": "Azure VNet Service Endpoints"
+  },
+  {
+    "value": "azure_vnet_virtual_network",
+    "label": "Azure VNet Virtual Network"
+  },
+  {
+    "value": "azure_vpn_configuration",
+    "label": "Azure VPN Configuration"
+  },
+  {
+    "value": "azure_vpn_gateway",
+    "label": "Azure VPN Gateway"
+  },
+  {
+    "value": "azure_vpn_gateway_bgp",
+    "label": "Azure VPN Gateway BGP"
+  },
+  {
+    "value": "azure_vpn_gateway_configuration",
+    "label": "Azure VPN Gateway Configuration"
+  },
+  {
+    "value": "azure_vpn_gateway_connection",
+    "label": "Azure VPN Gateway Connection"
+  },
+  {
+    "value": "azure_vpn_gateway_high_availability",
+    "label": "Azure VPN Gateway High Availability"
+  },
+  {
+    "value": "azure_vpn_gateway_management",
+    "label": "Azure VPN Gateway Management"
+  },
+  {
+    "value": "azure_vpn_gateway_monitoring",
+    "label": "Azure VPN Gateway Monitoring"
+  },
+  {
+    "value": "azure_vpn_gateway_routing",
+    "label": "Azure VPN Gateway Routing"
+  },
+  {
+    "value": "azure_vpn_gateway_security",
+    "label": "Azure VPN Gateway Security"
+  },
+  {
+    "value": "azure_vpn_gateway_sku",
+    "label": "Azure VPN Gateway SKU"
+  },
+  {
+    "value": "azure_vpn_point_to_site",
+    "label": "Azure VPN Point-to-Site"
+  },
+  {
+    "value": "azure_vpn_point_to_site_configuration",
+    "label": "Azure VPN Point-to-Site Configuration"
+  },
+  {
+    "value": "azure_vpn_point_to_site_management",
+    "label": "Azure VPN Point-to-Site Management"
+  },
+  {
+    "value": "azure_vpn_site_to_site",
+    "label": "Azure VPN Site-to-Site"
+  },
+  {
+    "value": "azure_vpn_site_to_site_configuration",
+    "label": "Azure VPN Site-to-Site Configuration"
+  },
+  {
+    "value": "azure_vpn_site_to_site_management",
+    "label": "Azure VPN Site-to-Site Management"
+  },
+  {
+    "value": "azure_vpn_site_to_site_monitoring",
+    "label": "Azure VPN Site-to-Site Monitoring"
+  },
+  {
+    "value": "azure_vpn_site_to_site_security",
+    "label": "Azure VPN Site-to-Site Security"
+  },
+  {
+    "value": "azure_vpn_troubleshooting",
+    "label": "Azure VPN Troubleshooting"
+  },
+  {
+    "value": "azure_vsts_visual_studio_team_services",
+    "label": "Azure VSTS (Visual Studio Team Services)"
+  },
+  {
+    "value": "azure_waf_web_application_firewall",
+    "label": "Azure WAF (Web Application Firewall)"
+  },
+  {
+    "value": "azure_waf_configuration",
+    "label": "Azure WAF Configuration"
+  },
+  {
+    "value": "azure_waf_management",
+    "label": "Azure WAF Management"
+  },
+  {
+    "value": "azure_waf_monitoring",
+    "label": "Azure WAF Monitoring"
+  },
+  {
+    "value": "azure_waf_security",
+    "label": "Azure WAF Security"
+  },
+  {
+    "value": "azure_web_application_firewall",
+    "label": "Azure Web Application Firewall"
+  },
+  {
+    "value": "azure_web_application_firewall_waf_policies",
+    "label": "Azure Web Application Firewall (WAF) Policies"
+  },
+  {
+    "value": "azure_web_application_firewall_waf_security",
+    "label": "Azure Web Application Firewall (WAF) Security"
+  },
+  {
+    "value": "azure_web_application_firewall_waf_threat_detection",
+    "label": "Azure Web Application Firewall (WAF) Threat Detection"
+  },
+  {
+    "value": "azure_web_apps_authentication",
+    "label": "Azure Web Apps Authentication"
+  },
+  {
+    "value": "azure_web_apps_ci_cd",
+    "label": "Azure Web Apps CI/CD"
+  },
+  {
+    "value": "azure_web_apps_configuration",
+    "label": "Azure Web Apps Configuration"
+  },
+  {
+    "value": "azure_web_apps_hosting",
+    "label": "Azure Web Apps Hosting"
+  },
+  {
+    "value": "azure_web_apps_monitoring",
+    "label": "Azure Web Apps Monitoring"
+  },
+  {
+    "value": "azure_web_apps_scaling",
+    "label": "Azure Web Apps Scaling"
+  },
+  {
+    "value": "azure_web_apps_security",
+    "label": "Azure Web Apps Security"
+  },
+  {
+    "value": "azure_web_apps_storage",
+    "label": "Azure Web Apps Storage"
+  },
+  {
+    "value": "azure_web_pubsub",
+    "label": "Azure Web PubSub"
+  },
+  {
+    "value": "azure_web_pubsub_client_libraries",
+    "label": "Azure Web PubSub Client Libraries"
+  },
+  {
+    "value": "azure_web_pubsub_configuration",
+    "label": "Azure Web PubSub Configuration"
+  },
+  {
+    "value": "azure_web_pubsub_features",
+    "label": "Azure Web PubSub Features"
+  },
+  {
+    "value": "azure_web_pubsub_management",
+    "label": "Azure Web PubSub Management"
+  },
+  {
+    "value": "azure_web_pubsub_monitoring",
+    "label": "Azure Web PubSub Monitoring"
+  },
+  {
+    "value": "azure_web_pubsub_security",
+    "label": "Azure Web PubSub Security"
+  },
+  {
+    "value": "azure_windows_server",
+    "label": "Azure Windows Server"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd",
+    "label": "Azure Windows Virtual Desktop (WVD)"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd_configuration",
+    "label": "Azure Windows Virtual Desktop (WVD) Configuration"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd_host_pools",
+    "label": "Azure Windows Virtual Desktop (WVD) Host Pools"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd_management",
+    "label": "Azure Windows Virtual Desktop (WVD) Management"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd_monitoring",
+    "label": "Azure Windows Virtual Desktop (WVD) Monitoring"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd_security",
+    "label": "Azure Windows Virtual Desktop (WVD) Security"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd_storage",
+    "label": "Azure Windows Virtual Desktop (WVD) Storage"
+  },
+  {
+    "value": "azure_windows_virtual_desktop_wvd_user_management",
+    "label": "Azure Windows Virtual Desktop (WVD) User Management"
+  },
+  {
+    "value": "azure_wvd_windows_virtual_desktop_performance",
+    "label": "Azure WVD (Windows Virtual Desktop) Performance"
+  },
+  {
+    "value": "azure_wvd_windows_virtual_desktop_pricing",
+    "label": "Azure WVD (Windows Virtual Desktop) Pricing"
+  },
+  {
+    "value": "azure_wvd_windows_virtual_desktop_setup",
+    "label": "Azure WVD (Windows Virtual Desktop) Setup"
+  },
+  {
+    "value": "azure_wvd_windows_virtual_desktop_use_cases",
+    "label": "Azure WVD (Windows Virtual Desktop) Use Cases"
+  },
+  {
+    "value": "azuread",
+    "label": "AzureAD"
+  },
+  {
+    "value": "azuread_b2b",
+    "label": "AzureAD B2B"
+  },
+  {
+    "value": "azuread_b2c",
+    "label": "AzureAD B2C"
+  },
+  {
+    "value": "azuread_conditional_access",
+    "label": "AzureAD Conditional Access"
+  },
+  {
+    "value": "azuread_connect",
+    "label": "AzureAD Connect"
+  },
+  {
+    "value": "azuread_connect_health",
+    "label": "AzureAD Connect Health"
+  },
+  {
+    "value": "azuread_device_management",
+    "label": "AzureAD Device Management"
+  },
+  {
+    "value": "azuread_identity_protection",
+    "label": "AzureAD Identity Protection"
+  },
+  {
+    "value": "azuread_pim",
+    "label": "AzureAD PIM"
+  },
+  {
+    "value": "azuread_security",
+    "label": "AzureAD Security"
+  },
+  {
+    "value": "azuread_sso",
+    "label": "AzureAD SSO"
+  },
+  {
+    "value": "azuread_users_and_groups",
+    "label": "AzureAD Users and Groups"
+  },
+  {
+    "value": "azure_devtest_labs_templates",
+    "label": "AzureDevTest Labs Templates"
+  },
+  {
+    "value": "azure_devtest_labs_vms",
+    "label": "AzureDevTest Labs VMs"
+  },
+  {
+    "value": "azure_digital_twins_configuration",
+    "label": "AzureDigital Twins Configuration"
+  },
+  {
+    "value": "azure_digital_twins_models",
+    "label": "AzureDigital Twins Models"
+  },
+  {
+    "value": "azure_digital_twins_monitoring",
+    "label": "AzureDigital Twins Monitoring"
+  },
+  {
+    "value": "azure_digital_twins_performance",
+    "label": "AzureDigital Twins Performance"
+  },
+  {
+    "value": "azure_digital_twins_security",
+    "label": "AzureDigital Twins Security"
+  },
+  {
+    "value": "azure_firewall_dnat",
+    "label": "AzureFirewall DNAT"
+  },
+  {
+    "value": "azure_firewall_fqdn_tags",
+    "label": "AzureFirewall FQDN Tags"
+  },
+  {
+    "value": "azure_firewall_idps",
+    "label": "AzureFirewall IDPS"
+  },
+  {
+    "value": "azure_firewall_management",
+    "label": "AzureFirewall Management"
+  },
+  {
+    "value": "azure_firewall_monitoring",
+    "label": "AzureFirewall Monitoring"
+  },
+  {
+    "value": "azure_firewall_nat_rules",
+    "label": "AzureFirewall NAT Rules"
+  },
+  {
+    "value": "azure_firewall_network_rules",
+    "label": "AzureFirewall Network Rules"
+  },
+  {
+    "value": "azure_firewall_policies",
+    "label": "AzureFirewall Policies"
+  },
+  {
+    "value": "azure_firewall_premium",
+    "label": "AzureFirewall Premium"
+  },
+  {
+    "value": "azure_firewall_security",
+    "label": "AzureFirewall Security"
+  },
+  {
+    "value": "azure_front_door_caching",
+    "label": "AzureFront Door Caching"
+  },
+  {
+    "value": "azure_front_door_custom_domains",
+    "label": "AzureFront Door Custom Domains"
+  },
+  {
+    "value": "azure_front_door_rules_engine",
+    "label": "AzureFront Door Rules Engine"
+  },
+  {
+    "value": "azure_front_door_security",
+    "label": "AzureFront Door Security"
+  },
+  {
+    "value": "azure_front_door_waf",
+    "label": "AzureFront Door WAF"
+  },
+  {
+    "value": "azure_functions_bindings",
+    "label": "AzureFunctions Bindings"
+  },
+  {
+    "value": "azure_functions_proxies",
+    "label": "AzureFunctions Proxies"
+  },
+  {
+    "value": "azure_functions_security",
+    "label": "AzureFunctions Security"
+  },
+  {
+    "value": "azure_iot_central_configuration",
+    "label": "AzureIoT Central Configuration"
+  },
+  {
+    "value": "azure_iot_central_monitoring",
+    "label": "AzureIoT Central Monitoring"
+  },
+  {
+    "value": "azure_iot_central_performance",
+    "label": "AzureIoT Central Performance"
+  },
+  {
+    "value": "azure_iot_central_security",
+    "label": "AzureIoT Central Security"
+  },
+  {
+    "value": "azure_iot_edge_configuration",
+    "label": "AzureIoT Edge Configuration"
+  },
+  {
+    "value": "azure_iot_edge_devices",
+    "label": "AzureIoT Edge Devices"
+  },
+  {
+    "value": "azure_iot_edge_modules",
+    "label": "AzureIoT Edge Modules"
+  },
+  {
+    "value": "azure_iot_edge_security",
+    "label": "AzureIoT Edge Security"
+  },
+  {
+    "value": "azure_iot_hub_configuration",
+    "label": "AzureIoT Hub Configuration"
+  },
+  {
+    "value": "azure_iot_hub_device_management",
+    "label": "AzureIoT Hub Device Management"
+  },
+  {
+    "value": "azure_iot_hub_identity_registry",
+    "label": "AzureIoT Hub Identity Registry"
+  },
+  {
+    "value": "azure_iot_hub_messaging",
+    "label": "AzureIoT Hub Messaging"
+  },
+  {
+    "value": "azure_iot_hub_monitoring",
+    "label": "AzureIoT Hub Monitoring"
+  },
+  {
+    "value": "azure_iot_hub_provisioning_service",
+    "label": "AzureIoT Hub Provisioning Service"
+  },
+  {
+    "value": "azure_iot_hub_security",
+    "label": "AzureIoT Hub Security"
+  },
+  {
+    "value": "azure_iot_suite_configuration",
+    "label": "AzureIoT Suite Configuration"
+  },
+  {
+    "value": "azure_iot_suite_monitoring",
+    "label": "AzureIoT Suite Monitoring"
+  },
+  {
+    "value": "azure_iot_suite_security",
+    "label": "AzureIoT Suite Security"
+  },
+  {
+    "value": "azure_kubernetes_service_aks_add_ons",
+    "label": "AzureKubernetes Service (AKS) Add-ons"
+  },
+  {
+    "value": "azure_kubernetes_service_aks_authentication",
+    "label": "AzureKubernetes Service (AKS) Authentication"
+  },
+  {
+    "value": "azure_kubernetes_service_aks_monitoring",
+    "label": "AzureKubernetes Service (AKS) Monitoring"
+  },
+  {
+    "value": "azure_kubernetes_service_aks_networking",
+    "label": "AzureKubernetes Service (AKS) Networking"
+  },
+  {
+    "value": "azure_kubernetes_service_aks_security",
+    "label": "AzureKubernetes Service (AKS) Security"
+  },
+  {
+    "value": "azure_migrate_appliance",
+    "label": "AzureMigrate Appliance"
+  },
+  {
+    "value": "azure_migrate_assessment",
+    "label": "AzureMigrate Assessment"
+  },
+  {
+    "value": "azure_migrate_discovery",
+    "label": "AzureMigrate Discovery"
+  },
+  {
+    "value": "azure_migrate_projects",
+    "label": "AzureMigrate Projects"
+  },
+  {
+    "value": "azure_migrate_server_assessment",
+    "label": "AzureMigrate Server Assessment"
+  },
+  {
+    "value": "azure_migrate_server_migration",
+    "label": "AzureMigrate Server Migration"
+  },
+  {
+    "value": "azure_monitor_alerts",
+    "label": "AzureMonitor Alerts"
+  },
+  {
+    "value": "azure_monitor_application_insights",
+    "label": "AzureMonitor Application Insights"
+  },
+  {
+    "value": "azure_monitor_containers",
+    "label": "AzureMonitor Containers"
+  },
+  {
+    "value": "azure_monitor_logs",
+    "label": "AzureMonitor Logs"
+  },
+  {
+    "value": "azure_monitor_metrics",
+    "label": "AzureMonitor Metrics"
+  },
+  {
+    "value": "azure_monitor_network_insights",
+    "label": "AzureMonitor Network Insights"
+  },
+  {
+    "value": "azure_monitor_security",
+    "label": "AzureMonitor Security"
+  },
+  {
+    "value": "azure_monitor_workbooks",
+    "label": "AzureMonitor Workbooks"
+  },
+  {
+    "value": "azure_networking_virtual_network",
+    "label": "AzureNetworking Virtual Network"
+  },
+  {
+    "value": "azure_networking_virtual_network_address_space",
+    "label": "AzureNetworking Virtual Network Address Space"
+  },
+  {
+    "value": "azure_networking_virtual_network_ddos_protection",
+    "label": "AzureNetworking Virtual Network DDoS Protection"
+  },
+  {
+    "value": "azure_networking_virtual_network_dns_servers",
+    "label": "AzureNetworking Virtual Network DNS Servers"
+  },
+  {
+    "value": "azure_networking_virtual_network_gateways",
+    "label": "AzureNetworking Virtual Network Gateways"
+  },
+  {
+    "value": "azure_networking_virtual_network_management",
+    "label": "AzureNetworking Virtual Network Management"
+  },
+  {
+    "value": "azure_networking_virtual_network_monitoring",
+    "label": "AzureNetworking Virtual Network Monitoring"
+  },
+  {
+    "value": "azure_networking_virtual_network_network_security_groups",
+    "label": "AzureNetworking Virtual Network Network Security Groups"
+  },
+  {
+    "value": "azure_networking_virtual_network_peering",
+    "label": "AzureNetworking Virtual Network Peering"
+  },
+  {
+    "value": "azure_networking_virtual_network_performance",
+    "label": "AzureNetworking Virtual Network Performance"
+  },
+  {
+    "value": "azure_networking_virtual_network_route_tables",
+    "label": "AzureNetworking Virtual Network Route Tables"
+  },
+  {
+    "value": "azure_networking_virtual_network_security",
+    "label": "AzureNetworking Virtual Network Security"
+  },
+  {
+    "value": "azure_networking_virtual_network_subnets",
+    "label": "AzureNetworking Virtual Network Subnets"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_configuration",
+    "label": "AzureNetworking Virtual Network VNet Configuration"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway",
+    "label": "AzureNetworking Virtual Network VNet Gateway"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_configuration",
+    "label": "AzureNetworking Virtual Network VNet Gateway Configuration"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_connections",
+    "label": "AzureNetworking Virtual Network VNet Gateway Connections"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_interfaces",
+    "label": "AzureNetworking Virtual Network VNet Gateway Interfaces"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_logs",
+    "label": "AzureNetworking Virtual Network VNet Gateway Logs"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_management",
+    "label": "AzureNetworking Virtual Network VNet Gateway Management"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_monitoring",
+    "label": "AzureNetworking Virtual Network VNet Gateway Monitoring"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_performance",
+    "label": "AzureNetworking Virtual Network VNet Gateway Performance"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_performance_metrics",
+    "label": "AzureNetworking Virtual Network VNet Gateway Performance Metrics"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_routes",
+    "label": "AzureNetworking Virtual Network VNet Gateway Routes"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_security",
+    "label": "AzureNetworking Virtual Network VNet Gateway Security"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_security_policies",
+    "label": "AzureNetworking Virtual Network VNet Gateway Security Policies"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_subnets",
+    "label": "AzureNetworking Virtual Network VNet Gateway Subnets"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_traffic",
+    "label": "AzureNetworking Virtual Network VNet Gateway Traffic"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_troubleshooting",
+    "label": "AzureNetworking Virtual Network VNet Gateway Troubleshooting"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_configuration",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Configuration"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_configuration",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Configuration"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_logs",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Logs"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_management",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Management"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_monitoring",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Monitoring"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_performance",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Performance"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_policies",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Policies"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_security",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Security"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_connection_troubleshooting",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Connection Troubleshooting"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_logs",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Logs"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_management",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Management"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_monitoring",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Monitoring"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_performance",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Performance"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_policies",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Policies"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_security",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Security"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_gateway_vpn_troubleshooting",
+    "label": "AzureNetworking Virtual Network VNet Gateway VPN Troubleshooting"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_management",
+    "label": "AzureNetworking Virtual Network VNet Management"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_monitoring",
+    "label": "AzureNetworking Virtual Network VNet Monitoring"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_peering",
+    "label": "AzureNetworking Virtual Network VNet Peering"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_performance",
+    "label": "AzureNetworking Virtual Network VNet Performance"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_security",
+    "label": "AzureNetworking Virtual Network VNet Security"
+  },
+  {
+    "value": "azure_networking_virtual_network_vnet_troubleshooting",
+    "label": "AzureNetworking Virtual Network VNet Troubleshooting"
+  },
+  {
+    "value": "azure_networking_virtual_wan",
+    "label": "AzureNetworking Virtual WAN"
+  },
+  {
+    "value": "azure_networking_virtual_wan_configuration",
+    "label": "AzureNetworking Virtual WAN Configuration"
+  },
+  {
+    "value": "azure_networking_virtual_wan_hubs",
+    "label": "AzureNetworking Virtual WAN Hubs"
+  },
+  {
+    "value": "azure_networking_virtual_wan_management",
+    "label": "AzureNetworking Virtual WAN Management"
+  },
+  {
+    "value": "azure_networking_virtual_wan_monitoring",
+    "label": "AzureNetworking Virtual WAN Monitoring"
+  },
+  {
+    "value": "azure_networking_virtual_wan_performance",
+    "label": "AzureNetworking Virtual WAN Performance"
+  },
+  {
+    "value": "azure_networking_virtual_wan_security",
+    "label": "AzureNetworking Virtual WAN Security"
+  },
+  {
+    "value": "azure_networking_vnet",
+    "label": "AzureNetworking VNet"
+  },
+  {
+    "value": "azure_networking_vnet_peering",
+    "label": "AzureNetworking VNet Peering"
+  },
+  {
+    "value": "azure_networking_vpn",
+    "label": "AzureNetworking VPN"
+  },
+  {
+    "value": "azure_networking_vpn_configuration",
+    "label": "AzureNetworking VPN Configuration"
+  },
+  {
+    "value": "azure_networking_vpn_gateway",
+    "label": "AzureNetworking VPN Gateway"
+  },
+  {
+    "value": "azure_networking_vpn_gateway_configuration",
+    "label": "AzureNetworking VPN Gateway Configuration"
+  },
+  {
+    "value": "azure_networking_vpn_gateway_management",
+    "label": "AzureNetworking VPN Gateway Management"
+  },
+  {
+    "value": "azure_networking_vpn_gateway_monitoring",
+    "label": "AzureNetworking VPN Gateway Monitoring"
+  },
+  {
+    "value": "azure_networking_vpn_gateway_performance",
+    "label": "AzureNetworking VPN Gateway Performance"
+  },
+  {
+    "value": "azure_networking_vpn_gateway_security",
+    "label": "AzureNetworking VPN Gateway Security"
+  },
+  {
+    "value": "azure_networking_vpn_management",
+    "label": "AzureNetworking VPN Management"
+  },
+  {
+    "value": "azure_networking_vpn_monitoring",
+    "label": "AzureNetworking VPN Monitoring"
+  },
+  {
+    "value": "azure_networking_vpn_performance",
+    "label": "AzureNetworking VPN Performance"
+  },
+  {
+    "value": "azure_networking_vpn_point_to_site",
+    "label": "AzureNetworking VPN Point-to-Site"
+  },
+  {
+    "value": "azure_networking_vpn_security",
+    "label": "AzureNetworking VPN Security"
+  },
+  {
+    "value": "azure_networking_vpn_site_to_site",
+    "label": "AzureNetworking VPN Site-to-Site"
+  },
+  {
+    "value": "azure_networking_vpn_troubleshooting",
+    "label": "AzureNetworking VPN Troubleshooting"
+  },
+  {
+    "value": "babel",
+    "label": "Babel"
+  },
+  {
+    "value": "backblaze",
+    "label": "Backblaze"
+  },
+  {
+    "value": "backbone_js",
+    "label": "Backbone.js"
+  },
+  {
+    "value": "backup_and_restore",
+    "label": "Backup and Restore"
+  },
+  {
+    "value": "baidu_ai_cloud",
+    "label": "Baidu AI Cloud"
+  },
+  {
+    "value": "balsamiq",
+    "label": "Balsamiq"
+  },
+  {
+    "value": "bamboo",
+    "label": "Bamboo"
+  },
+  {
+    "value": "bare_metal_compute",
+    "label": "Bare Metal Compute"
+  },
+  {
+    "value": "bare_metal_servers",
+    "label": "Bare Metal Servers"
+  },
+  {
+    "value": "basecamp",
+    "label": "Basecamp"
+  },
+  {
+    "value": "bash",
+    "label": "Bash"
+  },
+  {
+    "value": "batch_compute",
+    "label": "Batch Compute"
+  },
+  {
+    "value": "bazaar",
+    "label": "Bazaar"
+  },
+  {
+    "value": "beanstalkd",
+    "label": "Beanstalkd"
+  },
+  {
+    "value": "bigcommerce",
+    "label": "BigCommerce"
+  },
+  {
+    "value": "bigpanda",
+    "label": "BigPanda"
+  },
+  {
+    "value": "bigquery_data_analytics",
+    "label": "BigQuery (Data Analytics)"
+  },
+  {
+    "value": "bigquery_data_warehouse",
+    "label": "BigQuery (Data Warehouse)"
+  },
+  {
+    "value": "bigquery_ml",
+    "label": "BigQuery ML"
+  },
+  {
+    "value": "billing_reports",
+    "label": "Billing Reports"
+  },
+  {
+    "value": "bitbucket",
+    "label": "Bitbucket"
+  },
+  {
+    "value": "bitbucket_pipelines",
+    "label": "Bitbucket Pipelines"
+  },
+  {
+    "value": "bitrise",
+    "label": "Bitrise"
+  },
+  {
+    "value": "blackbox_exporter",
+    "label": "Blackbox Exporter"
+  },
+  {
+    "value": "blazor",
+    "label": "Blazor"
+  },
+  {
+    "value": "blitz_js",
+    "label": "Blitz.js"
+  },
+  {
+    "value": "block_storage",
+    "label": "Block Storage"
+  },
+  {
+    "value": "blocks_and_procs",
+    "label": "Blocks and Procs"
+  },
+  {
+    "value": "bluefish",
+    "label": "Bluefish"
+  },
+  {
+    "value": "bluematador",
+    "label": "BlueMatador"
+  },
+  {
+    "value": "bmc_remedy",
+    "label": "BMC Remedy"
+  },
+  {
+    "value": "bookshelf_js",
+    "label": "Bookshelf.js"
+  },
+  {
+    "value": "bootstrap",
+    "label": "Bootstrap"
+  },
+  {
+    "value": "bottle",
+    "label": "Bottle"
+  },
+  {
+    "value": "brackets",
+    "label": "Brackets"
+  },
+  {
+    "value": "buddy",
+    "label": "Buddy"
+  },
+  {
+    "value": "buddy_works",
+    "label": "Buddy Works"
+  },
+  {
+    "value": "bugsnag",
+    "label": "Bugsnag"
+  },
+  {
+    "value": "buildkite",
+    "label": "Buildkite"
+  },
+  {
+    "value": "bull",
+    "label": "Bull"
+  },
+  {
+    "value": "bulma",
+    "label": "Bulma"
+  },
+  {
+    "value": "business_intelligence_bi",
+    "label": "Business Intelligence (BI)"
+  },
+  {
+    "value": "csharp",
+    "label": "C#"
+  },
+  {
+    "value": "cpp",
+    "label": "C++"
+  },
+  {
+    "value": "ca_service_desk_manager",
+    "label": "CA Service Desk Manager"
+  },
+  {
+    "value": "cacoo",
+    "label": "Cacoo"
+  },
+  {
+    "value": "cadvisor",
+    "label": "CAdvisor"
+  },
+  {
+    "value": "cakephp",
+    "label": "CakePHP"
+  },
+  {
+    "value": "carbonite",
+    "label": "Carbonite"
+  },
+  {
+    "value": "cassandra",
+    "label": "Cassandra"
+  },
+  {
+    "value": "celery",
+    "label": "Celery"
+  },
+  {
+    "value": "chakra_ui",
+    "label": "Chakra UI"
+  },
+  {
+    "value": "chameleon",
+    "label": "Chameleon"
+  },
+  {
+    "value": "channels_communication_between_goroutines",
+    "label": "Channels (Communication Between Goroutines)"
+  },
+  {
+    "value": "chart_js",
+    "label": "Chart.js"
+  },
+  {
+    "value": "checkmk",
+    "label": "Checkmk"
+  },
+  {
+    "value": "chef",
+    "label": "Chef"
+  },
+  {
+    "value": "cherrypy",
+    "label": "CherryPy"
+  },
+  {
+    "value": "cherwell",
+    "label": "Cherwell"
+  },
+  {
+    "value": "ci_cd_integrations",
+    "label": "CI/CD Integrations"
+  },
+  {
+    "value": "circleci",
+    "label": "CircleCI"
+  },
+  {
+    "value": "cisco_hyperflex",
+    "label": "Cisco HyperFlex"
+  },
+  {
+    "value": "citrix_hypervisor",
+    "label": "Citrix Hypervisor"
+  },
+  {
+    "value": "clearcase",
+    "label": "ClearCase"
+  },
+  {
+    "value": "cleavr",
+    "label": "Cleavr"
+  },
+  {
+    "value": "cli",
+    "label": "CLI"
+  },
+  {
+    "value": "clickhouse",
+    "label": "ClickHouse"
+  },
+  {
+    "value": "clickup",
+    "label": "ClickUp"
+  },
+  {
+    "value": "clion",
+    "label": "CLion"
+  },
+  {
+    "value": "closures",
+    "label": "Closures"
+  },
+  {
+    "value": "cloud",
+    "label": "Cloud"
+  },
+  {
+    "value": "cloud_advisor",
+    "label": "Cloud Advisor"
+  },
+  {
+    "value": "cloud_audit_logs",
+    "label": "Cloud Audit Logs"
+  },
+  {
+    "value": "cloud_bigtable_nosql_database",
+    "label": "Cloud Bigtable (NoSQL Database)"
+  },
+  {
+    "value": "cloud_build",
+    "label": "Cloud Build"
+  },
+  {
+    "value": "cloud_cdn",
+    "label": "Cloud CDN"
+  },
+  {
+    "value": "cloud_compliance",
+    "label": "Cloud Compliance"
+  },
+  {
+    "value": "cloud_console",
+    "label": "Cloud Console"
+  },
+  {
+    "value": "cloud_cost_management",
+    "label": "Cloud Cost Management"
+  },
+  {
+    "value": "cloud_deployment_manager",
+    "label": "Cloud Deployment Manager"
+  },
+  {
+    "value": "cloud_firewall",
+    "label": "Cloud Firewall"
+  },
+  {
+    "value": "cloud_foundry_platform_as_a_service",
+    "label": "Cloud Foundry (Platform-as-a-Service)"
+  },
+  {
+    "value": "cloud_functions",
+    "label": "Cloud Functions"
+  },
+  {
+    "value": "cloud_functions_serverless_compute",
+    "label": "Cloud Functions (Serverless Compute)"
+  },
+  {
+    "value": "cloud_interconnect",
+    "label": "Cloud Interconnect"
+  },
+  {
+    "value": "cloud_kms_value_management_service",
+    "label": "Cloud KMS (value Management Service)"
+  },
+  {
+    "value": "cloud_load_balancing",
+    "label": "Cloud Load Balancing"
+  },
+  {
+    "value": "cloud_logging",
+    "label": "Cloud Logging"
+  },
+  {
+    "value": "cloud_monitoring",
+    "label": "Cloud Monitoring"
+  },
+  {
+    "value": "cloud_object_storage",
+    "label": "Cloud Object Storage"
+  },
+  {
+    "value": "cloud_operations",
+    "label": "Cloud Operations"
+  },
+  {
+    "value": "cloud_pub_sub_event_streaming",
+    "label": "Cloud Pub/Sub (Event Streaming)"
+  },
+  {
+    "value": "cloud_resource_manager",
+    "label": "Cloud Resource Manager"
+  },
+  {
+    "value": "cloud_run",
+    "label": "Cloud Run"
+  },
+  {
+    "value": "cloud_run_containerized_applications",
+    "label": "Cloud Run (Containerized Applications)"
+  },
+  {
+    "value": "cloud_sdk",
+    "label": "Cloud SDK"
+  },
+  {
+    "value": "cloud_security",
+    "label": "Cloud Security"
+  },
+  {
+    "value": "cloud_security_command_center",
+    "label": "Cloud Security Command Center"
+  },
+  {
+    "value": "cloud_source_repositories",
+    "label": "Cloud Source Repositories"
+  },
+  {
+    "value": "cloud_spanner_globally_distributed_sql_database",
+    "label": "Cloud Spanner (Globally Distributed SQL Database)"
+  },
+  {
+    "value": "cloud_sql_managed_sql_database",
+    "label": "Cloud SQL (Managed SQL Database)"
+  },
+  {
+    "value": "cloud_storage_object_storage",
+    "label": "Cloud Storage (Object Storage)"
+  },
+  {
+    "value": "cloud_toolkit",
+    "label": "Cloud Toolkit"
+  },
+  {
+    "value": "cloud_trace",
+    "label": "Cloud Trace"
+  },
+  {
+    "value": "cloud_vpn",
+    "label": "Cloud VPN"
+  },
+  {
+    "value": "cloudally",
+    "label": "CloudAlly"
+  },
+  {
+    "value": "cloudant_nosql_database",
+    "label": "Cloudant (NoSQL Database)"
+  },
+  {
+    "value": "cloudbees_core",
+    "label": "CloudBees Core"
+  },
+  {
+    "value": "cloudbolt",
+    "label": "CloudBolt"
+  },
+  {
+    "value": "cloudera",
+    "label": "Cloudera"
+  },
+  {
+    "value": "cloudflare",
+    "label": "Cloudflare"
+  },
+  {
+    "value": "cloudflare_workers",
+    "label": "Cloudflare Workers"
+  },
+  {
+    "value": "cloudformation",
+    "label": "CloudFormation"
+  },
+  {
+    "value": "cloudfront_cdn",
+    "label": "CloudFront (CDN)"
+  },
+  {
+    "value": "cloudify",
+    "label": "Cloudify"
+  },
+  {
+    "value": "cloudmonitor",
+    "label": "CloudMonitor"
+  },
+  {
+    "value": "cloudstack",
+    "label": "CloudStack"
+  },
+  {
+    "value": "cloudtrail_audit_logging",
+    "label": "CloudTrail (Audit Logging)"
+  },
+  {
+    "value": "cloudwatch_monitoring",
+    "label": "CloudWatch (Monitoring)"
+  },
+  {
+    "value": "cloudways",
+    "label": "Cloudways"
+  },
+  {
+    "value": "cockroachdb",
+    "label": "CockroachDB"
+  },
+  {
+    "value": "code_blocks",
+    "label": "Code::Blocks"
+  },
+  {
+    "value": "codebuild",
+    "label": "CodeBuild"
+  },
+  {
+    "value": "codecommit",
+    "label": "CodeCommit"
+  },
+  {
+    "value": "codedeploy",
+    "label": "CodeDeploy"
+  },
+  {
+    "value": "codefresh",
+    "label": "Codefresh"
+  },
+  {
+    "value": "codeigniter",
+    "label": "CodeIgniter"
+  },
+  {
+    "value": "codepen",
+    "label": "CodePen"
+  },
+  {
+    "value": "codepipeline",
+    "label": "CodePipeline"
+  },
+  {
+    "value": "codesandbox",
+    "label": "CodeSandbox"
+  },
+  {
+    "value": "codeship",
+    "label": "CodeShip"
+  },
+  {
+    "value": "codestar",
+    "label": "CodeStar"
+  },
+  {
+    "value": "codio",
+    "label": "Codio"
+  },
+  {
+    "value": "cohesity",
+    "label": "Cohesity"
+  },
+  {
+    "value": "coldline_storage",
+    "label": "Coldline Storage"
+  },
+  {
+    "value": "collections_framework_list_set_map",
+    "label": "Collections Framework (List, Set, Map)"
+  },
+  {
+    "value": "commvault",
+    "label": "Commvault"
+  },
+  {
+    "value": "composer_dependency_manager",
+    "label": "Composer (Dependency Manager)"
+  },
+  {
+    "value": "comprehend_natural_language_processing",
+    "label": "Comprehend (Natural Language Processing)"
+  },
+  {
+    "value": "compute_engine_virtual_machines",
+    "label": "Compute Engine (Virtual Machines)"
+  },
+  {
+    "value": "compute_instances",
+    "label": "Compute Instances"
+  },
+  {
+    "value": "concourse",
+    "label": "Concourse"
+  },
+  {
+    "value": "concurrency_patterns_worker_pools_fan_out",
+    "label": "Concurrency Patterns (Worker Pools, Fan-Out)"
+  },
+  {
+    "value": "confluence",
+    "label": "Confluence"
+  },
+  {
+    "value": "consul",
+    "label": "Consul"
+  },
+  {
+    "value": "consul_enterprise",
+    "label": "Consul Enterprise"
+  },
+  {
+    "value": "container_engine_for_kubernetes",
+    "label": "Container Engine for Kubernetes"
+  },
+  {
+    "value": "container_registry",
+    "label": "Container Registry"
+  },
+  {
+    "value": "container_service_for_kubernetes",
+    "label": "Container Service for Kubernetes"
+  },
+  {
+    "value": "content_delivery_network_cdn",
+    "label": "Content Delivery Network (CDN)"
+  },
+  {
+    "value": "contentful",
+    "label": "Contentful"
+  },
+  {
+    "value": "context_managers",
+    "label": "Context Managers"
+  },
+  {
+    "value": "continuous_integration_continuous_deployment_ci_cd",
+    "label": "Continuous Integration/Continuous Deployment (CI/CD)"
+  },
+  {
+    "value": "control_tower",
+    "label": "Control Tower"
+  },
+  {
+    "value": "convention_over_configuration",
+    "label": "Convention over Configuration"
+  },
+  {
+    "value": "coralogix",
+    "label": "Coralogix"
+  },
+  {
+    "value": "cortex",
+    "label": "Cortex"
+  },
+  {
+    "value": "couchbase",
+    "label": "Couchbase"
+  },
+  {
+    "value": "couchdb",
+    "label": "CouchDB"
+  },
+  {
+    "value": "crashplan",
+    "label": "CrashPlan"
+  },
+  {
+    "value": "crazy_egg",
+    "label": "Crazy Egg"
+  },
+  {
+    "value": "creately",
+    "label": "Creately"
+  },
+  {
+    "value": "crossplane",
+    "label": "Crossplane"
+  },
+  {
+    "value": "css",
+    "label": "CSS"
+  },
+  {
+    "value": "cvs",
+    "label": "CVS"
+  },
+  {
+    "value": "cypher_query_language_e_g_neo4j",
+    "label": "Cypher Query Language (e.g., Neo4j)"
+  },
+  {
+    "value": "cypress",
+    "label": "Cypress"
+  },
+  {
+    "value": "d3_js",
+    "label": "D3.js"
+  },
+  {
+    "value": "dagster",
+    "label": "Dagster"
+  },
+  {
+    "value": "dart",
+    "label": "Dart"
+  },
+  {
+    "value": "dashbird",
+    "label": "Dashbird"
+  },
+  {
+    "value": "data_cubes",
+    "label": "Data Cubes"
+  },
+  {
+    "value": "data_encryption",
+    "label": "Data Encryption"
+  },
+  {
+    "value": "data_loss_prevention_dlp",
+    "label": "Data Loss Prevention (DLP)"
+  },
+  {
+    "value": "data_marts_subject_specific_data_warehouses",
+    "label": "Data Marts (Subject-Specific Data Warehouses)"
+  },
+  {
+    "value": "data_pipeline",
+    "label": "Data Pipeline"
+  },
+  {
+    "value": "data_refinery",
+    "label": "Data Refinery"
+  },
+  {
+    "value": "data_safe",
+    "label": "Data Safe"
+  },
+  {
+    "value": "data_science",
+    "label": "Data Science"
+  },
+  {
+    "value": "data_studio_data_visualization",
+    "label": "Data Studio (Data Visualization)"
+  },
+  {
+    "value": "data_types_lists_tuples_dictionaries_sets",
+    "label": "Data Types (Lists, Tuples, Dictionaries, Sets)"
+  },
+  {
+    "value": "database_migration_service",
+    "label": "Database Migration Service"
+  },
+  {
+    "value": "databricks",
+    "label": "Databricks"
+  },
+  {
+    "value": "datadog",
+    "label": "Datadog"
+  },
+  {
+    "value": "datadog_apm",
+    "label": "Datadog APM"
+  },
+  {
+    "value": "dataflow_stream_and_batch_data_processing",
+    "label": "Dataflow (Stream and Batch Data Processing)"
+  },
+  {
+    "value": "datagrip",
+    "label": "DataGrip"
+  },
+  {
+    "value": "dataiku",
+    "label": "Dataiku"
+  },
+  {
+    "value": "dataproc_managed_spark_and_hadoop",
+    "label": "Dataproc (Managed Spark and Hadoop)"
+  },
+  {
+    "value": "datarobot",
+    "label": "DataRobot"
+  },
+  {
+    "value": "datastore_nosql_document_database",
+    "label": "Datastore (NoSQL Document Database)"
+  },
+  {
+    "value": "datav_data_visualization",
+    "label": "DataV (Data Visualization)"
+  },
+  {
+    "value": "dataworks_data_integration",
+    "label": "DataWorks (Data Integration)"
+  },
+  {
+    "value": "datto",
+    "label": "Datto"
+  },
+  {
+    "value": "db2",
+    "label": "DB2"
+  },
+  {
+    "value": "db2_on_cloud_sql_database",
+    "label": "Db2 on Cloud (SQL Database)"
+  },
+  {
+    "value": "db2_warehouse",
+    "label": "Db2 Warehouse"
+  },
+  {
+    "value": "ddos_protection",
+    "label": "DDoS Protection"
+  },
+  {
+    "value": "decorators",
+    "label": "Decorators"
+  },
+  {
+    "value": "delegates_and_events",
+    "label": "Delegates and Events"
+  },
+  {
+    "value": "dell_emc_vxrail",
+    "label": "Dell EMC VxRail"
+  },
+  {
+    "value": "demandware",
+    "label": "Demandware"
+  },
+  {
+    "value": "dialogflow_conversational_ai",
+    "label": "Dialogflow (Conversational AI)"
+  },
+  {
+    "value": "digitalocean",
+    "label": "DigitalOcean"
+  },
+  {
+    "value": "digitalocean_api",
+    "label": "DigitalOcean API"
+  },
+  {
+    "value": "digitalocean_app_platform",
+    "label": "DigitalOcean App Platform"
+  },
+  {
+    "value": "direct_connect",
+    "label": "Direct Connect"
+  },
+  {
+    "value": "direct_link_dedicated_connectivity",
+    "label": "Direct Link (Dedicated Connectivity)"
+  },
+  {
+    "value": "django",
+    "label": "Django"
+  },
+  {
+    "value": "django_flask_web_frameworks",
+    "label": "Django/Flask (Web Frameworks)"
+  },
+  {
+    "value": "docker",
+    "label": "Docker"
+  },
+  {
+    "value": "docker_swarm",
+    "label": "Docker Swarm"
+  },
+  {
+    "value": "doctrine",
+    "label": "Doctrine"
+  },
+  {
+    "value": "documentdb_managed_mongodb",
+    "label": "DocumentDB (Managed MongoDB)"
+  },
+  {
+    "value": "dom_manipulation",
+    "label": "DOM Manipulation"
+  },
+  {
+    "value": "draft",
+    "label": "Draft"
+  },
+  {
+    "value": "draw_io",
+    "label": "Draw.io"
+  },
+  {
+    "value": "drift",
+    "label": "Drift"
+  },
+  {
+    "value": "drone",
+    "label": "Drone"
+  },
+  {
+    "value": "droplets_virtual_machines",
+    "label": "Droplets (Virtual Machines)"
+  },
+  {
+    "value": "dropwizard",
+    "label": "Dropwizard"
+  },
+  {
+    "value": "druid",
+    "label": "Druid"
+  },
+  {
+    "value": "drupal",
+    "label": "Drupal"
+  },
+  {
+    "value": "druva",
+    "label": "Druva"
+  },
+  {
+    "value": "dynamic_typing",
+    "label": "Dynamic Typing"
+  },
+  {
+    "value": "dynamodb_nosql_database",
+    "label": "DynamoDB (NoSQL Database)"
+  },
+  {
+    "value": "dynatrace",
+    "label": "Dynatrace"
+  },
+  {
+    "value": "dynatrace_apm",
+    "label": "Dynatrace APM"
+  },
+  {
+    "value": "ebs_elastic_block_store",
+    "label": "EBS (Elastic Block Store)"
+  },
+  {
+    "value": "ec2_elastic_compute_cloud",
+    "label": "EC2 (Elastic Compute Cloud)"
+  },
+  {
+    "value": "eclipse",
+    "label": "Eclipse"
+  },
+  {
+    "value": "eclipselink",
+    "label": "EclipseLink"
+  },
+  {
+    "value": "ecmascript_es6_es7_es8_etc",
+    "label": "ECMAScript (ES6, ES7, ES8, etc.)"
+  },
+  {
+    "value": "ecs",
+    "label": "ECS"
+  },
+  {
+    "value": "ecs_elastic_container_service",
+    "label": "ECS (Elastic Container Service)"
+  },
+  {
+    "value": "edges_relationships",
+    "label": "Edges (Relationships)"
+  },
+  {
+    "value": "einstein_ai_ai_and_machine_learning",
+    "label": "Einstein AI (AI and Machine Learning)"
+  },
+  {
+    "value": "einstein_discovery",
+    "label": "Einstein Discovery"
+  },
+  {
+    "value": "einstein_language",
+    "label": "Einstein Language"
+  },
+  {
+    "value": "einstein_vision",
+    "label": "Einstein Vision"
+  },
+  {
+    "value": "eks",
+    "label": "EKS"
+  },
+  {
+    "value": "eks_elastic_kubernetes_service",
+    "label": "EKS (Elastic Kubernetes Service)"
+  },
+  {
+    "value": "elastic_apm",
+    "label": "Elastic APM"
+  },
+  {
+    "value": "elastic_compute_service_ecs",
+    "label": "Elastic Compute Service (ECS)"
+  },
+  {
+    "value": "elastic_load_balancer",
+    "label": "Elastic Load Balancer"
+  },
+  {
+    "value": "elastic_load_balancer_elb",
+    "label": "Elastic Load Balancer (ELB)"
+  },
+  {
+    "value": "elastic_mapreduce_emr",
+    "label": "Elastic MapReduce (EMR)"
+  },
+  {
+    "value": "elasticache_in_memory_data_store",
+    "label": "ElastiCache (In-Memory Data Store)"
+  },
+  {
+    "value": "elasticsearch",
+    "label": "ElasticSearch"
+  },
+  {
+    "value": "element_ui",
+    "label": "Element UI"
+  },
+  {
+    "value": "eleventy",
+    "label": "Eleventy"
+  },
+  {
+    "value": "elixir",
+    "label": "Elixir"
+  },
+  {
+    "value": "elk_stack_el",
+    "label": "ELK Stack (El"
+  },
+  {
+    "value": "elk_stack_elasticsearch_logstash_kibana",
+    "label": "ELK Stack (Elasticsearch, Logstash, Kibana)"
+  },
+  {
+    "value": "eloquent",
+    "label": "Eloquent"
+  },
+  {
+    "value": "emacs",
+    "label": "Emacs"
+  },
+  {
+    "value": "ember_js",
+    "label": "Ember.js"
+  },
+  {
+    "value": "encapsulation",
+    "label": "Encapsulation"
+  },
+  {
+    "value": "entity_framework_orm",
+    "label": "Entity Framework (ORM)"
+  },
+  {
+    "value": "envoy",
+    "label": "Envoy"
+  },
+  {
+    "value": "episerver",
+    "label": "Episerver"
+  },
+  {
+    "value": "epsagon",
+    "label": "Epsagon"
+  },
+  {
+    "value": "erlang",
+    "label": "Erlang"
+  },
+  {
+    "value": "error_handling",
+    "label": "Error Handling"
+  },
+  {
+    "value": "es_modules_import_export",
+    "label": "ES Modules (import/export)"
+  },
+  {
+    "value": "eslint",
+    "label": "ESLint"
+  },
+  {
+    "value": "etcd",
+    "label": "etcd"
+  },
+  {
+    "value": "etl_processes_extract_transform_load",
+    "label": "ETL Processes (Extract, Transform, Load)"
+  },
+  {
+    "value": "eucalyptus",
+    "label": "Eucalyptus"
+  },
+  {
+    "value": "eureka",
+    "label": "Eureka"
+  },
+  {
+    "value": "event_handling",
+    "label": "Event Handling"
+  },
+  {
+    "value": "event_loop",
+    "label": "Event Loop"
+  },
+  {
+    "value": "eventbridge",
+    "label": "EventBridge"
+  },
+  {
+    "value": "evernote",
+    "label": "Evernote"
+  },
+  {
+    "value": "express_js",
+    "label": "Express.js"
+  },
+  {
+    "value": "ext_js",
+    "label": "Ext JS"
+  },
+  {
+    "value": "faktory",
+    "label": "Faktory"
+  },
+  {
+    "value": "falcon",
+    "label": "Falcon"
+  },
+  {
+    "value": "fargate",
+    "label": "Fargate"
+  },
+  {
+    "value": "fastapi",
+    "label": "FastAPI"
+  },
+  {
+    "value": "fastly",
+    "label": "Fastly"
+  },
+  {
+    "value": "fastly_compute_edge",
+    "label": "Fastly Compute@Edge"
+  },
+  {
+    "value": "faunadb",
+    "label": "FaunaDB"
+  },
+  {
+    "value": "fetch_api",
+    "label": "Fetch API"
+  },
+  {
+    "value": "fiddler",
+    "label": "Fiddler"
+  },
+  {
+    "value": "figma",
+    "label": "Figma"
+  },
+  {
+    "value": "file_storage",
+    "label": "File Storage"
+  },
+  {
+    "value": "file_storage_nas",
+    "label": "File Storage (NAS)"
+  },
+  {
+    "value": "filestore_managed_nfs",
+    "label": "Filestore (Managed NFS)"
+  },
+  {
+    "value": "firebase",
+    "label": "Firebase"
+  },
+  {
+    "value": "firebase_firestore",
+    "label": "Firebase Firestore"
+  },
+  {
+    "value": "firebird",
+    "label": "Firebird"
+  },
+  {
+    "value": "firestore_nosql_document_database",
+    "label": "Firestore (NoSQL Document Database)"
+  },
+  {
+    "value": "firewalls",
+    "label": "Firewalls"
+  },
+  {
+    "value": "fivetran",
+    "label": "Fivetran"
+  },
+  {
+    "value": "flagger",
+    "label": "Flagger"
+  },
+  {
+    "value": "flask",
+    "label": "Flask"
+  },
+  {
+    "value": "floating_ips",
+    "label": "Floating IPs"
+  },
+  {
+    "value": "fluentbit",
+    "label": "Fluentbit"
+  },
+  {
+    "value": "fluentd",
+    "label": "Fluentd"
+  },
+  {
+    "value": "flux",
+    "label": "Flux"
+  },
+  {
+    "value": "fluxcd",
+    "label": "FluxCD"
+  },
+  {
+    "value": "fn_project",
+    "label": "Fn Project"
+  },
+  {
+    "value": "fork",
+    "label": "Fork"
+  },
+  {
+    "value": "fossil",
+    "label": "Fossil"
+  },
+  {
+    "value": "foundation",
+    "label": "Foundation"
+  },
+  {
+    "value": "framer",
+    "label": "Framer"
+  },
+  {
+    "value": "frameworks_e_g_react_angular_vue_js",
+    "label": "Frameworks (e.g., React, Angular, Vue.js)"
+  },
+  {
+    "value": "freshdesk",
+    "label": "Freshdesk"
+  },
+  {
+    "value": "freshservice",
+    "label": "Freshservice"
+  },
+  {
+    "value": "front",
+    "label": "Front"
+  },
+  {
+    "value": "fsx_file_system",
+    "label": "FSx (File System)"
+  },
+  {
+    "value": "fullstory",
+    "label": "FullStory"
+  },
+  {
+    "value": "function_compute",
+    "label": "Function Compute"
+  },
+  {
+    "value": "functions",
+    "label": "Functions"
+  },
+  {
+    "value": "functions_serverless",
+    "label": "Functions (Serverless)"
+  },
+  {
+    "value": "gainsight",
+    "label": "Gainsight"
+  },
+  {
+    "value": "ganttic",
+    "label": "Ganttic"
+  },
+  {
+    "value": "ganttpro",
+    "label": "GanttPRO"
+  },
+  {
+    "value": "garbage_collection",
+    "label": "Garbage Collection"
+  },
+  {
+    "value": "gatsby",
+    "label": "Gatsby"
+  },
+  {
+    "value": "geany",
+    "label": "Geany"
+  },
+  {
+    "value": "gearman",
+    "label": "Gearman"
+  },
+  {
+    "value": "gems_libraries_packages",
+    "label": "Gems (Libraries/Packages)"
+  },
+  {
+    "value": "generators",
+    "label": "Generators"
+  },
+  {
+    "value": "ghost",
+    "label": "Ghost"
+  },
+  {
+    "value": "git_cola",
+    "label": "Git Cola"
+  },
+  {
+    "value": "git_extensions",
+    "label": "Git Extensions"
+  },
+  {
+    "value": "git_integration",
+    "label": "Git Integration"
+  },
+  {
+    "value": "github_actions",
+    "label": "GitHub Actions"
+  },
+  {
+    "value": "github_codespaces",
+    "label": "GitHub Codespaces"
+  },
+  {
+    "value": "github_desktop",
+    "label": "GitHub Desktop"
+  },
+  {
+    "value": "github_packages",
+    "label": "GitHub Packages"
+  },
+  {
+    "value": "gitkraken",
+    "label": "GitKraken"
+  },
+  {
+    "value": "gitlab",
+    "label": "GitLab"
+  },
+  {
+    "value": "gitlab_ci",
+    "label": "GitLab CI"
+  },
+  {
+    "value": "gitlab_ci_cd",
+    "label": "GitLab CI/CD"
+  },
+  {
+    "value": "gitlab_runners",
+    "label": "GitLab Runners"
+  },
+  {
+    "value": "gitpod",
+    "label": "GitPod"
+  },
+  {
+    "value": "gke",
+    "label": "GKE"
+  },
+  {
+    "value": "glacier",
+    "label": "Glacier"
+  },
+  {
+    "value": "gliffy",
+    "label": "Gliffy"
+  },
+  {
+    "value": "glitch",
+    "label": "Glitch"
+  },
+  {
+    "value": "global_accelerator",
+    "label": "Global Accelerator"
+  },
+  {
+    "value": "glue_etl_service",
+    "label": "Glue (ETL Service)"
+  },
+  {
+    "value": "go",
+    "label": "Go"
+  },
+  {
+    "value": "go_modules",
+    "label": "Go Modules"
+  },
+  {
+    "value": "gocd",
+    "label": "GoCD"
+  },
+  {
+    "value": "google_ai_platform",
+    "label": "Google AI Platform"
+  },
+  {
+    "value": "google_anthos",
+    "label": "Google Anthos"
+  },
+  {
+    "value": "google_app_engine",
+    "label": "Google App Engine"
+  },
+  {
+    "value": "google_bigquery",
+    "label": "Google BigQuery"
+  },
+  {
+    "value": "google_cloud_build",
+    "label": "Google Cloud Build"
+  },
+  {
+    "value": "google_cloud_deployment_manager",
+    "label": "Google Cloud Deployment Manager"
+  },
+  {
+    "value": "google_cloud_functions",
+    "label": "Google Cloud Functions"
+  },
+  {
+    "value": "google_cloud_monitoring",
+    "label": "Google Cloud Monitoring"
+  },
+  {
+    "value": "google_cloud_platform_gcp",
+    "label": "Google Cloud Platform (GCP)"
+  },
+  {
+    "value": "google_cloud_run",
+    "label": "Google Cloud Run"
+  },
+  {
+    "value": "google_cloud_source_repositories",
+    "label": "Google Cloud Source Repositories"
+  },
+  {
+    "value": "google_cloud_spanner",
+    "label": "Google Cloud Spanner"
+  },
+  {
+    "value": "google_cloud_sql",
+    "label": "Google Cloud SQL"
+  },
+  {
+    "value": "google_cloud_trace",
+    "label": "Google Cloud Trace"
+  },
+  {
+    "value": "google_dataflow",
+    "label": "Google Dataflow"
+  },
+  {
+    "value": "google_distributed_cloud",
+    "label": "Google Distributed Cloud"
+  },
+  {
+    "value": "google_keep",
+    "label": "Google Keep"
+  },
+  {
+    "value": "goroutines_concurrency",
+    "label": "Goroutines (Concurrency)"
+  },
+  {
+    "value": "grafana",
+    "label": "Grafana"
+  },
+  {
+    "value": "grafana_agent",
+    "label": "Grafana Agent"
+  },
+  {
+    "value": "grafana_loki",
+    "label": "Grafana Loki"
+  },
+  {
+    "value": "grafana_tempo",
+    "label": "Grafana Tempo"
+  },
+  {
+    "value": "grails",
+    "label": "Grails"
+  },
+  {
+    "value": "graph_analytics",
+    "label": "Graph Analytics"
+  },
+  {
+    "value": "graph_theory_degree_connectivity",
+    "label": "Graph Theory (Degree, Connectivity)"
+  },
+  {
+    "value": "graphql",
+    "label": "GraphQL"
+  },
+  {
+    "value": "graylog",
+    "label": "Graylog"
+  },
+  {
+    "value": "gremlin",
+    "label": "Gremlin"
+  },
+  {
+    "value": "gridsome",
+    "label": "Gridsome"
+  },
+  {
+    "value": "groove",
+    "label": "Groove"
+  },
+  {
+    "value": "groovy",
+    "label": "Groovy"
+  },
+  {
+    "value": "guardduty_threat_detection",
+    "label": "GuardDuty (Threat Detection)"
+  },
+  {
+    "value": "guardium",
+    "label": "Guardium"
+  },
+  {
+    "value": "h2o_ai",
+    "label": "H2O.ai"
+  },
+  {
+    "value": "hanami",
+    "label": "Hanami"
+  },
+  {
+    "value": "hangfire",
+    "label": "Hangfire"
+  },
+  {
+    "value": "hapi_js",
+    "label": "Hapi.js"
+  },
+  {
+    "value": "happyfox",
+    "label": "HappyFox"
+  },
+  {
+    "value": "haproxy",
+    "label": "HAProxy"
+  },
+  {
+    "value": "harness",
+    "label": "Harness"
+  },
+  {
+    "value": "hashicorp_consul",
+    "label": "HashiCorp Consul"
+  },
+  {
+    "value": "hashicorp_nomad",
+    "label": "HashiCorp Nomad"
+  },
+  {
+    "value": "hashicorp_packer",
+    "label": "HashiCorp Packer"
+  },
+  {
+    "value": "hashicorp_terraform",
+    "label": "HashiCorp Terraform"
+  },
+  {
+    "value": "hashicorp_vagrant",
+    "label": "HashiCorp Vagrant"
+  },
+  {
+    "value": "hashicorp_vault",
+    "label": "HashiCorp Vault"
+  },
+  {
+    "value": "haskell",
+    "label": "Haskell"
+  },
+  {
+    "value": "hasura",
+    "label": "Hasura"
+  },
+  {
+    "value": "heap",
+    "label": "Heap"
+  },
+  {
+    "value": "helix_core",
+    "label": "Helix Core"
+  },
+  {
+    "value": "helm",
+    "label": "Helm"
+  },
+  {
+    "value": "help_scout",
+    "label": "Help Scout"
+  },
+  {
+    "value": "heroku",
+    "label": "Heroku"
+  },
+  {
+    "value": "heroku_integrated_paas",
+    "label": "Heroku (Integrated PaaS)"
+  },
+  {
+    "value": "heroku_cli",
+    "label": "Heroku CLI"
+  },
+  {
+    "value": "heroku_dashboard",
+    "label": "Heroku Dashboard"
+  },
+  {
+    "value": "heroku_postgres",
+    "label": "Heroku Postgres"
+  },
+  {
+    "value": "heroku_redis",
+    "label": "Heroku Redis"
+  },
+  {
+    "value": "hibernate",
+    "label": "Hibernate"
+  },
+  {
+    "value": "highcharts",
+    "label": "Highcharts"
+  },
+  {
+    "value": "honeybadger",
+    "label": "Honeybadger"
+  },
+  {
+    "value": "honeycomb",
+    "label": "Honeycomb"
+  },
+  {
+    "value": "hortonworks",
+    "label": "Hortonworks"
+  },
+  {
+    "value": "hotjar",
+    "label": "Hotjar"
+  },
+  {
+    "value": "hp_service_manager",
+    "label": "HP Service Manager"
+  },
+  {
+    "value": "hpe_simplivity",
+    "label": "HPE SimpliVity"
+  },
+  {
+    "value": "html",
+    "label": "HTML"
+  },
+  {
+    "value": "huawei_cloud_stack",
+    "label": "Huawei Cloud Stack"
+  },
+  {
+    "value": "hubspot_service_hub",
+    "label": "HubSpot Service Hub"
+  },
+  {
+    "value": "hudson",
+    "label": "Hudson"
+  },
+  {
+    "value": "hugo",
+    "label": "Hugo"
+  },
+  {
+    "value": "humio",
+    "label": "Humio"
+  },
+  {
+    "value": "hybrid_cloud_storage",
+    "label": "Hybrid Cloud Storage"
+  },
+  {
+    "value": "iam_identity_and_access_management",
+    "label": "IAM (Identity and Access Management)"
+  },
+  {
+    "value": "ibm_cloud",
+    "label": "IBM Cloud"
+  },
+  {
+    "value": "ibm_cloud_automation_manager",
+    "label": "IBM Cloud Automation Manager"
+  },
+  {
+    "value": "ibm_cloud_cli",
+    "label": "IBM Cloud CLI"
+  },
+  {
+    "value": "ibm_cloud_code_engine",
+    "label": "IBM Cloud Code Engine"
+  },
+  {
+    "value": "ibm_cloud_container_registry",
+    "label": "IBM Cloud Container Registry"
+  },
+  {
+    "value": "ibm_cloud_continuous_delivery",
+    "label": "IBM Cloud Continuous Delivery"
+  },
+  {
+    "value": "ibm_cloud_devops",
+    "label": "IBM Cloud DevOps"
+  },
+  {
+    "value": "ibm_cloud_functions",
+    "label": "IBM Cloud Functions"
+  },
+  {
+    "value": "ibm_cloud_kubernetes_service",
+    "label": "IBM Cloud Kubernetes Service"
+  },
+  {
+    "value": "ibm_cloud_monitoring",
+    "label": "IBM Cloud Monitoring"
+  },
+  {
+    "value": "ibm_cloud_pak_for_multicloud_management",
+    "label": "IBM Cloud Pak for Multicloud Management"
+  },
+  {
+    "value": "ibm_cloud_satellite",
+    "label": "IBM Cloud Satellite"
+  },
+  {
+    "value": "ibm_cognos_analytics",
+    "label": "IBM Cognos Analytics"
+  },
+  {
+    "value": "ibm_planning_analytics",
+    "label": "IBM Planning Analytics"
+  },
+  {
+    "value": "ibm_urbancode",
+    "label": "IBM UrbanCode"
+  },
+  {
+    "value": "ibm_watson",
+    "label": "IBM Watson"
+  },
+  {
+    "value": "ibm_watson_analytics",
+    "label": "IBM Watson Analytics"
+  },
+  {
+    "value": "ibm_websphere_commerce",
+    "label": "IBM WebSphere Commerce"
+  },
+  {
+    "value": "icinga",
+    "label": "Icinga"
+  },
+  {
+    "value": "identity_aware_proxy_iap",
+    "label": "Identity-Aware Proxy (IAP)"
+  },
+  {
+    "value": "idrive",
+    "label": "IDrive"
+  },
+  {
+    "value": "image_search",
+    "label": "Image Search"
+  },
+  {
+    "value": "incident_iq",
+    "label": "Incident IQ"
+  },
+  {
+    "value": "influxdb",
+    "label": "InfluxDB"
+  },
+  {
+    "value": "informatica",
+    "label": "Informatica"
+  },
+  {
+    "value": "inheritance",
+    "label": "Inheritance"
+  },
+  {
+    "value": "insomnia",
+    "label": "Insomnia"
+  },
+  {
+    "value": "instana",
+    "label": "Instana"
+  },
+  {
+    "value": "instruqt",
+    "label": "Instruqt"
+  },
+  {
+    "value": "intellij_idea",
+    "label": "IntelliJ IDEA"
+  },
+  {
+    "value": "intercom",
+    "label": "Intercom"
+  },
+  {
+    "value": "interfaces",
+    "label": "Interfaces"
+  },
+  {
+    "value": "invgate_service_desk",
+    "label": "InvGate Service Desk"
+  },
+  {
+    "value": "invision",
+    "label": "InVision"
+  },
+  {
+    "value": "iopipe",
+    "label": "IOpipe"
+  },
+  {
+    "value": "ironfunctions",
+    "label": "IronFunctions"
+  },
+  {
+    "value": "istio",
+    "label": "Istio"
+  },
+  {
+    "value": "ithoughts",
+    "label": "iThoughts"
+  },
+  {
+    "value": "ivanti_service_manager",
+    "label": "Ivanti Service Manager"
+  },
+  {
+    "value": "jaeger",
+    "label": "Jaeger"
+  },
+  {
+    "value": "jakarta_ee",
+    "label": "Jakarta EE"
+  },
+  {
+    "value": "janusgraph",
+    "label": "JanusGraph"
+  },
+  {
+    "value": "jasmine",
+    "label": "Jasmine"
+  },
+  {
+    "value": "java",
+    "label": "Java"
+  },
+  {
+    "value": "java_ee_enterprise_edition",
+    "label": "Java EE (Enterprise Edition)"
+  },
+  {
+    "value": "java_persistence_api_jpa",
+    "label": "Java Persistence API (JPA)"
+  },
+  {
+    "value": "javascript",
+    "label": "JavaScript"
+  },
+  {
+    "value": "jd_cloud",
+    "label": "JD Cloud"
+  },
+  {
+    "value": "jekyll",
+    "label": "Jekyll"
+  },
+  {
+    "value": "jenkins",
+    "label": "Jenkins"
+  },
+  {
+    "value": "jenkins_x",
+    "label": "Jenkins X"
+  },
+  {
+    "value": "jest",
+    "label": "Jest"
+  },
+  {
+    "value": "jfrog_artifactory",
+    "label": "JFrog Artifactory"
+  },
+  {
+    "value": "jhipster",
+    "label": "JHipster"
+  },
+  {
+    "value": "jira",
+    "label": "Jira"
+  },
+  {
+    "value": "jira_service_management",
+    "label": "Jira Service Management"
+  },
+  {
+    "value": "jitbit",
+    "label": "Jitbit"
+  },
+  {
+    "value": "joomla",
+    "label": "Joomla"
+  },
+  {
+    "value": "jpa",
+    "label": "JPA"
+  },
+  {
+    "value": "jquery",
+    "label": "jQuery"
+  },
+  {
+    "value": "jquery_ui",
+    "label": "jQuery UI"
+  },
+  {
+    "value": "jre_jdk_java_runtime_environment_development_kit",
+    "label": "JRE/JDK (Java Runtime Environment/Development Kit)"
+  },
+  {
+    "value": "julia",
+    "label": "Julia"
+  },
+  {
+    "value": "junit",
+    "label": "JUnit"
+  },
+  {
+    "value": "jupyter",
+    "label": "Jupyter"
+  },
+  {
+    "value": "jvm_java_virtual_machine",
+    "label": "JVM (Java Virtual Machine)"
+  },
+  {
+    "value": "kafka",
+    "label": "Kafka"
+  },
+  {
+    "value": "kayako",
+    "label": "Kayako"
+  },
+  {
+    "value": "kdevelop",
+    "label": "KDevelop"
+  },
+  {
+    "value": "keel",
+    "label": "Keel"
+  },
+  {
+    "value": "kendo_ui",
+    "label": "Kendo UI"
+  },
+  {
+    "value": "kentico",
+    "label": "Kentico"
+  },
+  {
+    "value": "keras",
+    "label": "Keras"
+  },
+  {
+    "value": "value_management",
+    "label": "value Management"
+  },
+  {
+    "value": "value_protect",
+    "label": "value Protect"
+  },
+  {
+    "value": "kibana",
+    "label": "Kibana"
+  },
+  {
+    "value": "kinesis",
+    "label": "Kinesis"
+  },
+  {
+    "value": "kinesis_real_time_data_processing",
+    "label": "Kinesis (Real-Time Data Processing)"
+  },
+  {
+    "value": "kms_value_management_service",
+    "label": "KMS (value Management Service)"
+  },
+  {
+    "value": "knative",
+    "label": "Knative"
+  },
+  {
+    "value": "knex_js",
+    "label": "Knex.js"
+  },
+  {
+    "value": "knime",
+    "label": "KNIME"
+  },
+  {
+    "value": "knockout_js",
+    "label": "Knockout.js"
+  },
+  {
+    "value": "koa",
+    "label": "Koa"
+  },
+  {
+    "value": "komodo_edit",
+    "label": "Komodo Edit"
+  },
+  {
+    "value": "kotlin",
+    "label": "Kotlin"
+  },
+  {
+    "value": "koyeb",
+    "label": "Koyeb"
+  },
+  {
+    "value": "kubeflow",
+    "label": "Kubeflow"
+  },
+  {
+    "value": "kubeless",
+    "label": "Kubeless"
+  },
+  {
+    "value": "kubernetes",
+    "label": "Kubernetes"
+  },
+  {
+    "value": "kubernetes_engine",
+    "label": "Kubernetes Engine"
+  },
+  {
+    "value": "kubernetes_engine_managed_kubernetes",
+    "label": "Kubernetes Engine (Managed Kubernetes)"
+  },
+  {
+    "value": "kubernetes_service",
+    "label": "Kubernetes Service"
+  },
+  {
+    "value": "kustomize",
+    "label": "Kustomize"
+  },
+  {
+    "value": "kvm_kernel_based_virtual_machine",
+    "label": "KVM (Kernel-based Virtual Machine)"
+  },
+  {
+    "value": "lambda",
+    "label": "Lambda"
+  },
+  {
+    "value": "lambda_serverless_compute",
+    "label": "Lambda (Serverless Compute)"
+  },
+  {
+    "value": "lamp_stack_linux_apache_mysql_php",
+    "label": "LAMP Stack (Linux, Apache, MySQL, PHP)"
+  },
+  {
+    "value": "laravel",
+    "label": "Laravel"
+  },
+  {
+    "value": "laravel_symfony_frameworks",
+    "label": "Laravel/Symfony (Frameworks)"
+  },
+  {
+    "value": "leaflet",
+    "label": "Leaflet"
+  },
+  {
+    "value": "less",
+    "label": "LESS"
+  },
+  {
+    "value": "lex_conversational_interfaces",
+    "label": "Lex (Conversational Interfaces)"
+  },
+  {
+    "value": "light_table",
+    "label": "Light Table"
+  },
+  {
+    "value": "lightning_web_components",
+    "label": "Lightning Web Components"
+  },
+  {
+    "value": "lightsail",
+    "label": "Lightsail"
+  },
+  {
+    "value": "lightstep",
+    "label": "Lightstep"
+  },
+  {
+    "value": "linkerd",
+    "label": "Linkerd"
+  },
+  {
+    "value": "linode",
+    "label": "Linode"
+  },
+  {
+    "value": "linq_language_integrated_query",
+    "label": "LINQ (Language Integrated Query)"
+  },
+  {
+    "value": "list_comprehensions",
+    "label": "List Comprehensions"
+  },
+  {
+    "value": "liveagent",
+    "label": "LiveAgent"
+  },
+  {
+    "value": "load_balancer",
+    "label": "Load Balancer"
+  },
+  {
+    "value": "load_balancers",
+    "label": "Load Balancers"
+  },
+  {
+    "value": "local_ssd",
+    "label": "Local SSD"
+  },
+  {
+    "value": "lodash",
+    "label": "Lodash"
+  },
+  {
+    "value": "log_analysis",
+    "label": "Log Analysis"
+  },
+  {
+    "value": "logdna",
+    "label": "LogDNA"
+  },
+  {
+    "value": "logflare",
+    "label": "Logflare"
+  },
+  {
+    "value": "loggly",
+    "label": "Loggly"
+  },
+  {
+    "value": "logit_io",
+    "label": "Logit.io"
+  },
+  {
+    "value": "logrocket",
+    "label": "LogRocket"
+  },
+  {
+    "value": "logstash",
+    "label": "Logstash"
+  },
+  {
+    "value": "logtail",
+    "label": "Logtail"
+  },
+  {
+    "value": "logz_io",
+    "label": "Logz.io"
+  },
+  {
+    "value": "loki",
+    "label": "Loki"
+  },
+  {
+    "value": "looker",
+    "label": "Looker"
+  },
+  {
+    "value": "lua",
+    "label": "Lua"
+  },
+  {
+    "value": "lucidchart",
+    "label": "Lucidchart"
+  },
+  {
+    "value": "lucky_orange",
+    "label": "Lucky Orange"
+  },
+  {
+    "value": "luigi",
+    "label": "Luigi"
+  },
+  {
+    "value": "lumigo",
+    "label": "Lumigo"
+  },
+  {
+    "value": "magento",
+    "label": "Magento"
+  },
+  {
+    "value": "manageengine_opmanager",
+    "label": "ManageEngine OpManager"
+  },
+  {
+    "value": "manageengine_servicedesk_plus",
+    "label": "ManageEngine ServiceDesk Plus"
+  },
+  {
+    "value": "mapbox",
+    "label": "Mapbox"
+  },
+  {
+    "value": "mapr",
+    "label": "MapR"
+  },
+  {
+    "value": "marathon",
+    "label": "Marathon"
+  },
+  {
+    "value": "mariadb",
+    "label": "MariaDB"
+  },
+  {
+    "value": "marvel_app",
+    "label": "Marvel App"
+  },
+  {
+    "value": "materialize",
+    "label": "Materialize"
+  },
+  {
+    "value": "matillion",
+    "label": "Matillion"
+  },
+  {
+    "value": "matlab",
+    "label": "MATLAB"
+  },
+  {
+    "value": "maxcompute_big_data_processing",
+    "label": "MaxCompute (Big Data Processing)"
+  },
+  {
+    "value": "maxcompute_big_data",
+    "label": "MaxCompute (Big Data)"
+  },
+  {
+    "value": "memcached",
+    "label": "Memcached"
+  },
+  {
+    "value": "mercurial",
+    "label": "Mercurial"
+  },
+  {
+    "value": "mesosphere_dc_os",
+    "label": "Mesosphere DC/OS"
+  },
+  {
+    "value": "metadata_management",
+    "label": "Metadata Management"
+  },
+  {
+    "value": "metalsmith",
+    "label": "Metalsmith"
+  },
+  {
+    "value": "metaprogramming",
+    "label": "Metaprogramming"
+  },
+  {
+    "value": "meteor",
+    "label": "Meteor"
+  },
+  {
+    "value": "micronaut",
+    "label": "Micronaut"
+  },
+  {
+    "value": "microsoft_azure",
+    "label": "Microsoft Azure"
+  },
+  {
+    "value": "microsoft_azure_stack",
+    "label": "Microsoft Azure Stack"
+  },
+  {
+    "value": "microsoft_cognitive_toolkit_cntk",
+    "label": "Microsoft Cognitive Toolkit (CNTK)"
+  },
+  {
+    "value": "microsoft_hyper_v",
+    "label": "Microsoft Hyper-V"
+  },
+  {
+    "value": "microsoft_project",
+    "label": "Microsoft Project"
+  },
+  {
+    "value": "microsoft_sql_server",
+    "label": "Microsoft SQL Server"
+  },
+  {
+    "value": "microsoft_to_do",
+    "label": "Microsoft To Do"
+  },
+  {
+    "value": "middleman",
+    "label": "Middleman"
+  },
+  {
+    "value": "mikroorm",
+    "label": "MikroORM"
+  },
+  {
+    "value": "mimir",
+    "label": "Mimir"
+  },
+  {
+    "value": "mindly",
+    "label": "Mindly"
+  },
+  {
+    "value": "mindmeister",
+    "label": "MindMeister"
+  },
+  {
+    "value": "mindmup",
+    "label": "MindMup"
+  },
+  {
+    "value": "mindnode",
+    "label": "MindNode"
+  },
+  {
+    "value": "miro",
+    "label": "Miro"
+  },
+  {
+    "value": "mixpanel",
+    "label": "Mixpanel"
+  },
+  {
+    "value": "mlflow",
+    "label": "MLflow"
+  },
+  {
+    "value": "mobx",
+    "label": "MobX"
+  },
+  {
+    "value": "mocha",
+    "label": "Mocha"
+  },
+  {
+    "value": "modules_and_mixins",
+    "label": "Modules and Mixins"
+  },
+  {
+    "value": "moment_js",
+    "label": "Moment.js"
+  },
+  {
+    "value": "monday_com",
+    "label": "Monday.com"
+  },
+  {
+    "value": "mongodb",
+    "label": "MongoDB"
+  },
+  {
+    "value": "mongoose",
+    "label": "Mongoose"
+  },
+  {
+    "value": "monitis",
+    "label": "Monitis"
+  },
+  {
+    "value": "moogsoft",
+    "label": "Moogsoft"
+  },
+  {
+    "value": "morpheus",
+    "label": "Morpheus"
+  },
+  {
+    "value": "mosquitto",
+    "label": "Mosquitto"
+  },
+  {
+    "value": "mouseflow",
+    "label": "Mouseflow"
+  },
+  {
+    "value": "mozy",
+    "label": "Mozy"
+  },
+  {
+    "value": "msp",
+    "label": "MSP"
+  },
+  {
+    "value": "mural",
+    "label": "Mural"
+  },
+  {
+    "value": "mybatis",
+    "label": "MyBatis"
+  },
+  {
+    "value": "mysql",
+    "label": "MySQL"
+  },
+  {
+    "value": "mysql_database_service",
+    "label": "MySQL Database Service"
+  },
+  {
+    "value": "mysqli_mysql_improved_extension",
+    "label": "MySQLi (MySQL Improved Extension)"
+  },
+  {
+    "value": "nagios",
+    "label": "Nagios"
+  },
+  {
+    "value": "nakivo",
+    "label": "NAKIVO"
+  },
+  {
+    "value": "nancyfx",
+    "label": "NancyFX"
+  },
+  {
+    "value": "nats",
+    "label": "NATS"
+  },
+  {
+    "value": "natural_language_ai",
+    "label": "Natural Language AI"
+  },
+  {
+    "value": "natural_language_processing",
+    "label": "Natural Language Processing"
+  },
+  {
+    "value": "nearline_storage",
+    "label": "Nearline Storage"
+  },
+  {
+    "value": "neo4j",
+    "label": "Neo4j"
+  },
+  {
+    "value": "neovim",
+    "label": "Neovim"
+  },
+  {
+    "value": "neptune_graph_database",
+    "label": "Neptune (Graph Database)"
+  },
+  {
+    "value": "nestjs",
+    "label": "NestJS"
+  },
+  {
+    "value": "netbeans",
+    "label": "NetBeans"
+  },
+  {
+    "value": "netdata",
+    "label": "Netdata"
+  },
+  {
+    "value": "netlify",
+    "label": "Netlify"
+  },
+  {
+    "value": "netlify_functions",
+    "label": "Netlify Functions"
+  },
+  {
+    "value": "network_security",
+    "label": "Network Security"
+  },
+  {
+    "value": "network_service_tiers",
+    "label": "Network Service Tiers"
+  },
+  {
+    "value": "new_relic",
+    "label": "New Relic"
+  },
+  {
+    "value": "new_relic_apm",
+    "label": "New Relic APM"
+  },
+  {
+    "value": "next_js",
+    "label": "Next.js"
+  },
+  {
+    "value": "nexus_repository",
+    "label": "Nexus Repository"
+  },
+  {
+    "value": "nginx",
+    "label": "NGINX"
+  },
+  {
+    "value": "ngrx",
+    "label": "NgRx"
+  },
+  {
+    "value": "node_exporter",
+    "label": "Node Exporter"
+  },
+  {
+    "value": "node_js_server_side_javascript",
+    "label": "Node.js (Server-side JavaScript)"
+  },
+  {
+    "value": "nodes_entities",
+    "label": "Nodes (Entities)"
+  },
+  {
+    "value": "nomad",
+    "label": "Nomad"
+  },
+  {
+    "value": "nomad_enterprise",
+    "label": "Nomad Enterprise"
+  },
+  {
+    "value": "nosql_database_cloud_service",
+    "label": "NoSQL Database Cloud Service"
+  },
+  {
+    "value": "nosql_database_service",
+    "label": "NoSQL Database Service"
+  },
+  {
+    "value": "notepad_plus_plus",
+    "label": "Notepad++"
+  },
+  {
+    "value": "notion",
+    "label": "Notion"
+  },
+  {
+    "value": "npm_yarn_package_managers",
+    "label": "NPM/Yarn (Package Managers)"
+  },
+  {
+    "value": "nsq",
+    "label": "NSQ"
+  },
+  {
+    "value": "nsx_t_network_virtualization",
+    "label": "NSX-T (Network Virtualization)"
+  },
+  {
+    "value": "nsx_v_network_virtualization_for_vsphere",
+    "label": "NSX-V (Network Virtualization for vSphere)"
+  },
+  {
+    "value": "numpy_pandas_data_analysis",
+    "label": "NumPy/Pandas (Data Analysis)"
+  },
+  {
+    "value": "nutanix",
+    "label": "Nutanix"
+  },
+  {
+    "value": "nuxt_js",
+    "label": "Nuxt.js"
+  },
+  {
+    "value": "object_storage",
+    "label": "Object Storage"
+  },
+  {
+    "value": "object_storage_service_oss",
+    "label": "Object Storage Service (OSS)"
+  },
+  {
+    "value": "object_oriented_programming",
+    "label": "Object-Oriented Programming"
+  },
+  {
+    "value": "objection_js",
+    "label": "Objection.js"
+  },
+  {
+    "value": "objective_c",
+    "label": "Objective-C"
+  },
+  {
+    "value": "octopus_deploy",
+    "label": "Octopus Deploy"
+  },
+  {
+    "value": "olap_online_analytical_processing",
+    "label": "OLAP (Online Analytical Processing)"
+  },
+  {
+    "value": "onenote",
+    "label": "OneNote"
+  },
+  {
+    "value": "oop_object_oriented_programming",
+    "label": "OOP (Object-Oriented Programming)"
+  },
+  {
+    "value": "openapi",
+    "label": "OpenAPI"
+  },
+  {
+    "value": "opencart",
+    "label": "OpenCart"
+  },
+  {
+    "value": "openfaas",
+    "label": "OpenFaaS"
+  },
+  {
+    "value": "openlayers",
+    "label": "OpenLayers"
+  },
+  {
+    "value": "opennebula",
+    "label": "OpenNebula"
+  },
+  {
+    "value": "openshift",
+    "label": "OpenShift"
+  },
+  {
+    "value": "openshift_on_ibm_cloud",
+    "label": "OpenShift on IBM Cloud"
+  },
+  {
+    "value": "openstack",
+    "label": "OpenStack"
+  },
+  {
+    "value": "opentelemetry",
+    "label": "OpenTelemetry"
+  },
+  {
+    "value": "opentcsdb",
+    "label": "OpenTSDB"
+  },
+  {
+    "value": "openwhisk",
+    "label": "OpenWhisk"
+  },
+  {
+    "value": "opsgenie",
+    "label": "OpsGenie"
+  },
+  {
+    "value": "opsworks",
+    "label": "OpsWorks"
+  },
+  {
+    "value": "oracle_ai_platform",
+    "label": "Oracle AI Platform"
+  },
+  {
+    "value": "oracle_analytics_cloud",
+    "label": "Oracle Analytics Cloud"
+  },
+  {
+    "value": "oracle_application_development",
+    "label": "Oracle Application Development"
+  },
+  {
+    "value": "oracle_application_express_apex",
+    "label": "Oracle Application Express (APEX)"
+  },
+  {
+    "value": "oracle_autonomous_database",
+    "label": "Oracle Autonomous Database"
+  },
+  {
+    "value": "oracle_big_data_service",
+    "label": "Oracle Big Data Service"
+  },
+  {
+    "value": "oracle_big_data_sql",
+    "label": "Oracle Big Data SQL"
+  },
+  {
+    "value": "oracle_cloud",
+    "label": "Oracle Cloud"
+  },
+  {
+    "value": "oracle_cloud_events",
+    "label": "Oracle Cloud Events"
+  },
+  {
+    "value": "oracle_cloud_guard",
+    "label": "Oracle Cloud Guard"
+  },
+  {
+    "value": "oracle_cloud_infrastructure_cli",
+    "label": "Oracle Cloud Infrastructure CLI"
+  },
+  {
+    "value": "oracle_cloud_infrastructure_cost_management",
+    "label": "Oracle Cloud Infrastructure Cost Management"
+  },
+  {
+    "value": "oracle_cloud_infrastructure_governance",
+    "label": "Oracle Cloud Infrastructure Governance"
+  },
+  {
+    "value": "oracle_cloud_infrastructure_monitoring",
+    "label": "Oracle Cloud Infrastructure Monitoring"
+  },
+  {
+    "value": "oracle_cloud_infrastructure_registry",
+    "label": "Oracle Cloud Infrastructure Registry"
+  },
+  {
+    "value": "oracle_cloud_infrastructure_storage",
+    "label": "Oracle Cloud Infrastructure Storage"
+  },
+  {
+    "value": "oracle_cloud_at_customer",
+    "label": "Oracle Cloud@Customer"
+  },
+  {
+    "value": "oracle_commerce",
+    "label": "Oracle Commerce"
+  },
+  {
+    "value": "oracle_container_registry",
+    "label": "Oracle Container Registry"
+  },
+  {
+    "value": "oracle_data_integrator",
+    "label": "Oracle Data Integrator"
+  },
+  {
+    "value": "oracle_data_safe",
+    "label": "Oracle Data Safe"
+  },
+  {
+    "value": "oracle_database",
+    "label": "Oracle Database"
+  },
+  {
+    "value": "oracle_database_cloud_service",
+    "label": "Oracle Database Cloud Service"
+  },
+  {
+    "value": "oracle_developer_cloud_service",
+    "label": "Oracle Developer Cloud Service"
+  },
+  {
+    "value": "oracle_exadata_cloud_service",
+    "label": "Oracle Exadata Cloud Service"
+  },
+  {
+    "value": "oracle_functions",
+    "label": "Oracle Functions"
+  },
+  {
+    "value": "oracle_goldengate",
+    "label": "Oracle GoldenGate"
+  },
+  {
+    "value": "oracle_kubernetes_engine",
+    "label": "Oracle Kubernetes Engine"
+  },
+  {
+    "value": "oracle_machine_learning",
+    "label": "Oracle Machine Learning"
+  },
+  {
+    "value": "oracle_visual_builder",
+    "label": "Oracle Visual Builder"
+  },
+  {
+    "value": "oracle_vm",
+    "label": "Oracle VM"
+  },
+  {
+    "value": "orientdb",
+    "label": "OrientDB"
+  },
+  {
+    "value": "packer",
+    "label": "Packer"
+  },
+  {
+    "value": "packer_enterprise",
+    "label": "Packer Enterprise"
+  },
+  {
+    "value": "padrino",
+    "label": "Padrino"
+  },
+  {
+    "value": "pagerduty",
+    "label": "PagerDuty"
+  },
+  {
+    "value": "pai_platform_for_ai",
+    "label": "PAI (Platform for AI)"
+  },
+  {
+    "value": "papertrail",
+    "label": "Papertrail"
+  },
+  {
+    "value": "parallels_desktop",
+    "label": "Parallels Desktop"
+  },
+  {
+    "value": "parcel",
+    "label": "Parcel"
+  },
+  {
+    "value": "pattern_matching",
+    "label": "Pattern Matching"
+  },
+  {
+    "value": "pdo_php_data_objects",
+    "label": "PDO (PHP Data Objects)"
+  },
+  {
+    "value": "pendo",
+    "label": "Pendo"
+  },
+  {
+    "value": "pentaho",
+    "label": "Pentaho"
+  },
+  {
+    "value": "pep_8_python_enhancement_proposals",
+    "label": "PEP 8 (Python Enhancement Proposals)"
+  },
+  {
+    "value": "perforce",
+    "label": "Perforce"
+  },
+  {
+    "value": "perl",
+    "label": "Perl"
+  },
+  {
+    "value": "persistent_disk",
+    "label": "Persistent Disk"
+  },
+  {
+    "value": "personalization",
+    "label": "Personalization"
+  },
+  {
+    "value": "phalcon",
+    "label": "Phalcon"
+  },
+  {
+    "value": "php",
+    "label": "PHP"
+  },
+  {
+    "value": "phpstorm",
+    "label": "PhpStorm"
+  },
+  {
+    "value": "pingdom",
+    "label": "Pingdom"
+  },
+  {
+    "value": "pinia",
+    "label": "Pinia"
+  },
+  {
+    "value": "plastic_scm",
+    "label": "Plastic SCM"
+  },
+  {
+    "value": "platform_sh",
+    "label": "Platform.sh"
+  },
+  {
+    "value": "play_framework",
+    "label": "Play Framework"
+  },
+  {
+    "value": "polardb_distributed_sql_database",
+    "label": "PolarDB (Distributed SQL Database)"
+  },
+  {
+    "value": "polly_text_to_speech",
+    "label": "Polly (Text-to-Speech)"
+  },
+  {
+    "value": "polymorphism",
+    "label": "Polymorphism"
+  },
+  {
+    "value": "postcss",
+    "label": "PostCSS"
+  },
+  {
+    "value": "postgis",
+    "label": "PostGIS"
+  },
+  {
+    "value": "postgraphile",
+    "label": "PostGraphile"
+  },
+  {
+    "value": "postgresql",
+    "label": "PostgreSQL"
+  },
+  {
+    "value": "postman",
+    "label": "Postman"
+  },
+  {
+    "value": "powershell",
+    "label": "PowerShell"
+  },
+  {
+    "value": "prefect",
+    "label": "Prefect"
+  },
+  {
+    "value": "prestashop",
+    "label": "PrestaShop"
+  },
+  {
+    "value": "presto",
+    "label": "Presto"
+  },
+  {
+    "value": "prettier",
+    "label": "Prettier"
+  },
+  {
+    "value": "primeng",
+    "label": "PrimeNG"
+  },
+  {
+    "value": "principle",
+    "label": "Principle"
+  },
+  {
+    "value": "prisma",
+    "label": "Prisma"
+  },
+  {
+    "value": "private_networking",
+    "label": "Private Networking"
+  },
+  {
+    "value": "prodpad",
+    "label": "ProdPad"
+  },
+  {
+    "value": "productboard",
+    "label": "Productboard"
+  },
+  {
+    "value": "productplan",
+    "label": "ProductPlan"
+  },
+  {
+    "value": "prometheus",
+    "label": "Prometheus"
+  },
+  {
+    "value": "prometheus_alertmanager",
+    "label": "Prometheus Alertmanager"
+  },
+  {
+    "value": "prometheus_operator",
+    "label": "Prometheus Operator"
+  },
+  {
+    "value": "prometheus_pushgateway",
+    "label": "Prometheus Pushgateway"
+  },
+  {
+    "value": "promises_and_async_await",
+    "label": "Promises and Async/Await"
+  },
+  {
+    "value": "properties_metadata",
+    "label": "Properties (Metadata)"
+  },
+  {
+    "value": "properties_and_indexers",
+    "label": "Properties and Indexers"
+  },
+  {
+    "value": "proxmox_ve",
+    "label": "Proxmox VE"
+  },
+  {
+    "value": "prtg",
+    "label": "PRTG"
+  },
+  {
+    "value": "pub_sub",
+    "label": "Pub/Sub"
+  },
+  {
+    "value": "pulumi",
+    "label": "Pulumi"
+  },
+  {
+    "value": "puppet",
+    "label": "Puppet"
+  },
+  {
+    "value": "puppeteer",
+    "label": "Puppeteer"
+  },
+  {
+    "value": "pycharm",
+    "label": "PyCharm"
+  },
+  {
+    "value": "pylons",
+    "label": "Pylons"
+  },
+  {
+    "value": "pyramid",
+    "label": "Pyramid"
+  },
+  {
+    "value": "python",
+    "label": "Python"
+  },
+  {
+    "value": "pytorch",
+    "label": "PyTorch"
+  },
+  {
+    "value": "qgis",
+    "label": "QGIS"
+  },
+  {
+    "value": "qt_creator",
+    "label": "Qt Creator"
+  },
+  {
+    "value": "quarkus",
+    "label": "Quarkus"
+  },
+  {
+    "value": "quartz",
+    "label": "Quartz"
+  },
+  {
+    "value": "quasar",
+    "label": "Quasar"
+  },
+  {
+    "value": "quick_bi",
+    "label": "Quick BI"
+  },
+  {
+    "value": "quicksight_business_intelligence",
+    "label": "QuickSight (Business Intelligence)"
+  },
+  {
+    "value": "r",
+    "label": "R"
+  },
+  {
+    "value": "rabbitmq",
+    "label": "RabbitMQ"
+  },
+  {
+    "value": "rackspace",
+    "label": "Rackspace"
+  },
+  {
+    "value": "rails_ruby_on_rails_framework",
+    "label": "Rails (Ruby on Rails Framework)"
+  },
+  {
+    "value": "railway",
+    "label": "Railway"
+  },
+  {
+    "value": "ram_resource_access_management",
+    "label": "RAM (Resource Access Management)"
+  },
+  {
+    "value": "rancher",
+    "label": "Rancher"
+  },
+  {
+    "value": "rapidminer",
+    "label": "RapidMiner"
+  },
+  {
+    "value": "ravendb",
+    "label": "RavenDB"
+  },
+  {
+    "value": "raygun",
+    "label": "Raygun"
+  },
+  {
+    "value": "rds_relational_database_service",
+    "label": "RDS (Relational Database Service)"
+  },
+  {
+    "value": "react",
+    "label": "React"
+  },
+  {
+    "value": "react_bootstrap",
+    "label": "React Bootstrap"
+  },
+  {
+    "value": "react_query",
+    "label": "React Query"
+  },
+  {
+    "value": "reactstrap",
+    "label": "Reactstrap"
+  },
+  {
+    "value": "realm",
+    "label": "Realm"
+  },
+  {
+    "value": "recoil",
+    "label": "Recoil"
+  },
+  {
+    "value": "red_hat_openshift",
+    "label": "Red Hat OpenShift"
+  },
+  {
+    "value": "redis",
+    "label": "Redis"
+  },
+  {
+    "value": "redis_managed_redis",
+    "label": "Redis (Managed Redis)"
+  },
+  {
+    "value": "redshift_data_warehouse",
+    "label": "Redshift (Data Warehouse)"
+  },
+  {
+    "value": "redshift_spectrum",
+    "label": "Redshift Spectrum"
+  },
+  {
+    "value": "redux",
+    "label": "Redux"
+  },
+  {
+    "value": "redwoodjs",
+    "label": "RedwoodJS"
+  },
+  {
+    "value": "rekognition_image_and_video_analysis",
+    "label": "Rekognition (Image and Video Analysis)"
+  },
+  {
+    "value": "relay",
+    "label": "Relay"
+  },
+  {
+    "value": "relay_modern",
+    "label": "Relay Modern"
+  },
+  {
+    "value": "render",
+    "label": "Render"
+  },
+  {
+    "value": "repl_it",
+    "label": "Repl.it"
+  },
+  {
+    "value": "resource_and_service_management",
+    "label": "Resource and Service Management"
+  },
+  {
+    "value": "resource_manager",
+    "label": "Resource Manager"
+  },
+  {
+    "value": "resque",
+    "label": "Resque"
+  },
+  {
+    "value": "rider",
+    "label": "Rider"
+  },
+  {
+    "value": "roadmunk",
+    "label": "Roadmunk"
+  },
+  {
+    "value": "rollbar",
+    "label": "Rollbar"
+  },
+  {
+    "value": "rollup",
+    "label": "Rollup"
+  },
+  {
+    "value": "route_53_dns_service",
+    "label": "Route 53 (DNS Service)"
+  },
+  {
+    "value": "rq_redis_queue",
+    "label": "RQ (Redis Queue)"
+  },
+  {
+    "value": "rspec_minitest_testing_frameworks",
+    "label": "RSpec/Minitest (Testing Frameworks)"
+  },
+  {
+    "value": "rstudio",
+    "label": "RStudio"
+  },
+  {
+    "value": "rsyslog",
+    "label": "Rsyslog"
+  },
+  {
+    "value": "rubrik",
+    "label": "Rubrik"
+  },
+  {
+    "value": "ruby",
+    "label": "Ruby"
+  },
+  {
+    "value": "ruby_on_rails",
+    "label": "Ruby on Rails"
+  },
+  {
+    "value": "rubymine",
+    "label": "RubyMine"
+  },
+  {
+    "value": "rust",
+    "label": "Rust"
+  },
+  {
+    "value": "rxjs",
+    "label": "RxJS"
+  },
+  {
+    "value": "s3_simple_storage_service",
+    "label": "S3 (Simple Storage Service)"
+  },
+  {
+    "value": "s3_glacier_deep_archive",
+    "label": "S3 Glacier Deep Archive"
+  },
+  {
+    "value": "sagemaker",
+    "label": "SageMaker"
+  },
+  {
+    "value": "sails_js",
+    "label": "Sails.js"
+  },
+  {
+    "value": "salesforce_cli",
+    "label": "Salesforce CLI"
+  },
+  {
+    "value": "salesforce_cloud",
+    "label": "Salesforce Cloud"
+  },
+  {
+    "value": "salesforce_commerce_cloud",
+    "label": "Salesforce Commerce Cloud"
+  },
+  {
+    "value": "salesforce_connect_data_integration",
+    "label": "Salesforce Connect (Data Integration)"
+  },
+  {
+    "value": "salesforce_devops_tools",
+    "label": "Salesforce DevOps Tools"
+  },
+  {
+    "value": "salesforce_dx",
+    "label": "Salesforce DX"
+  },
+  {
+    "value": "salesforce_platform_platform_as_a_service",
+    "label": "Salesforce Platform (Platform-as-a-Service)"
+  },
+  {
+    "value": "salesforce_service_cloud",
+    "label": "Salesforce Service Cloud"
+  },
+  {
+    "value": "saltstack",
+    "label": "SaltStack"
+  },
+  {
+    "value": "sam_serverless_application_model",
+    "label": "SAM (Serverless Application Model)"
+  },
+  {
+    "value": "samanage",
+    "label": "Samanage"
+  },
+  {
+    "value": "sanic",
+    "label": "Sanic"
+  },
+  {
+    "value": "sap_cloud",
+    "label": "SAP Cloud"
+  },
+  {
+    "value": "sap_hybris",
+    "label": "SAP Hybris"
+  },
+  {
+    "value": "sapper",
+    "label": "Sapper"
+  },
+  {
+    "value": "sas_viya",
+    "label": "SAS Viya"
+  },
+  {
+    "value": "sass",
+    "label": "SASS"
+  },
+  {
+    "value": "scala",
+    "label": "Scala"
+  },
+  {
+    "value": "scalingo",
+    "label": "Scalingo"
+  },
+  {
+    "value": "scalr",
+    "label": "Scalr"
+  },
+  {
+    "value": "scalyr",
+    "label": "Scalyr"
+  },
+  {
+    "value": "scapple",
+    "label": "Scapple"
+  },
+  {
+    "value": "secrets_manager",
+    "label": "Secrets Manager"
+  },
+  {
+    "value": "security_center",
+    "label": "Security Center"
+  },
+  {
+    "value": "security_incident_response",
+    "label": "Security Incident Response"
+  },
+  {
+    "value": "security_zones",
+    "label": "Security Zones"
+  },
+  {
+    "value": "segment",
+    "label": "Segment"
+  },
+  {
+    "value": "selenium",
+    "label": "Selenium"
+  },
+  {
+    "value": "semantic_ui",
+    "label": "Semantic UI"
+  },
+  {
+    "value": "semaphore",
+    "label": "Semaphore"
+  },
+  {
+    "value": "semaphore_ci",
+    "label": "Semaphore CI"
+  },
+  {
+    "value": "sensu",
+    "label": "Sensu"
+  },
+  {
+    "value": "sentry",
+    "label": "Sentry"
+  },
+  {
+    "value": "sequelize",
+    "label": "Sequelize"
+  },
+  {
+    "value": "server_side_scripting",
+    "label": "Server-Side Scripting"
+  },
+  {
+    "value": "serverless",
+    "label": "Serverless"
+  },
+  {
+    "value": "serverless_framework",
+    "label": "Serverless Framework"
+  },
+  {
+    "value": "service_catalog",
+    "label": "Service Catalog"
+  },
+  {
+    "value": "servicedesk_plus",
+    "label": "ServiceDesk Plus"
+  },
+  {
+    "value": "servicenow",
+    "label": "ServiceNow"
+  },
+  {
+    "value": "session_management",
+    "label": "Session Management"
+  },
+  {
+    "value": "shadowprotect",
+    "label": "ShadowProtect"
+  },
+  {
+    "value": "sherpadesk",
+    "label": "SherpaDesk"
+  },
+  {
+    "value": "shield_ddos_protection",
+    "label": "Shield (DDoS Protection)"
+  },
+  {
+    "value": "shippable",
+    "label": "Shippable"
+  },
+  {
+    "value": "shopify",
+    "label": "Shopify"
+  },
+  {
+    "value": "sidekiq",
+    "label": "Sidekiq"
+  },
+  {
+    "value": "signalfx",
+    "label": "SignalFx"
+  },
+  {
+    "value": "simplemind",
+    "label": "SimpleMind"
+  },
+  {
+    "value": "sinatra",
+    "label": "Sinatra"
+  },
+  {
+    "value": "singer",
+    "label": "Singer"
+  },
+  {
+    "value": "site24x7",
+    "label": "Site24x7"
+  },
+  {
+    "value": "sitecore",
+    "label": "Sitecore"
+  },
+  {
+    "value": "sitex",
+    "label": "Sitex"
+  },
+  {
+    "value": "skaffold",
+    "label": "Skaffold"
+  },
+  {
+    "value": "sketch",
+    "label": "Sketch"
+  },
+  {
+    "value": "slim",
+    "label": "Slim"
+  },
+  {
+    "value": "smartgit",
+    "label": "SmartGit"
+  },
+  {
+    "value": "smartlook",
+    "label": "Smartlook"
+  },
+  {
+    "value": "smartsheet",
+    "label": "Smartsheet"
+  },
+  {
+    "value": "snowflake",
+    "label": "Snowflake"
+  },
+  {
+    "value": "snowflake_schema_normalized_fact_tables",
+    "label": "Snowflake Schema (Normalized Fact Tables)"
+  },
+  {
+    "value": "sns",
+    "label": "SNS"
+  },
+  {
+    "value": "solarwinds",
+    "label": "SolarWinds"
+  },
+  {
+    "value": "solarwinds_service_desk",
+    "label": "SolarWinds Service Desk"
+  },
+  {
+    "value": "sourceforge",
+    "label": "SourceForge"
+  },
+  {
+    "value": "sourcetree",
+    "label": "Sourcetree"
+  },
+  {
+    "value": "spacemacs",
+    "label": "Spacemacs"
+  },
+  {
+    "value": "sparql_query_language_for_rdf",
+    "label": "SPARQL (Query Language for RDF)"
+  },
+  {
+    "value": "spiceworks",
+    "label": "Spiceworks"
+  },
+  {
+    "value": "spinbackup",
+    "label": "Spinbackup"
+  },
+  {
+    "value": "spinnaker",
+    "label": "Spinnaker"
+  },
+  {
+    "value": "splunk",
+    "label": "Splunk"
+  },
+  {
+    "value": "splunk_apm",
+    "label": "Splunk APM"
+  },
+  {
+    "value": "splunk_on_call",
+    "label": "Splunk On-Call"
+  },
+  {
+    "value": "spring_boot",
+    "label": "Spring Boot"
+  },
+  {
+    "value": "spring_framework",
+    "label": "Spring Framework"
+  },
+  {
+    "value": "sql",
+    "label": "SQL"
+  },
+  {
+    "value": "sql_server",
+    "label": "SQL Server"
+  },
+  {
+    "value": "sqlalchemy",
+    "label": "SQLAlchemy"
+  },
+  {
+    "value": "sqlite",
+    "label": "SQLite"
+  },
+  {
+    "value": "sqs",
+    "label": "SQS"
+  },
+  {
+    "value": "squarespace",
+    "label": "Squarespace"
+  },
+  {
+    "value": "stackblitz",
+    "label": "StackBlitz"
+  },
+  {
+    "value": "stackdriver",
+    "label": "Stackdriver"
+  },
+  {
+    "value": "stackdriver_monitoring_and_logging",
+    "label": "Stackdriver (Monitoring and Logging)"
+  },
+  {
+    "value": "standard_library_net_http_fmt",
+    "label": "Standard Library (net/http, fmt)"
+  },
+  {
+    "value": "star_schema_fact_tables_dimension_tables",
+    "label": "Star Schema (Fact Tables, Dimension Tables)"
+  },
+  {
+    "value": "static_typing",
+    "label": "Static Typing"
+  },
+  {
+    "value": "statuscake",
+    "label": "StatusCake"
+  },
+  {
+    "value": "step_functions",
+    "label": "Step Functions"
+  },
+  {
+    "value": "stitch",
+    "label": "Stitch"
+  },
+  {
+    "value": "storage_gateway",
+    "label": "Storage Gateway"
+  },
+  {
+    "value": "strapi",
+    "label": "Strapi"
+  },
+  {
+    "value": "streams_api",
+    "label": "Streams API"
+  },
+  {
+    "value": "streamsets",
+    "label": "StreamSets"
+  },
+  {
+    "value": "stylelint",
+    "label": "Stylelint"
+  },
+  {
+    "value": "stylus",
+    "label": "Stylus"
+  },
+  {
+    "value": "sublime_text",
+    "label": "Sublime Text"
+  },
+  {
+    "value": "subversion",
+    "label": "Subversion"
+  },
+  {
+    "value": "sumo_logic",
+    "label": "Sumo Logic"
+  },
+  {
+    "value": "sumologic",
+    "label": "Sumologic"
+  },
+  {
+    "value": "suse_rancher",
+    "label": "SUSE Rancher"
+  },
+  {
+    "value": "svelte",
+    "label": "Svelte"
+  },
+  {
+    "value": "swagger",
+    "label": "Swagger"
+  },
+  {
+    "value": "swift",
+    "label": "Swift"
+  },
+  {
+    "value": "symfony",
+    "label": "Symfony"
+  },
+  {
+    "value": "sysaid",
+    "label": "SysAid"
+  },
+  {
+    "value": "syslog_ng",
+    "label": "Syslog-ng"
+  },
+  {
+    "value": "systems_manager",
+    "label": "Systems Manager"
+  },
+  {
+    "value": "tailwind_css",
+    "label": "Tailwind CSS"
+  },
+  {
+    "value": "talend",
+    "label": "Talend"
+  },
+  {
+    "value": "tcpdump",
+    "label": "Tcpdump"
+  },
+  {
+    "value": "team_foundation_server",
+    "label": "Team Foundation Server"
+  },
+  {
+    "value": "teamcity",
+    "label": "TeamCity"
+  },
+  {
+    "value": "teamgantt",
+    "label": "TeamGantt"
+  },
+  {
+    "value": "teamsupport",
+    "label": "TeamSupport"
+  },
+  {
+    "value": "tekton",
+    "label": "Tekton"
+  },
+  {
+    "value": "telegraf",
+    "label": "Telegraf"
+  },
+  {
+    "value": "templating_engines_twig_blade",
+    "label": "Templating Engines (Twig, Blade)"
+  },
+  {
+    "value": "tencent_cloud",
+    "label": "Tencent Cloud"
+  },
+  {
+    "value": "tencent_cloud_tstack",
+    "label": "Tencent Cloud TStack"
+  },
+  {
+    "value": "tensorflow",
+    "label": "TensorFlow"
+  },
+  {
+    "value": "tensorflow_on_gcp",
+    "label": "TensorFlow on GCP"
+  },
+  {
+    "value": "teradata",
+    "label": "Teradata"
+  },
+  {
+    "value": "terraform",
+    "label": "Terraform"
+  },
+  {
+    "value": "terraform_cloud",
+    "label": "Terraform Cloud"
+  },
+  {
+    "value": "terraform_enterprise",
+    "label": "Terraform Enterprise"
+  },
+  {
+    "value": "terraform_provider",
+    "label": "Terraform Provider"
+  },
+  {
+    "value": "testng",
+    "label": "TestNG"
+  },
+  {
+    "value": "text_to_speech",
+    "label": "Text-to-Speech"
+  },
+  {
+    "value": "tfx_tensorflow_extended",
+    "label": "TFX (TensorFlow Extended)"
+  },
+  {
+    "value": "thanos",
+    "label": "Thanos"
+  },
+  {
+    "value": "three_js",
+    "label": "Three.js"
+  },
+  {
+    "value": "thundra",
+    "label": "Thundra"
+  },
+  {
+    "value": "tilt",
+    "label": "Tilt"
+  },
+  {
+    "value": "timescaledb",
+    "label": "TimescaleDB"
+  },
+  {
+    "value": "todoist",
+    "label": "Todoist"
+  },
+  {
+    "value": "topdesk",
+    "label": "TOPdesk"
+  },
+  {
+    "value": "tornado",
+    "label": "Tornado"
+  },
+  {
+    "value": "tortoisegit",
+    "label": "TortoiseGit"
+  },
+  {
+    "value": "totango",
+    "label": "Totango"
+  },
+  {
+    "value": "tower",
+    "label": "Tower"
+  },
+  {
+    "value": "traefik",
+    "label": "Traefik"
+  },
+  {
+    "value": "traffic_director",
+    "label": "Traffic Director"
+  },
+  {
+    "value": "transit_gateway",
+    "label": "Transit Gateway"
+  },
+  {
+    "value": "translation_ai",
+    "label": "Translation AI"
+  },
+  {
+    "value": "traversal_algorithms_shortest_path_centrality",
+    "label": "Traversal Algorithms (Shortest Path, Centrality)"
+  },
+  {
+    "value": "travis_ci",
+    "label": "Travis CI"
+  },
+  {
+    "value": "trello",
+    "label": "Trello"
+  },
+  {
+    "value": "trusted_advisor",
+    "label": "Trusted Advisor"
+  },
+  {
+    "value": "twisted",
+    "label": "Twisted"
+  },
+  {
+    "value": "type_hinting",
+    "label": "Type Hinting"
+  },
+  {
+    "value": "typeorm",
+    "label": "TypeORM"
+  },
+  {
+    "value": "typescript",
+    "label": "TypeScript"
+  },
+  {
+    "value": "umbraco",
+    "label": "Umbraco"
+  },
+  {
+    "value": "underscore_js",
+    "label": "Underscore.js"
+  },
+  {
+    "value": "uptimerobot",
+    "label": "UptimeRobot"
+  },
+  {
+    "value": "urql",
+    "label": "URQL"
+  },
+  {
+    "value": "userguiding",
+    "label": "UserGuiding"
+  },
+  {
+    "value": "uxpin",
+    "label": "UXPin"
+  },
+  {
+    "value": "vagrant",
+    "label": "Vagrant"
+  },
+  {
+    "value": "vagrant_enterprise",
+    "label": "Vagrant Enterprise"
+  },
+  {
+    "value": "varnish",
+    "label": "Varnish"
+  },
+  {
+    "value": "vault",
+    "label": "Vault"
+  },
+  {
+    "value": "vault_enterprise",
+    "label": "Vault Enterprise"
+  },
+  {
+    "value": "vcloud_director",
+    "label": "vCloud Director"
+  },
+  {
+    "value": "vector",
+    "label": "Vector"
+  },
+  {
+    "value": "veeam",
+    "label": "Veeam"
+  },
+  {
+    "value": "vercel",
+    "label": "Vercel"
+  },
+  {
+    "value": "vercel_functions",
+    "label": "Vercel Functions"
+  },
+  {
+    "value": "victoriametrics",
+    "label": "VictoriaMetrics"
+  },
+  {
+    "value": "victorops",
+    "label": "VictorOps"
+  },
+  {
+    "value": "vim",
+    "label": "Vim"
+  },
+  {
+    "value": "virtual_environments_venv_pipenv",
+    "label": "Virtual Environments (venv, pipenv)"
+  },
+  {
+    "value": "virtual_private_cloud_vpc",
+    "label": "Virtual Private Cloud (VPC)"
+  },
+  {
+    "value": "virtual_servers",
+    "label": "Virtual Servers"
+  },
+  {
+    "value": "virtualbox",
+    "label": "VirtualBox"
+  },
+  {
+    "value": "vision_ai",
+    "label": "Vision AI"
+  },
+  {
+    "value": "visual_basic",
+    "label": "Visual Basic"
+  },
+  {
+    "value": "visual_studio_code",
+    "label": "Visual Studio Code"
+  },
+  {
+    "value": "visualforce",
+    "label": "Visualforce"
+  },
+  {
+    "value": "visualsvn",
+    "label": "VisualSVN"
+  },
+  {
+    "value": "vivantio",
+    "label": "Vivantio"
+  },
+  {
+    "value": "vms_virtual_machines",
+    "label": "VMs (Virtual Machines)"
+  },
+  {
+    "value": "vmware_cloud",
+    "label": "VMware Cloud"
+  },
+  {
+    "value": "vmware_cloud_foundation",
+    "label": "VMware Cloud Foundation"
+  },
+  {
+    "value": "vmware_cloud_on_aws",
+    "label": "VMware Cloud on AWS"
+  },
+  {
+    "value": "vmware_developer_tools",
+    "label": "VMware Developer Tools"
+  },
+  {
+    "value": "vmware_tanzu",
+    "label": "VMware Tanzu"
+  },
+  {
+    "value": "vmware_tanzu_kubernetes_and_cloud_native_applications",
+    "label": "VMware Tanzu (Kubernetes and Cloud-Native Applications)"
+  },
+  {
+    "value": "vmware_vsphere",
+    "label": "VMware vSphere"
+  },
+  {
+    "value": "voice_recognition",
+    "label": "Voice Recognition"
+  },
+  {
+    "value": "vpc_virtual_private_cloud",
+    "label": "VPC (Virtual Private Cloud)"
+  },
+  {
+    "value": "vpc_network_security",
+    "label": "VPC Network Security"
+  },
+  {
+    "value": "vpc_service_controls",
+    "label": "VPC Service Controls"
+  },
+  {
+    "value": "vsan",
+    "label": "vSAN"
+  },
+  {
+    "value": "vsphere_cli",
+    "label": "vSphere CLI"
+  },
+  {
+    "value": "vue_js",
+    "label": "Vue.js"
+  },
+  {
+    "value": "vuetify",
+    "label": "Vuetify"
+  },
+  {
+    "value": "vuex",
+    "label": "Vuex"
+  },
+  {
+    "value": "vultr",
+    "label": "Vultr"
+  },
+  {
+    "value": "waf_web_application_firewall",
+    "label": "WAF (Web Application Firewall)"
+  },
+  {
+    "value": "walkme",
+    "label": "WalkMe"
+  },
+  {
+    "value": "wasabi",
+    "label": "Wasabi"
+  },
+  {
+    "value": "waterline",
+    "label": "Waterline"
+  },
+  {
+    "value": "watson_assistant_conversational_ai",
+    "label": "Watson Assistant (Conversational AI)"
+  },
+  {
+    "value": "watson_discovery_data_insights",
+    "label": "Watson Discovery (Data Insights)"
+  },
+  {
+    "value": "watson_machine_learning",
+    "label": "Watson Machine Learning"
+  },
+  {
+    "value": "watson_studio",
+    "label": "Watson Studio"
+  },
+  {
+    "value": "web_application_firewall_waf",
+    "label": "Web Application Firewall (WAF)"
+  },
+  {
+    "value": "web_security_scanner",
+    "label": "Web Security Scanner"
+  },
+  {
+    "value": "webflow",
+    "label": "Webflow"
+  },
+  {
+    "value": "webpack",
+    "label": "Webpack"
+  },
+  {
+    "value": "webstorm",
+    "label": "WebStorm"
+  },
+  {
+    "value": "wercker",
+    "label": "Wercker"
+  },
+  {
+    "value": "whatfix",
+    "label": "Whatfix"
+  },
+  {
+    "value": "whimsical",
+    "label": "Whimsical"
+  },
+  {
+    "value": "windows_presentation_foundation_wpf",
+    "label": "Windows Presentation Foundation (WPF)"
+  },
+  {
+    "value": "wireshark",
+    "label": "Wireshark"
+  },
+  {
+    "value": "wix",
+    "label": "Wix"
+  },
+  {
+    "value": "woocommerce",
+    "label": "WooCommerce"
+  },
+  {
+    "value": "wordpress",
+    "label": "WordPress"
+  },
+  {
+    "value": "wrike",
+    "label": "Wrike"
+  },
+  {
+    "value": "x_ray_distributed_tracing",
+    "label": "X-Ray (Distributed Tracing)"
+  },
+  {
+    "value": "xamarin_cross_platform_development",
+    "label": "Xamarin (Cross-Platform Development)"
+  },
+  {
+    "value": "xcode",
+    "label": "Xcode"
+  },
+  {
+    "value": "xen_project",
+    "label": "Xen Project"
+  },
+  {
+    "value": "xmatters",
+    "label": "xMatters"
+  },
+  {
+    "value": "xmind",
+    "label": "XMind"
+  },
+  {
+    "value": "xstate",
+    "label": "XState"
+  },
+  {
+    "value": "yii",
+    "label": "Yii"
+  },
+  {
+    "value": "zabbix",
+    "label": "Zabbix"
+  },
+  {
+    "value": "zend_framework",
+    "label": "Zend Framework"
+  },
+  {
+    "value": "zendesk",
+    "label": "Zendesk"
+  },
+  {
+    "value": "zenoss",
+    "label": "Zenoss"
+  },
+  {
+    "value": "zeppelin",
+    "label": "Zeppelin"
+  },
+  {
+    "value": "zeromq",
+    "label": "ZeroMQ"
+  },
+  {
+    "value": "zerto",
+    "label": "Zerto"
+  },
+  {
+    "value": "zipkin",
+    "label": "Zipkin"
+  },
+  {
+    "value": "zoho_desk",
+    "label": "Zoho Desk"
+  },
+  {
+    "value": "zookeeper",
+    "label": "Zookeeper"
+  },
+  {
+    "value": "zustand",
+    "label": "Zustand"
+  }
+]

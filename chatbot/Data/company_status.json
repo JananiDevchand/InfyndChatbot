@@ -1,0 +1,20 @@
+[
+  {
+    "company_status": "Active"
+  },
+  {
+    "company_status": "Liquidation"
+  },
+  {
+    "company_status": "Open"
+  },
+  {
+    "company_status": "Other"
+  },
+  {
+    "company_status": "Private Limited"
+  },
+  {
+    "company_status": "Registered"
+  }
+]

@@ -1,0 +1,7 @@
+[
+    { "label": "CRN", "value": "registration_number_1" },
+    { "label": "Company Email", "value": "company_email_flag" },
+    { "label": "Company Phone", "value": "phone_flag" },
+    { "label": "Mailable", "value": "mailable_flag" }
+  ]
+  

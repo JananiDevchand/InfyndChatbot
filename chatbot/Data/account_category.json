@@ -1,0 +1,47 @@
+[
+  {
+    "account_category": "Audit Exemption Subsidiary"
+  },
+  {
+    "account_category": "Audited Abridged"
+  },
+  {
+    "account_category": "Dormant"
+  },
+  {
+    "account_category": "Filing Exemption Subsidiary"
+  },
+  {
+    "account_category": "Full"
+  },
+  {
+    "account_category": "Group"
+  },
+  {
+    "account_category": "Interim"
+  },
+  {
+    "account_category": "Medium"
+  },
+  {
+    "account_category": "Micro Entity"
+  },
+  {
+    "account_category": "No Accounts Type Available"
+  },
+  {
+    "account_category": "Null"
+  },
+  {
+    "account_category": "Small"
+  },
+  {
+    "account_category": "Total Exemption Full"
+  },
+  {
+    "account_category": "Total Exemption Small"
+  },
+  {
+    "account_category": "Unaudited Abridged"
+  }
+]

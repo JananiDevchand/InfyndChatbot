@@ -1,0 +1,6 @@
+[
+    { "label": "Emailable", "value": "company_email_flag" },
+    { "label": "Phonable", "value": "phone_flag" },
+    { "label": "Mailable", "value": "mailable_flag" }
+  ]
+  

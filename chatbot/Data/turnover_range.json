@@ -1,0 +1,41 @@
+[
+  {
+    "turnover_range": "Upto 100K"
+  },
+  {
+    "turnover_range": "100K to 250K"
+  },
+  {
+    "turnover_range": "500K to 1M"
+  },
+  {
+    "turnover_range": "250K to 500K"
+  },
+  {
+    "turnover_range": "1M to 2.5M"
+  },
+  {
+    "turnover_range": "5M to 10M"
+  },
+  {
+    "turnover_range": "2.5M to 5M"
+  },
+  {
+    "turnover_range": "25M to 50M"
+  },
+  {
+    "turnover_range": "50M to 100M"
+  },
+  {
+    "turnover_range": "100M to 500M"
+  },
+  {
+    "turnover_range": "10M to 25M"
+  },
+  {
+    "turnover_range": "1B+"
+  },
+  {
+    "turnover_range": "500M to 1B"
+  }
+]

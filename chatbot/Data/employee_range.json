@@ -1,0 +1,35 @@
+[
+  {
+    "employee_range": "Uncategorised"
+  },
+  {
+    "employee_range": "1 to 5"
+  },
+  {
+    "employee_range": "6 to 10"
+  },
+  {
+    "employee_range": "20 to 49"
+  },
+  {
+    "employee_range": "11 to 19"
+  },
+  {
+    "employee_range": "50 to 99"
+  },
+  {
+    "employee_range": "100 to 199"
+  },
+  {
+    "employee_range": "200 to 499"
+  },
+  {
+    "employee_range": "1000 to 5000"
+  },
+  {
+    "employee_range": "500 to 999"
+  },
+  {
+    "employee_range": "5000+"
+  }
+]

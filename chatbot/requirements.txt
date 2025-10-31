@@ -1,0 +1,36 @@
+# ---- Core ----
+flask
+flask-cors
+python-dotenv
+
+# ---- LangChain ecosystem ----
+langchain
+langchain-core
+langchain-community
+langchain-pinecone
+langchain-groq
+
+# ---- Embeddings ----
+sentence-transformers
+transformers
+torch==2.2.2+cpu
+accelerate
+
+# ---- Vector DB ----
+faiss-cpu
+pinecone-client
+
+# ---- MongoDB ----
+pymongo
+
+# ---- Utilities ----
+numpy
+pandas
+tqdm
+requests
+
+# ---- JSON & Data Handling ----
+ujson
+
+# ---- Optional (for HTML templates) ----
+jinja2
